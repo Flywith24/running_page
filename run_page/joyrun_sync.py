@@ -22,9 +22,7 @@ from generator import Generator
 
 from utils import adjust_time
 
-
-def get_md5_data(data):
-    return md5(str(data).encode("utf-8")).hexdigest().upper()
+get_md5_data = lambda data: md5(str(data).encode("utf-8")).hexdigest().upper()
 
 
 def download_joyrun_gpx(gpx_data, joyrun_id):
@@ -33,8 +31,8 @@ def download_joyrun_gpx(gpx_data, joyrun_id):
         file_path = os.path.join(GPX_FOLDER, str(joyrun_id) + ".gpx")
         with open(file_path, "w") as fb:
             fb.write(gpx_data)
-    except Exception as e:
-        print(f"wrong id {joyrun_id}: {e}")
+    except:
+        print(f"wrong id {joyrun_id}")
         pass
 
 
@@ -138,9 +136,7 @@ class Joyrun:
         self.session.headers.update({"ypcookie": loginCookie})
         self.session.cookies.clear()
         self.session.cookies.set("ypcookie", quote(loginCookie).lower())
-        self.session.headers.update(
-            self.device_info_headers
-        )  # 更新设备信息中的 uid 字段
+        self.session.headers.update(self.device_info_headers)  # 更新设备信息中的 uid 字段
 
     def login_by_phone(self):
         params = {
@@ -374,8 +370,8 @@ class Joyrun:
             heart_rate_list = (
                 eval(run_data["heartrate"]) if run_data["heartrate"] else None
             )
-        except Exception as e:
-            print(f"Heart Rate: can not eval for {run_data['heartrate']}: {e}")
+        except:
+            print(f"Heart Rate: can not eval for {run_data['heartrate']}")
 
         heart_rate = None
         if heart_rate_list:

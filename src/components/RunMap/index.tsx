@@ -1,15 +1,10 @@
 import MapboxLanguage from '@mapbox/mapbox-gl-language';
-import React, { useRef, useCallback, useState, useEffect } from 'react';
-import Map, {
-  Layer,
-  Source,
-  FullscreenControl,
-  NavigationControl,
-  MapRef,
-} from 'react-map-gl';
-import { MapInstance } from 'react-map-gl/src/types/lib';
+import React, {useRef, useCallback, useState, useEffect} from 'react';
+import Map, {Layer, Source, FullscreenControl, NavigationControl, MapRef} from 'react-map-gl';
+import {MapInstance} from "react-map-gl/src/types/lib";
 import useActivities from '@/hooks/useActivities';
 import {
+  MAP_LAYER_LIST,
   IS_CHINESE,
   ROAD_LABEL_DISPLAY,
   MAPBOX_TOKEN,
@@ -20,24 +15,15 @@ import {
   MAP_HEIGHT,
   PRIVACY_MODE,
   LIGHTS_ON,
-  MAP_TILE_STYLE,
-  MAP_TILE_VENDOR,
-  MAP_TILE_ACCESS_TOKEN,
 } from '@/utils/const';
-import {
-  Coordinate,
-  IViewState,
-  geoJsonForMap,
-  getMapStyle,
-  isTouchDevice,
-} from '@/utils/utils';
+import { Coordinate, IViewState, geoJsonForMap } from '@/utils/utils';
 import RunMarker from './RunMarker';
 import RunMapButtons from './RunMapButtons';
 import styles from './style.module.css';
 import { FeatureCollection } from 'geojson';
 import { RPGeometry } from '@/static/run_countries';
 import './mapbox.css';
-import LightsControl from '@/components/RunMap/LightsControl';
+import LightsControl from "@/components/RunMap/LightsControl";
 
 interface IRunMapProps {
   title: string;
@@ -59,47 +45,30 @@ const RunMap = ({
   const { countries, provinces } = useActivities();
   const mapRef = useRef<MapRef>();
   const [lights, setLights] = useState(PRIVACY_MODE ? false : LIGHTS_ON);
-  const keepWhenLightsOff = ['runs2'];
-  const mapStyle = getMapStyle(
-    MAP_TILE_VENDOR,
-    MAP_TILE_STYLE,
-    MAP_TILE_ACCESS_TOKEN
-  );
-
+  const keepWhenLightsOff = ['runs2']
   function switchLayerVisibility(map: MapInstance, lights: boolean) {
     const styleJson = map.getStyle();
-    styleJson.layers.forEach((it: { id: string }) => {
+    styleJson.layers.forEach((it: { id: string; }) => {
       if (!keepWhenLightsOff.includes(it.id)) {
-        if (lights) map.setLayoutProperty(it.id, 'visibility', 'visible');
-        else map.setLayoutProperty(it.id, 'visibility', 'none');
+        if (lights)
+          map.setLayoutProperty(it.id, 'visibility', 'visible');
+        else
+          map.setLayoutProperty(it.id, 'visibility', 'none');
       }
-    });
+    })
   }
   const mapRefCallback = useCallback(
     (ref: MapRef) => {
       if (ref !== null) {
         const map = ref.getMap();
         if (map && IS_CHINESE) {
-          map.addControl(new MapboxLanguage({ defaultLanguage: 'zh-Hans' }));
+            map.addControl(new MapboxLanguage({defaultLanguage: 'zh-Hans'}));
         }
         // all style resources have been downloaded
         // and the first visually complete rendering of the base style has occurred.
-        // it's odd. when use style other than mapbox, the style.load event is not triggered.Add commentMore actions
-        // so I use data event instead of style.load event and make sure we handle it only once.
-        map.on('data', (event) => {
-          if (event.dataType !== 'style' || mapRef.current) {
-            return;
-          }
+        map.on('style.load', () => {
           if (!ROAD_LABEL_DISPLAY) {
-            const layers = map.getStyle().layers;
-            const labelLayerNames = layers
-              .filter(
-                (layer: any) =>
-                  (layer.type === 'symbol' || layer.type === 'composite') &&
-                  layer.layout.text_field !== null
-              )
-              .map((layer: any) => layer.id);
-            labelLayerNames.forEach((layerId) => {
+            MAP_LAYER_LIST.forEach((layerId) => {
               map.removeLayer(layerId);
             });
           }
@@ -124,10 +93,10 @@ const RunMap = ({
   const isBigMap = (viewState.zoom ?? 0) <= 3;
   if (isBigMap && IS_CHINESE) {
     // Show boundary and line together, combine geoData(only when not combine yet)
-    if (geoData.features.length === initGeoDataLength) {
+    if(geoData.features.length === initGeoDataLength){
       geoData = {
-        type: 'FeatureCollection',
-        features: geoData.features.concat(geoJsonForMap().features),
+          "type": "FeatureCollection",
+          "features": geoData.features.concat(geoJsonForMap().features)
       };
     }
   }
@@ -145,12 +114,9 @@ const RunMap = ({
     [endLon, endLat] = points[points.length - 1];
   }
   let dash = USE_DASH_LINE && !isSingleRun && !isBigMap ? [2, 2] : [2, 0];
-  const onMove = React.useCallback(
-    ({ viewState }: { viewState: IViewState }) => {
-      setViewState(viewState);
-    },
-    []
-  );
+  const onMove = React.useCallback(({ viewState }: { viewState: IViewState }) => {
+    setViewState(viewState);
+  }, []);
   const style: React.CSSProperties = {
     width: '100%',
     height: MAP_HEIGHT,
@@ -179,9 +145,8 @@ const RunMap = ({
       {...viewState}
       onMove={onMove}
       style={style}
-      mapStyle={mapStyle}
+      mapStyle="mapbox://styles/mapbox/dark-v10"
       ref={mapRefCallback}
-      cooperativeGestures={isTouchDevice()}
       mapboxAccessToken={MAPBOX_TOKEN}
     >
       <RunMapButtons changeYear={changeYear} thisYear={thisYear} />
@@ -191,6 +156,7 @@ const RunMap = ({
           type="fill"
           paint={{
             'fill-color': PROVINCE_FILL_COLOR,
+            'fill-opacity': 0.2,
           }}
           filter={filterProvinces}
         />
@@ -200,7 +166,7 @@ const RunMap = ({
           paint={{
             'fill-color': COUNTRY_FILL_COLOR,
             // in China, fill a bit lighter while already filled provinces
-            'fill-opacity': ['case', ['==', ['get', 'name'], '中国'], 0.1, 0.5],
+            'fill-opacity': ["case", ["==", ["get", "name"], '中国'], 0.1, 0.5],
           }}
           filter={filterCountries}
         />
@@ -211,8 +177,7 @@ const RunMap = ({
             'line-color': ['get', 'color'],
             'line-width': isBigMap && lights ? 1 : 2,
             'line-dasharray': dash,
-            'line-opacity':
-              isSingleRun || isBigMap || !lights ? 1 : LINE_OPACITY,
+            'line-opacity': isSingleRun || isBigMap || !lights ? 1 : LINE_OPACITY,
             'line-blur': 1,
           }}
           layout={{
@@ -230,13 +195,9 @@ const RunMap = ({
         />
       )}
       <span className={styles.runTitle}>{title}</span>
-      <FullscreenControl style={fullscreenButton} />
-      {!PRIVACY_MODE && <LightsControl setLights={setLights} lights={lights} />}
-      <NavigationControl
-        showCompass={false}
-        position={'bottom-right'}
-        style={{ opacity: 0.3 }}
-      />
+      <FullscreenControl style={fullscreenButton}/>
+      {!PRIVACY_MODE && <LightsControl setLights={setLights} lights={lights}/>}
+      <NavigationControl showCompass={false} position={'bottom-right'} style={{opacity: 0.3}}/>
     </Map>
   );
 };

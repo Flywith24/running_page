@@ -3,24 +3,25 @@ import React from 'react';
 import { Helmet } from 'react-helmet-async';
 import Header from '@/components/Header';
 import useSiteMetadata from '@/hooks/useSiteMetadata';
+import styles from './style.module.css';
 
 const Layout = ({ children }: React.PropsWithChildren) => {
-  const { siteTitle, description } = useSiteMetadata();
+  const { siteTitle, description, keywords } = useSiteMetadata();
 
   return (
     <>
-      <Helmet>
-        <html lang="en" data-theme="dark" />
+      <Helmet bodyAttributes={{ class: styles.body }}>
+        <html lang="en" />
         <title>{siteTitle}</title>
         <meta name="description" content={description} />
-        <meta name="keywords" content="running" />
+        <meta name="keywords" content={keywords} />
         <meta
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
       </Helmet>
       <Header />
-      <div className="mx-auto mb-16 max-w-7xl p-4 lg:flex lg:p-16">
+      <div className="mb-16 p-4 lg:flex lg:p-16">
         {children}
       </div>
     </>
