@@ -49,8 +49,6 @@ TYPE_DICT = {
     "flight": "Flight",
 }
 
-MAPPING_TYPE = ["Hike", "Ride", "Rowing", "Run", "Swim", "RoadTrip"]
-
 
 try:
     with open("config.yaml") as f:
@@ -110,15 +108,16 @@ TYPE_DICT = {
 }
 
 MAPPING_TYPE = [
-    # "Hike",
     "Ride",
+    "VirtualRide",
     "Run",
     "Trail Run",
     "Swim",
-    "RoadTrip",
-    "Kayaking",
-    "Snowboard",
-    "Ski",
+    "Hike",
+    # "RoadTrip",
+    # "Kayaking",
+    # "Snowboard",
+    # "Ski",
 ]
 
 STRAVA_GARMIN_TYPE_DICT = {

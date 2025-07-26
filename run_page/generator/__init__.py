@@ -1,4 +1,4 @@
-import datetime
+from datetime import datetime, timedelta
 import os
 import sys
 
@@ -167,7 +167,7 @@ class Generator:
             if self.only_run and activity.type != "Run":
                 continue
             # Determine running streak.
-            date = datetime.datetime.strptime(
+            date = datetime.strptime(
                 activity.start_date_local, "%Y-%m-%d %H:%M:%S"
             ).date()
             if last_date is None:
@@ -200,14 +200,14 @@ class Generator:
         for activity in activities:
             # Determine running streak.
             # if activity.type == "Run" or activity.type == "Walk":
-            date = datetime.datetime.strptime(
+            date = datetime.strptime(
                 activity.start_date_local, "%Y-%m-%d %H:%M:%S"
             ).date()
             if last_date is None:
                 streak = 1
             elif date == last_date:
                 pass
-            elif date == last_date + datetime.timedelta(days=1):
+            elif date == last_date + timedelta(days=1):
                 streak += 1
             else:
                 assert date > last_date
