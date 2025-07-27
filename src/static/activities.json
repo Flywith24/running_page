@@ -18046,5 +18046,21 @@
 "elevation_gain": 20.0,
 "source": "strava",
 "streak": 12
+},
+{
+"run_id": 15248198277,
+"name": "MyWhoosh - Endurance with max bursts",
+"distance": 163.8,
+"moving_time": "0:00:40",
+"type": "VirtualRide",
+"start_date": "2025-07-27 02:49:00+00:00",
+"start_date_local": "2025-07-27 10:49:00",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 109.0,
+"average_speed": 4.095,
+"elevation_gain": 1.0,
+"source": "strava",
+"streak": 1
 }
 ]
