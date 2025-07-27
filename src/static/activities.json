@@ -18048,6 +18048,22 @@
 "streak": 12
 },
 {
+"run_id": 15248327185,
+"name": "MyWhoosh - Endurance with max bursts",
+"distance": 8432.6,
+"moving_time": "0:51:00",
+"type": "VirtualRide",
+"start_date": "2025-07-27 02:35:11+00:00",
+"start_date_local": "2025-07-27 10:35:11",
+"location_country": "Kumia\u0142ka, gmina Jan\u00f3w, powiat sok\u00f3lski, \u6ce2\u5fb7\u62c9\u8c22\u7701, \u6ce2\u5170 / \u6ce2\u862d",
+"summary_polyline": "{g`eImgjmCuHiMWi@I_@CSCw@@g@?cH@QHc@FORUTKVCzI?VFHDTVRp@JjA?|Q@f@Hd@FNFLTPXBVAb@M`@W`@]P[`@y@\\c@XOVGhAMb@KVOHKL_@Dg@?eBAg@Ge@EQk@kAe@qAWgA[sBSs@q@_BKc@Ei@Ci@A_OGg@GOUWe@Qq@EoG?s@FKDKHKd@CbCGh@EPSZKHWDiB?g@FWTUt@INWPMBWBwB?YCMEIMg@uAIMKIMCYAYBYFWPUZERGh@Aj@ZbB`A`EJ~@?TK|@If@Up@Wb@UT_@JO@UCWQ[a@a@}@Yg@YY]KU@OD]Xc@t@[p@SXWROHW@[IGIKQESEo@D}PGe@EOSUMEQAK@QFMRIZIvBSp@Yh@ERCf@@jAFj@f@`BJz@@~@?~BCfCItAUtA_@jAUXMJWJQ@QAMEQMMOQe@Im@CS?m@BSHo@^_BDk@BUC{AE_AMeASkAk@eCUoAYmCAo@@eALe@LONMx@]VMT[FWBU?[Ee@ISMKQG[CgKFWBOHUZGh@@~@BPLZXTPBpB@\\BHBNTHf@Bj@ApPCd@G^K\\SXKHWHa@De@@aVJgS?e@Bc@La@XSZGNQt@Ef@C|@BzFPz@Tb@NJNDhADPDNPLTHZF\\D`AE~@G\\ELSVg@`@ORMZG|@AbAC^EZKXKTOLODa@BaE?u@CYIWOU[Ke@CQCi@?i@Bg@Nw@P[TMVIVCrAC`@GVI\\[Tk@Hw@?e@Iw@EOOYUS_@Qk@KuC?a@FUPEJQn@Gv@?hDHjDA|AGv@Mp@KZSPSLa@Fw@?SIKGGMEc@Dc@DOFKTKj@?VEHEFIN]Ha@@e@CkA@}DGw@EOGMIGKAI@KDGHGNEv@C~AI`@OVKFKByAA",
+"average_heartrate": 111.3,
+"average_speed": 2.756,
+"elevation_gain": 259.0,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 15248198277,
 "name": "MyWhoosh - Endurance with max bursts",
 "distance": 163.8,
