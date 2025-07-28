@@ -18094,5 +18094,37 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15259674428,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 1598.1,
+"moving_time": "0:19:45",
+"type": "Hike",
+"start_date": "2025-07-28 04:29:30+00:00",
+"start_date_local": "2025-07-28 12:29:30",
+"location_country": "\u6167\u5fe0\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100012, \u4e2d\u56fd",
+"summary_polyline": "o}asFo`meUNQZAd@T`@?He@?wKO_Ai@OcAGcAKgAEyCAnAC|@_Cd@OBsBGoA",
+"average_heartrate": 103.3,
+"average_speed": 1.349,
+"elevation_gain": 39.8,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 15261881282,
+"name": "\u508d\u665a\u6e38\u6cf3",
+"distance": 400.0,
+"moving_time": "0:30:14",
+"type": "Swim",
+"start_date": "2025-07-28 10:09:01+00:00",
+"start_date_local": "2025-07-28 18:09:01",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 130.9,
+"average_speed": 0.221,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 2
 }
 ]
