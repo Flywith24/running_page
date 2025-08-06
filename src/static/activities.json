@@ -18286,5 +18286,53 @@
 "elevation_gain": 55.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15347568869,
+"name": "MyWhoosh - Endurance with Short Sprints",
+"distance": 24874.4,
+"moving_time": "1:02:15",
+"type": "VirtualRide",
+"start_date": "2025-08-05 01:06:56+00:00",
+"start_date_local": "2025-08-05 09:06:56",
+"location_country": "Loma de Simon, Santa Cruz de Mompox, Isla de Momp\u00f3s, Bol\u00edvar, 132560, \u54e5\u4f26\u6bd4\u4e9a / \u54e5\u502b\u6bd4\u4e9e",
+"summary_polyline": "{{gw@nareMJ_@Bk@?aSAaI@cEEg@CIOOg@Ka@AmP?KAko@@MA[KSUKUE[Ck@@iNBKHGxL?XBTJLVBXDlJBJFHTJVBr]AVBDHBZ@pFA|@EXEHIHWF_E?OB[Pu@v@a@XQDiKDsH?[EUOaAcAUOKCcH?m@Co@?IBIFGd@?fJBd@HTb@Jrl@Cf@@p@HHDDJFb@BzO@p@Dd@Lb@Xh@|CtDh@l@JD\\UxBoB~F}E`@a@HKFQDc@?e@?kRA}H@iEEe@OWGEg@I]AkP?KAwo@@e@QIIQe@Ee@?}NAMGIyQC_AEcAIuA[}E_BoCs@wCg@{C]YGkAO}Bg@cCq@{@YcBu@sAs@sByAiAcAuA}Aq@aAg@{@_@y@iAuCo@sAa@o@k@q@q@i@u@e@qA}@{@s@eB_BwCyCmAaAuAcAeDoCsAiA}@aAcAyAsAiCs@qAy@iAgD{DoFwFy@aAu@_Ao@_As@sAUo@]mAKo@Iy@AiABcAXeBtAeFb@oBj@kDNsBA{AGeA[gCm@_EIeAAcA@m@PgBRu@Vs@t@kAnAoAdC{B`A_AtC{CzAuB\\q@Zw@Nm@Ho@HaBHiGLuAReBz@mEvCiMr@sCz@iCl@gA\\[VOVMd@K`AGlAUb@Qr@c@t@s@Ta@Pa@PcAB_@Aq@Im@Sw@Yu@k@gAMe@GeAEuHBkAJy@Nc@Ra@b@e@`@Wf@OZCf@Bd@LTLrBzA^\\d@l@j@bAt@dBl@lANV`@b@h@Xj@J\\Dh@@dAAf@Ir@Mz@]n@_@fBiAfDkCt@q@v@e@jBw@xGaCnDkAn@OzBWzBMtC?dABvBLpARxDz@vB^fAFtAE~@IrCc@lDw@fGcAfGu@XGvC_@zCe@xAY^KJAhCq@~Bg@t@MbAIlAArAJz@LfAXdA\\tIbD~Bl@jDv@zA\\F?VH~Ch@pBf@L@|Bp@x@ZjAn@xAbAv@p@dAdAtEvFbCbDtBxCxBnChBtBhBhBrBhBvAfAdC`BhCxAbAf@zAp@~B~@pHjCbE~AtCpAzBlAjBpAj@f@dBdBx@fAz@pAxApCfAjCh@|Ap@~BVbAZxA`@|BXhBV`CRdCJjCHdKG~F@zAHpBNtAL`@Zv@lCpEv@|A~@~Bp@lBlA`EbA~Dp@`Dr@zEXzCHfBBvBCrCGzAO`Ba@vCe@zB",
+"average_heartrate": 114.8,
+"average_speed": 6.66,
+"elevation_gain": 83.0,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 15348229837,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3628.1,
+"moving_time": "0:39:13",
+"type": "Hike",
+"start_date": "2025-08-05 04:19:40+00:00",
+"start_date_local": "2025-08-05 12:19:40",
+"location_country": "\u5b89\u6167\u5317\u8857, \u98d8\u4eae\u9633\u5149\u5e7f\u573a, \u5927\u5c6f\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100012, \u4e2d\u56fd",
+"summary_polyline": "qmbsFmrneUDf@@zAG~EDxDCx@JhKGb@wCRiBBoADsA?uAQC@CF?p@P~Bb@tExAxMVhCBb@Ch@SdBMj@KLIDiAJm@B}A?oAHmAAkHFoACWEMGIMI[CyCS_BE{@DuHMiBC_EDkA@gAFiBBUHKRM`@GfBAZC|@[n@EdCDvAC|CJ|BGpBFhAApCD|AHnAEv@@zCAJEHMH{@FQJKREK@w@IOIOQKQI_@Iu@E{@",
+"average_heartrate": 94.2,
+"average_speed": 1.542,
+"elevation_gain": 55.0,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 15359290701,
+"name": "\u508d\u665a\u6e38\u6cf3",
+"distance": 550.0,
+"moving_time": "0:33:08",
+"type": "Swim",
+"start_date": "2025-08-05 10:09:24+00:00",
+"start_date_local": "2025-08-05 18:09:24",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 138.2,
+"average_speed": 0.277,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 2
 }
 ]
