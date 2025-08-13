@@ -18574,5 +18574,21 @@
 "elevation_gain": 19.8,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 15427732402,
+"name": "MyWhoosh - Threshold #1",
+"distance": 28450.9,
+"moving_time": "1:00:13",
+"type": "VirtualRide",
+"start_date": "2025-08-12 01:14:35+00:00",
+"start_date_local": "2025-08-12 09:14:35",
+"location_country": "Loma de Simon, Santa Cruz de Mompox, Isla de Momp\u00f3s, Bol\u00edvar, 132560, \u54e5\u4f26\u6bd4\u4e9a / \u54e5\u502b\u6bd4\u4e9e",
+"summary_polyline": "}{gw@nareMJUDw@?}PAaK@eEC_@GUGG_@Mm@CmaA?MC[MQUK]C[?gO@MJG~L?f@JNXBZDhJ@LFJXJLBz]AN@JFD\\@`GE|@KZ[JyDAQ@_@RiAhA]NiKD_I?]MeAeAe@WwJE]DGNC^BfKBNHJ\\F~l@Cf@@d@DPTFb@BtOB`AFf@Tl@V^~DxEHBTOxJkIb@a@LQHSD]?m@?qb@Ei@GMIGg@Kk@CcaA?MCYMSUK]C_@?eOEOOCcQAaACaAIo@KkA[}EaB{Bi@kCe@oEg@{Co@{Bk@mDqAyBkAiAy@eA{@aBeBi@s@u@mAmCqGs@mA_@e@g@e@_C{A_BoAyFuFwDwCaDkCgBaBo@w@U_@cCqEkAiBqA}AoI_JeAoA_B{Bw@_B_@iAWyAI}ABoADg@RkAvAkFv@{DZaCH{A?aAK}AWsBq@iEGw@Ak@@iAHgAFa@\\qAVm@\\i@nAsAjD}C~DeEnAgBb@u@^{@T{@Dg@HqAJ_HHmAZ{Bx@kEnCmL|@oDb@sAVo@f@w@TYZS\\O^I`AG~@Ql@Sh@Yp@i@TWb@y@H]Jq@B]Aq@SoAc@iAo@sAI_@GaAEkIDgAR_A`@w@n@k@l@Un@E^Bx@\\hBpAd@b@`@f@b@t@lB`E^j@XZp@Xt@Jp@BbAA`AMl@QfAg@tBuAdEgDlA{@pBy@vGaCnDkAl@OlCYnBKnD?tBJ|AP~Bb@pCn@~@NbAFlACv@G~Cc@pEcAxBa@lDg@nIcAtEu@|Co@hCs@lCg@~@IpAAzAJ\\FtBf@fFjBxB|@`Bd@xHfBbHrArCv@nAd@dB`A|AjAhBfBtEtFxF~HfBzBzCfDzAzAtAlAnBvA|AdAjBfAjCpAnD|AlIvCbDnAlD|AxBjAhCjB`B~A\\`@pAfBz@xA~@hBt@hBl@bBt@`CXnA~@|EXhB^fDPnCF`CFbJExIFdBNnAZjANX~CnF^v@r@`BfA~ClAdElAxEj@zCn@pEVjCFhBBtCEfCObCWtBa@|Bo@nCy@pC{AlE}BhGsAdEe@hBe@zBuAbIc@rB]pAk@`Bm@nAu@jA_AjAgAfA_At@_FlDiCnBmBhBaBjBcFvGaBhB{BtB_DfCaDvCmBvB_CbD{AdBaCxBqA|@kAr@eCnAgBjAoAb@w@\\{A\\yAf@mB~AgAj@YHs@L[@wJC",
+"average_heartrate": 136.3,
+"average_speed": 7.875,
+"elevation_gain": 85.0,
+"source": "strava",
+"streak": 9
 }
 ]
