@@ -18910,5 +18910,21 @@
 "elevation_gain": 55.2,
 "source": "strava",
 "streak": 19
+},
+{
+"run_id": 15552751607,
+"name": "MyWhoosh - Endurance Ride",
+"distance": 11719.0,
+"moving_time": "0:48:57",
+"type": "VirtualRide",
+"start_date": "2025-08-23 01:09:40+00:00",
+"start_date_local": "2025-08-23 09:09:40",
+"location_country": "\u6797\u9053\u76c6\u5800\u7dda, \u6238\u5009, \u79cb\u7559\u91ce\u5e02, \u4e1c\u4eac\u90fd/\u6771\u4eac\u90fd, 190-0173, \u65e5\u672c",
+"summary_polyline": "{|{xEwtopYZW`@i@Rg@XcAFi@DaAIyAWkA[u@QYQUcAs@_ASoKAOC_R?m@D_@Fk@Ts@f@UVk@lAOp@Iv@?hBJdANp@Zx@\\`@j@f@p@ZL?t@L|E@lW?j@Ch@Mr@]j@i@\\k@N]V_ALgABcBPeAH]Na@`@u@h@k@b@Ud@Qt@IjF@|@LVRn@ZbA\\\\@x@Ax@[d@]l@m@v@mAR}@TmDRgBRq@NUZ[PKb@IZ?h@PRL^b@dAhBvA~Bj@t@RR`@RrAd@P@n@Xt@TNBh@PT@@BzA?FCp@EtDBf@El@KbA_@|@q@^s@Ns@ZyCVkANYRUf@O\\@^L\\TJLPb@|@jDR`@^d@RL|AZlBFd@Mx@q@z@cBx@iAvCeDb@o@\\YRYROVc@t@i@JEp@It@?~APf@PlAL|@@pCWVI`AIvBk@nAa@p@[rBqArAkAz@}@nCmDn@gAHGHQlC{DZi@HIhDgF`@q@h@uAZqALeADs@?gAEq@WoAg@sAc@s@{BkBu@kAm@cBQ}@QuACy@Bu@Ly@Ng@f@u@PQ|@]bAIh@Sd@a@NW^qA`@}BLgBAkBQkBw@cEC_AD]H]LYvAcBZm@JYHWHw@Bu@Aq@KkAa@gB]kAaB_Ea@mAMi@Ge@Ay@B}@H{@Hi@^oABCZs@^m@n@q@l@c@XIJKLAf@Q^Ib@AdB@`@HPHb@Fr@VL?TH`@Hd@@BBhA?BC\\AfAUr@]XS^a@zAiCTUjC}D^a@L?HJhCfDvA|A`@X`@Nn@DfAKf@SVCTQRCb@Yd@OHKNCTONEh@Yj@Mn@?j@VRXRj@DZ?`@ANOr@MX[j@u@bAKRE@MReBhBIB}@~@GJ]XY^g@|@Mn@Ad@Ff@J\\Vb@VR^N`@Fb@?j@G|@Ux@]HIJA^YJCRSFAr@o@DAhAmAFAHQHCR[B?RYFCHQFCPYDAvAgBFEn@o@LSFAX[^[JAVUF?p@[v@GbAF`Ad@f@h@LZB@L`@H~@@z@GdAQnAq@|BeAdCU\\s@bBEBq@hBYnAGn@Ct@@jAVnAVh@PTl@b@|@Tb@?XELKRCRORIl@q@p@cA",
+"average_heartrate": 106.0,
+"average_speed": 3.99,
+"elevation_gain": 282.0,
+"source": "strava",
+"streak": 20
 }
 ]
