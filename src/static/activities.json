@@ -19214,5 +19214,21 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 15700833472,
+"name": "MyWhoosh - Push and Pull #3",
+"distance": 40082.3,
+"moving_time": "1:19:24",
+"type": "VirtualRide",
+"start_date": "2025-09-04 23:32:45+00:00",
+"start_date_local": "2025-09-05 07:32:45",
+"location_country": "Florencia, Caquet\u00e1, RAP Amazon\u00eda, 180002, \u54e5\u4f26\u6bd4\u4e9a / \u54e5\u502b\u6bd4\u4e9e",
+"summary_polyline": "{~`IbhglMu@}@sAq@sBm@kF_A_D_Bq@m@]s@UoEYaAmCsBuC{@mGYwI?yARyAd@i@d@Yh@Q~@H`Ad@z@dAp@fA\\r@F~DMtAHfA^h@d@f@nAKrA{@bBWRy@V}A@eEc@{@FeEfAuAIcB_A_E_Da@w@m@{C{@gAk@_@_Bk@cAGeBD}Ab@i@Z_@d@Yz@QnA_@fINnERf@\\\\xBbAv@FbDMrB^pCpBbAjAj@vAP`BPlIEtFi@`Cq@lAiAp@wAPeACmA_@oAaAmBqBy@c@eBKaB^aB`A}@hAe@bAc@pC@fALx@d@jA|@nAnBxAlB|@bJbCxJtBd@AhDqNtAwD|@eAh@WpC]hBs@jAeAf@iAPsAGsA]qAcAwBMq@GyKJgAh@kAb@e@lAg@t@?n@RxCvBdArAjB|DbAvAdA`@xAJjBK`Be@pCaBdHmFfJiD~FiBlFa@lE?vDVjI`BtAH|BIjOmCfReCxDq@hJqBhCCnCZ~MvEbVfFjEdBpDlCbErEdNjQ|D`EhDpCxCnBlE|BhEhBhMpE~G|CfC`BnBdBdBnBz@tAdBbD`ClGlA`F~@|Fp@nIJbLEbJXvDd@vApE~HpC|HvCrLpAnJL|EEbE[xDw@nEmArEwHjTeA`EmBvK}@lDy@tB_A`ByCdDaJtG{ChCoKlMcC`CkJbI_CjCmCnDwBzBqCtB{HlEoH~BqB|AmAl@cB\\}^AeHj@gE?uAQmAc@kB{A{KsM[cBAmPC_@Q]sBMok@Bq@KGMCs@?uIJq@bKC\\FtBdBpUE`CiBdEAf@ON_AAcHOUKAo^AWIKYEmJYo@g@Gcc@KiBWgGoByCu@qNwBmFaBoB{@_DwBkDqDgAgBoCoG}AuBeEsCeHwG}L}JsAeBkC}EgA{A}NcPiByCs@}BWgCF_ClC{Kh@}CR}BIeDsAeK?kBV}BZaAz@yAjLcLzAqBv@{Ab@yBR}Id@mEvEySlBiGj@_Al@c@`A[|BWtAk@|@u@r@qAPoA?eAUmAkAgCQ{@K_JDaBNu@b@}@f@e@`Aa@b@AtAZvA`ArAnAxC|F|@jAv@\\dCL|B[pB}@vJiHjKyDxEwAnFa@vGDpCXdHxAfCHlCUpNkCrRgCrLiClDSlEh@zLlEzG~AdKpBhErA`CpAxChChFhG`JrLlDvDdDzCzGlEjEtB~Q~GvFdC|A|@lCpBdBdBxAnBfCzExAvDtAfFlA~Gt@vIJpLE~IZbEj@zArDlGlCdH",
+"average_heartrate": 141.0,
+"average_speed": 8.414,
+"elevation_gain": 152.0,
+"source": "strava",
+"streak": 3
 }
 ]
