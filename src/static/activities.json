@@ -20014,5 +20014,53 @@
 "elevation_gain": 16.6,
 "source": "strava",
 "streak": 22
+},
+{
+"run_id": 15927748947,
+"name": "MyWhoosh - Zone 2 Endurance 30min",
+"distance": 29620.0,
+"moving_time": "0:59:26",
+"type": "VirtualRide",
+"start_date": "2025-09-25 01:08:39+00:00",
+"start_date_local": "2025-09-25 09:08:39",
+"location_country": "\u0627\u0644\u0642\u0648\u0639, \u0627\u0644\u0639\u064a\u0646, \u963f\u5e03\u624e\u6bd4\u914b\u957f\u56fd, \u963f\u62c9\u4f2f\u8054\u5408\u914b\u957f\u56fd",
+"summary_polyline": "g`qmCmlrnIr@jBNr@BdBQbA_ApAmDjDw@j@u@PeAEq@WwBiB}AgA_BeAoBcAaDkAoEmAwAQgADu@TiBrAo@x@gAbBgAtBy@rB_@fAk@zBSnAQrBKbBAtBTnFXpBf@`C\\lAXh@jArAfWdUrr@zn@vFbFdBnAv@\\hAXtEn@dd@`D`XtB`EX`B?f@O`@W|@_A`@_AJm@@k@ImBo@cGmFkq@}C__@H[x@o@Za@Vg@Pi@Jk@F{@?_AGm@[gAc@s@k@g@wA{@i@o@U}@]gEQsA[qA]mAc@iAqAmCoAgBaBaB}C}BsCcB_Bm@mAQwA?iBZ_Br@cAv@k@r@mA`CeAzAk@l@}@p@sAj@cCh@kAL{BAkAMy@Sy@]yA_AuAoAiD{EeAkA{BkByBkAyCkA_Dy@yCS}@Bm@Lg@X[h@On@Cv@VrAxChIR`ADdAEp@Qp@q@~@}EvEs@Xw@B[Cs@WyCcCgEoCcBw@_C{@_D}@kB_@aB?kA^cBrA{AtBaB|Cw@pBu@dCY|AWnBM`BEbBDdDVvDj@zCd@lB^t@r@|@fXbVlv@lr@dDrC`Aj@zBr@hEl@tTzA~i@dEdDPjAG~@k@|@gAN]No@BsAQcCg@wEwFes@sCs\\B_@lAiAn@oANk@J_A?_AEo@Q}@]w@cAaAyA}@g@s@SaA]kE_@uBw@mCm@wA}@cBo@aAu@{@yAuA_BmAaDmBoB}@{AUuA?u@JeAVmAj@oAbA_@f@eAtBcAzAk@n@}@r@}Ar@cCh@wBNkAA{@KuA[w@]cBiA{A{AqBwCmA}A{BmBsBmA_DuAyC{@wAS{AG}@@k@Ji@V]d@Ql@Er@Fr@Nn@zClINn@FrAEp@W|@s@z@}C|Cy@r@y@Xy@?eAY_CoBiEsCqDaBmC}@mD}@yAGk@Di@NaBfA{AhB}@zA_AlBuAxDc@dBSjA[pDGdDJdDZbDX|A^zA`@hAz@jAnWlUhs@no@nFzE`BlAnAj@dATdBZfCVzN`Avm@vEbERz@Ch@Sb@]`@c@\\g@ZkABmAO{Bk@eF_Fsn@iDoa@HY~@y@`@k@Re@Pw@Jw@?yAUqAc@}@{@{@q@]u@m@a@q@Mk@e@{Fq@wC",
+"average_heartrate": 126.7,
+"average_speed": 8.306,
+"elevation_gain": 22.0,
+"source": "strava",
+"streak": 23
+},
+{
+"run_id": 15928343185,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3603.7,
+"moving_time": "0:37:28",
+"type": "Hike",
+"start_date": "2025-09-25 04:17:20+00:00",
+"start_date_local": "2025-09-25 12:17:20",
+"location_country": "\u6167\u5fe0\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100012, \u4e2d\u56fd",
+"summary_polyline": "qebsFiimeUFrAXrEDlBGjBCzABjDAdBANOl@o@^_AFmMXmA@QGw@@eACsBBy@DaBBaC?}@Cw@@s@C{@@QCQSKWEYB_BAi@EYQm@KkA@ULq@FqBEuACcAQ{AB{AI_BP_A@sDBWHUFEFAh@Az@Kn@DXANE\\Sj@GlC?v@DdA?dAFpEEnABbA?x@B`A?nADpCBh@ArAGR@VHZ?NIFOBi@E_@PGXGKCCGi@?[EUSEKGe@GiB",
+"average_heartrate": 93.7,
+"average_speed": 1.603,
+"elevation_gain": 57.8,
+"source": "strava",
+"streak": 23
+},
+{
+"run_id": 15930524366,
+"name": "\u508d\u665a\u6e38\u6cf3",
+"distance": 475.0,
+"moving_time": "0:33:35",
+"type": "Swim",
+"start_date": "2025-09-25 10:07:18+00:00",
+"start_date_local": "2025-09-25 18:07:18",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 117.1,
+"average_speed": 0.236,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 23
 }
 ]
