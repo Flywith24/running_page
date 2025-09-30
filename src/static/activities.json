@@ -20190,5 +20190,21 @@
 "elevation_gain": 17.6,
 "source": "strava",
 "streak": 27
+},
+{
+"run_id": 15981973574,
+"name": "MyWhoosh - Active Recovery",
+"distance": 6469.0,
+"moving_time": "0:48:17",
+"type": "VirtualRide",
+"start_date": "2025-09-30 00:59:40+00:00",
+"start_date_local": "2025-09-30 08:59:40",
+"location_country": "Badajos, Codaj\u00e1s, Regi\u00e3o Geogr\u00e1fica Imediata de Coari, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Manaus, \u4e9a\u9a6c\u5b59\u5dde, \u5df4\u897f\u5317\u90e8, \u5df4\u897f",
+"summary_polyline": "~cwObvgbKeBa@gBYaAK_A@{@RyAh@uCrA_Bp@kAVYBY?g@Gg@Mq@UqEmBkAc@aAUYCY?_AJcAX_Ab@{CdBm@Xo@RWHq@Hs@?o@AsAQaAYu@WgAg@eJyE_C}@u@UsAUs@IcA?qAJyAZmBp@qCrAiBt@cDhA{Bl@kATgBRy@DgB?}BGsBMkAQK?oDk@eAY_A[oEoB}@]gBg@I?e@Iu@E_B?oBJaE\\}AFuA?gBMgAMMEI?eBWy@SoASIEqB_@i@Cm@?]@m@FgB^wA`@qBp@uA^aBZkBl@cA`@{At@kBdAuA|@cAh@oAj@eA\\}A`@qCf@K?{@JoA@c@AkAKwBc@aCq@wDsAcB{@cAm@sByAyCaCcBeAoB{@eBg@gASy@I{@Eu@?w@D{@HkB\\mBb@",
+"average_heartrate": 124.3,
+"average_speed": 2.233,
+"elevation_gain": 438.0,
+"source": "strava",
+"streak": 28
 }
 ]
