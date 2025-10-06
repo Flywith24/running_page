@@ -20254,5 +20254,21 @@
 "elevation_gain": 51.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16036838647,
+"name": "MyWhoosh - Lactate Threshold #1",
+"distance": 31618.8,
+"moving_time": "1:02:13",
+"type": "VirtualRide",
+"start_date": "2025-10-05 03:45:51+00:00",
+"start_date_local": "2025-10-05 11:45:51",
+"location_country": "\u063a\u062f\u064a\u0631 \u0628\u0631\u0627\u0634\u064a, \u8fea\u62dc\u914b\u957f\u56fd, \u963f\u62c9\u4f2f\u8054\u5408\u914b\u957f\u56fd",
+"summary_polyline": "_rmvC}fppI_@oF_AqUWoDwA_J_AsHSqAy@cDoCyHI[@[p@wA|AcCt@q@PYJkAH_EPsC`@aI?aADUZ]p@Yt@?bAHnDWjBCl@IdG}Cp@a@\\[JQFSAo@Qy@cA{Ba@iAIm@Hm@Xc@d@Q|BIh@IXMtAmAd@Qr@ErANnA]dAB`o@?xACzADnBV~BPr@Nn@XnD`CdD`BzAj@|AXv@Tz@t@nDrEXPj@LlA@vBSru@_DrPi@r@@p@Jn@PnAd@l@ZfAt@r@p@l@r@n@`At@tAr@bB`@vAv@pFb@hB|@bCfB~Dp@lBbA~BXjA?j@If@S^[Xo@ZaCx@aRvHgn@jVaLbEgTrHwJnDuVvH}EpAyDv@yTfDmB`@}CfAuEtBkH|D{CxBo@Rq@BuBOo@B[RYVo@hAMLm@XgG`BsBb@gBTeA?EQAyEMuEUiDy@yIi@{Gq@kPMqDQqCe@mDcAiGw@uG[cBq@iCgCcHOy@F_@`@w@nB{Cr@q@N_@HmADeDTcD^iI?w@DQJOZUp@ShBJb@AnCU~BEb@KdG_DfAy@JODQ?i@Ie@Mc@oAqCYeAAQBe@P]VWp@MdBEp@M\\SbA}@n@WfACdAJ~@[pABdo@?xACxAFfBTpBNd@Ff@Nn@XpCnBhDdBjBr@jB\\d@P`@Vh@j@xCzDn@^t@Jt@?~BShv@aDvOg@xAJbATlAd@x@d@t@h@n@l@r@x@z@rA\\n@v@fB^nAVxA`@rCb@tBv@vBdB`Ez@`CnAvCNp@Bb@Ed@Wl@c@^i@V{Bv@gYhLgh@jSu^nMeLdEmVtHgG~AcF~@cTbDkAXcDjA_F|ByGrDcBrAu@b@]Jo@DiCQ]BYJa@^i@bAKHs@b@sIzBkBZ}AHOCEMA{FM}D[eEeAkLSoC[yGi@_OUsCU_BiAcHw@kG[qBy@_DkCmHGa@?ODOz@}AvAyBp@k@N]HcAFyDV{D\\sH@s@DQHMZSj@S`@ApAJrDWpBE`@GtBgAbCkArA}@TYFO?e@Ea@Y_AoAuCQo@Aa@@OL]TWXO\\ElAA|@Ih@Wz@y@f@YnAKlALz@YLApABxr@AtAJdE`@fAVx@`@zB~AhDfBxBz@dBXp@VZVp@t@nCnDd@Xl@LhAAhBO`EM`k@gCpUu@j@@l@HrBl@rAp@dBvA",
+"average_heartrate": 142.6,
+"average_speed": 8.47,
+"elevation_gain": 57.0,
+"source": "strava",
+"streak": 2
 }
 ]
