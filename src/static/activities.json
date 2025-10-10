@@ -20366,5 +20366,21 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 16091449682,
+"name": "Mission : Chasing Rainbows Stage 2",
+"distance": 15598.3,
+"moving_time": "0:31:15",
+"type": "VirtualRide",
+"start_date": "2025-10-10 00:59:59+00:00",
+"start_date_local": "2025-10-10 08:59:59",
+"location_country": "None",
+"summary_polyline": "bvBbfBvGoBjFuAjFW|BIVAVDRJTCVMNSjAiDh@_AhAeBXm@Rq@^cB\\gBv@eGt@mE\\wCZkFPmDDmBC_Ie@iIQaBg@iDw@eDaBmEmEcMs@gBqAkC[g@e@q@iAsA_AwAy@kB_AuCSgLFoFFuAz@wDBw@BmBEgAa@cCIYmK{NwEuFOM{FUMDMJ]l@Ov@@TVfAz@`CBX?pASj@MPQLCRJZRHTGb@Sl@g@LaAM{CAg@@OJ]NYHGVKNA\\NZNlAhB~CzDv@pATl@BNNnFANM^a@d@YR_Br@]Tq@x@U^EPp@hE\\fANnCFvBCRGN_BpBy@rA]~@Kp@@\\d@jFH^NZx@|@B`@AjE[|Fe@lM?x@PrEIbAG^wA|Ec@`A]f@IDsBb@_AVm@f@eAhAKJq@EIIQ_@?]RkBFe@fA{Cb@gBVoBZiG@mBMmGWwFOs@OTCLq@lGe@nBKl@o@zF]bCQbAm@dCYpDWlCQtA_@nBc@bBWv@uBrEw@xAc@t@EPAf@Nt@lA`Bx@t@z@p@dBxAv@r@RTPb@J\\VxBDt@?v@I|B}@bE[bBK`AO`CK~@wApH]~@e@\\MDy@AKEe@g@aBaAw@_@aA[gAUcBUoBIuACuBBwBHsCVkD^kBVkBd@o@Vg@Z}AFgA?{@M{Co@kFcBwC{@qCq@aCe@iB]sAQeGg@cFk@kF{@uDu@sD}@oDiAiDqAeDyA}EkBc@KYES@ODIJANAP^nA|EfI\\T^J^FZBRA@K{@aA]g@aA_C?WFKLITChCnAtFvCvJbG`B|@nAZ~Dj@dD^jGf@pDf@zKdCzI~BP?`B]pCsAzAm@xA}@t@]\\KzGw@bCUtBKdBC|DFjAJvBZpA`@v@\\tCdBXJHh@@lABDHFGCEOAiAIg@YKcCyA",
+"average_heartrate": 161.3,
+"average_speed": 8.319,
+"elevation_gain": 244.0,
+"source": "strava",
+"streak": 1
 }
 ]
