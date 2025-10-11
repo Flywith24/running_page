@@ -20398,5 +20398,53 @@
 "elevation_gain": 52.6,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16100851897,
+"name": "Morning Ride",
+"distance": 11373.4,
+"moving_time": "0:25:08",
+"type": "VirtualRide",
+"start_date": "2025-10-11 00:54:26+00:00",
+"start_date_local": "2025-10-11 08:54:26",
+"location_country": "None",
+"summary_polyline": "_ktwCrhjpLWk@Eu@Lq@\\g@ZQ\\CzAP|@?vA_@TUF]a@uCBOJIl@KpDe@\\?ZHVTXh@`@lBRZj@j@d@Zx@X`Cf@b@ZVd@Dv@M^SPe@Fe@K]Qq@k@i@Oa@J[^O^A`@FRXVlA\\`@VVZLf@@^G^O^y@jASn@DjANp@Zf@`@TbDTfAd@n@x@Tp@F`AIv@Wr@i@t@c@Z{@N}@Cy@WoBiBo@?c@TQTER@j@Z|@n@bAXv@PlAAfAWdAQZ_@\\}@d@uATy@IqAe@{AwACQ|CkE^w@La@@c@Eg@O_@i@c@_@Ea@HYZ_@jAYb@_@VQDe@CMMQe@Co@Dq@Ro@\\k@d@e@fAe@tC}@l@]PSLYJ{@A]Uu@k@a@q@Os@DWHe@b@w@pB]d@c@ZsARuAOg@Oe@Yo@s@Sk@Mo@Eq@DgARk@NQf@Qh@Af@RJPb@|ALPf@Xl@@RGd@ULSNg@?i@W}@o@g@{Au@OOGSAUHi@Ta@\\Yv@G`@J^n@Nv@Vr@d@f@\\Lr@?h@YZo@Jw@Ac@O_@YU_AG]Ia@o@Su@IO[WWGm@Cq@T_@Xs@~@o@\\gAE_@US]Ie@By@Vo@ZWn@KrAP`A?pAYXWFO?e@s@uEo@_Dc@_@eAg@o@g@Yu@Ce@Jw@Tg@`@_@ZMp@GdAT\\XRb@Hf@AvBLz@Zh@^ZfARzBQx@@fCn@pDp@zAl@bBjCl@fCLXNH`@CRe@]oA[oC_@_B?a@LwAFa@RYVITDXZDz@ChADh@b@r@dAjAr@|Ah@b@h@Jb@ERSJY@]E[Ye@}@Qk@Wc@s@Ys@G[?q@La@VKZDLPXfAb@p@b@\\l@Lh@GbLuChAo@T[La@?a@Ie@g@w@Ma@Bc@FQHK`@I^Ht@n@NFrACb@f@Db@Mn@c@\\cAb@U\\ANL^`@Lb@G`A_@h@EnAb@\\ZBTINSHS@kASc@NGP@PHPp@XxATfAGpGaDl@QnA?j@Lb@Z|@jAd@Xh@Lb@CZKtBkAn@UhB]hAAt@RX`@Bl@[tCH|@`@n@j@`@r@JjA?bDO",
+"average_heartrate": 126.8,
+"average_speed": 7.542,
+"elevation_gain": 132.0,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 16100930186,
+"name": "MyWhoosh - Zombie Escape (Easy) | Hudayriyat Arcade",
+"distance": 7769.3,
+"moving_time": "0:13:46",
+"type": "VirtualRide",
+"start_date": "2025-10-11 01:21:37+00:00",
+"start_date_local": "2025-10-11 09:21:37",
+"location_country": "\u0627\u0644\u0642\u0648\u0639, \u0627\u0644\u0639\u064a\u0646, \u963f\u5e03\u624e\u6bd4\u914b\u957f\u56fd, \u963f\u62c9\u4f2f\u8054\u5408\u914b\u957f\u56fd",
+"summary_polyline": "}uzmC}fznI{DoBaA[eAWi@Qe@YSWI_@?Oj@kBlTg{@dKw`@L]P[VUXM\\Gl@?\\Dt@Xv@PfAFj@?z@E|@Oz@Wv@_@j@a@h@g@X]h@}@V[LGNEr@?PE`AaAFODQ@iADQHMdDqCnKeIxCsBpAs@l@Sn@Q`AOr@Er@?bAHbATl@Xv@p@b@f@T^R^N`@Nd@Lt@JlA?lAKdCEd@ENQBeAEc@@c@Bs@R[VU^Kd@Gd@?d@BRXfAdAzCjAzCRx@Df@?|@Eh@EPSd@e@l@w@v@{AxAiAdA[Pa@Ha@Bc@Cc@K_@S]WeB{AmBsAaAk@sAs@gBu@aDeAsCs@e@Gy@Ag@Be@Js@^}@p@i@l@e@n@c@p@}@`Bk@lAw@pB_@tAQr@Qv@SbBOjBGtA?zBFdBLbB\\lCt@bD\\v@X`@j@l@~CnCvPhOvZvX",
+"average_heartrate": 147.1,
+"average_speed": 9.406,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 16101041449,
+"name": "MyWhoosh - Hudayriyat Octopus Loop",
+"distance": 11225.6,
+"moving_time": "0:23:58",
+"type": "VirtualRide",
+"start_date": "2025-10-11 01:36:14+00:00",
+"start_date_local": "2025-10-11 09:36:14",
+"location_country": "\u0627\u0644\u0642\u0648\u0639, \u0627\u0644\u0639\u064a\u0646, \u963f\u5e03\u624e\u6bd4\u914b\u957f\u56fd, \u963f\u62c9\u4f2f\u8054\u5408\u914b\u957f\u56fd",
+"summary_polyline": "e`qmCilrnIr@jBLl@D`AAp@U|@[d@_@d@gDdDm@f@g@R]Fi@?[Gg@Om@a@aByAsCoBsBgAqAi@gDkAqCs@m@K]Cm@?m@Fi@NqA~@i@h@qAfBw@tAmAnCq@nBc@dB_@|BUpCEbB?p@FbCRpC\\|Bj@dCPh@Xf@Xb@^^dCvBrNjM`Ad@rAVx@Hx@DvA?h@EdAO|Aa@d@Qz@g@v@o@~@mAtAmCPg@Jm@hDc^VeCNy@Ry@Xs@j@{@r@s@VQf@Sh@OhAMdB?|CPrEx@dBT`F\\jCJj@?\\ENEb@[Xg@F_@@_@Ca@I[S[WQYM]Em@@cIvAwAPm@Ak@Ii@QYQSYSi@{@kFKc@[s@c@m@WWg@]u@a@_AYy@I_C?_@I_@Oc@g@Qa@Iw@?e@Jq@Vk@VWXOZIj@Ej@DpA^f@P`@R`@Z|@~@hFvGpAzAv@r@z@j@f@TnA`@v@Nh@FbADzA?vBEbCIbCO`AMzCg@|@Q|FqArAQfAAx@DbBRlBVrAV`EhArAd@h@Td@^RXZf@Rj@Jn@Dn@Cn@E\\Ml@Uf@g@n@kF~E{@x@SXYj@M\\On@E`@C^?pAJlAb@bBpCxINh@Lx@?z@Gj@GZIV[p@a@d@g@\\g@R_@FU@g@A]Gq@_@WWMSMa@Ia@Cc@H}@ZgAfAkCJ]Fq@?u@Iw@[s@[]q@_@a@KSCc@?c@Do@Tg@`@]h@Op@Er@DdAd@lGTdBX|@P\\Zf@x@v@XNd@R|@Rd@Bn@@n@En@KbA_@f@[d@c@n@}@b@gAN_AFuBFg@Jc@R_@r@w@~H}Fl@e@VWZe@Ri@Nk@Hy@",
+"average_heartrate": 132.5,
+"average_speed": 7.806,
+"elevation_gain": 14.0,
+"source": "strava",
+"streak": 2
 }
 ]
