@@ -20401,7 +20401,7 @@
 },
 {
 "run_id": 16100851897,
-"name": "Morning Ride",
+"name": "app \u95ea\u9000",
 "distance": 11373.4,
 "moving_time": "0:25:08",
 "type": "VirtualRide",
@@ -20433,7 +20433,7 @@
 },
 {
 "run_id": 16101041449,
-"name": "MyWhoosh - Hudayriyat Octopus Loop",
+"name": "\u4e8c\u533a\u9a91\u884c",
 "distance": 11225.6,
 "moving_time": "0:23:58",
 "type": "VirtualRide",
@@ -20444,6 +20444,38 @@
 "average_heartrate": 132.5,
 "average_speed": 7.806,
 "elevation_gain": 14.0,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 16101580647,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3165.0,
+"moving_time": "0:33:11",
+"type": "Hike",
+"start_date": "2025-10-11 04:23:49+00:00",
+"start_date_local": "2025-10-11 12:23:49",
+"location_country": "\u6167\u5fe0\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100012, \u4e2d\u56fd",
+"summary_polyline": "}dbsFccmeUHxDAtBD~H@n@FhAMHyAHcBDq@JwB@{ADw@F{@?iBFq@@q@CaA@u@Ay@FcILsBAsAFMGE_@KwCSmB@kC?gDEcA?e@GeADyCAgAFu@AaA@_BDe@JWNIhDKPEZSVEhKJtB?r@CtADfFBdADfC?P@ZH~AQH@LFT@DEBK?cADWHGHC\\FECYs@qAmG",
+"average_heartrate": 98.2,
+"average_speed": 1.59,
+"elevation_gain": 17.2,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 16104349201,
+"name": "\u5468\u516d 8 \u516c\u91cc",
+"distance": 8037.4,
+"moving_time": "0:45:50",
+"type": "Run",
+"start_date": "2025-10-11 10:12:25+00:00",
+"start_date_local": "2025-10-11 18:12:25",
+"location_country": "\u5965\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "sjbsFcskeUOPi@^{EdEYj@eAf@c@ZGJ@JF?NIvBuBtAgAdB_BfBiB~AuAb@YbB}@f@Qx@QbAKbBCfAF|ATpAZ`A\\tBpAz@`@b@Pj@J\\FHADCCMICcAAs@K_@Ik@]_@Ye@e@YQWKeBe@gCWi@AkBLmANo@Lq@TcBr@k@\\_Ar@mElEiBbBkA|@_Aj@IH?FD@FCrFuE~AgB|@y@Za@Vc@TUnBkAvAs@t@Uj@KlBS|AEdBVlAXnBfAfCjAZTbA^`@DAEECyA]o@UaCmAmCcAiAIiCCY@}BV}@Pw@Vs@^{@h@g@`@kElEoBbBUNkAh@cAl@SNEJBBDAVQlDwC|@_Ab@i@dBmBj@g@l@s@ZUj@_@~@a@pBi@bBU|AEv@BnAHzAR^JhAf@xDxBxAd@D@BACEo@SiCcAwBiAk@OiB_@cBEy@@g@FwAV}BXy@V}Az@w@n@u@z@{AtAmA~@YZ{@p@}CrBIH?FF@FC|AeAzEuEpBwBdB}Ar@a@|Au@`@MpAYpAMpAE`@@pBPhA\\^NdDpBvAr@~@\\F?@CGIIEy@SqAg@qBsAcA]gAUq@KyBIaA?",
+"average_heartrate": 160.9,
+"average_speed": 2.923,
+"elevation_gain": 28.6,
 "source": "strava",
 "streak": 2
 }
