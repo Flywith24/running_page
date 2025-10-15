@@ -20526,5 +20526,37 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 16133237910,
+"name": "MyWhoosh - Endurance #2",
+"distance": 29045.8,
+"moving_time": "1:02:44",
+"type": "VirtualRide",
+"start_date": "2025-10-14 00:58:56+00:00",
+"start_date_local": "2025-10-14 08:58:56",
+"location_country": "19, August De Feyterstraat, Ternat, Halle-Vilvoorde, Vlaams-Brabant, \u5f17\u62c9\u8292\u5927\u5340, 1740, \u6bd4\u5229\u65f6 / \u6bd4\u5229\u6642",
+"summary_polyline": "wvmuHiunX?zh@IlBWpAYr@w@|@qA`@a^BGP?fc@QrBOh@c@n@g@X}@H{u@Au@Qe@[uS_PiAkAk@wAYgCEoCCcdAGiBMg@Q]q@a@mHIg@IYQk@qAe@iCMsA?kBR}B^uB\\o@VQdAK|JCfAUf@[`@k@^oALyAF}D\\eCRe@`@m@h@]l@OdME~@Lf@h@dKvQx@n@bALbf@Ip@YX_@pH_Nv@cA|@m@dBWhPAr@Fn@ZZ`@ZbAJr@FjB@xuAChCKtASz@c@`Am@l@cA\\e^BKFCfd@SfBWr@o@n@w@Net@FyAIwAo@cUoQc@o@a@sAOeAGcBEufAIsBMi@U]u@a@gHEw@WW]g@cBUuAO{A?uBL{Ab@cCPe@V[hAUxKGz@Sf@a@j@eAVwALsFXsBZy@d@k@h@[j@MhMC~@Rz@pA|IzOd@j@\\R`AJdQAJK@UByx@ReDT_Ab@m@\\Ql@IhB\\dAt@T`@Nh@N|AB`BGnUD`BFl@Z|@h@\\^@x@e@p@}@dJwPhA{AlBSrr@Fl@Gr@]n@i@pO{Qd@K~Av@p@FnAUp@i@^o@Xy@TuADgAEo@]kBHaA^w@\\a@pAm@l@{Ah@s@THj@x@Hj@YpCLl@Z\\Rl@BpBFv@Nr@vAjB^@|@iCxAgDTe@\\[p@iENm@^QhBL`@Gh@wA`@GzAjAhE@bHz@zFEzAb@hDbCp@p@|@~BhBnGt@rBn@x@~@^bAFt@UjHeILILD|EvN\\^r@TdDRl@PV^Hl@DhA?fAMdAQd@g@`@aJXm@Ni@h@Up@I|@AzEH~@R`@VTx@PdIFvAK`Ac@vAqAtDmCl@]r@MjIIf@RVXTjAOvRM|EGf@Qf@[XmGfDw@j@]t@KfAEvBDl@T|@h@`AvAvAVt@BbOErBKFqKBqAQq@c@Su@IcAOiJKwCOkA[eA{@oA{AaAoBYiB?e@PeAzAiChCiDhB_C|AuAh@yAPmA?sG{@cBo@QFK^@V|@dCb@jBhAvHzA~OHdBCfAS~@s@|@mQrKOBKOqJ_h@_@y@m@Sc@L}Az@iLtHy@VkA?uDw@gAIyHXkKLaCf@oEpBqAZ}UDMHATAjZQlB]jA]l@c@b@aA^qNB",
+"average_heartrate": 129.8,
+"average_speed": 7.717,
+"elevation_gain": 151.0,
+"source": "strava",
+"streak": 5
+},
+{
+"run_id": 16133848450,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 2985.4,
+"moving_time": "0:32:05",
+"type": "Hike",
+"start_date": "2025-10-14 04:31:02+00:00",
+"start_date_local": "2025-10-14 12:31:02",
+"location_country": "\u6167\u5fe0\u8def\u897f\u53e3, \u6167\u5fe0\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100012, \u4e2d\u56fd",
+"summary_polyline": "ygbsFwjleUw@Du@E}@DmBBq@CcAK[Py@DwALwACu@Em@DgAAuAH[Dm@AuA@o@CcABq@Cs@Di@HKAMEQUMg@?cDCYMi@CWAoAF{BEiDQmAHuAGoCFoAFgDLe@JG|@Ah@ChA@NE\\Qj@Aj@EbCDr@E\\Hl@FFGB?A?vAGh@@pA?bADbHDnBDhBHZC`AOd@FN@DC@O@w@@OFGj@MiAGUIMMKYEYIkB",
+"average_heartrate": 94.2,
+"average_speed": 1.551,
+"elevation_gain": 11.8,
+"source": "strava",
+"streak": 5
 }
 ]
