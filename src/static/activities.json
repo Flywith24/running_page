@@ -20638,5 +20638,21 @@
 "elevation_gain": 3.0,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 16165844179,
+"name": "Zwift - 65rpm Strength Ramps on Figure 8 in Watopia",
+"distance": 22307.7,
+"moving_time": "1:01:12",
+"type": "VirtualRide",
+"start_date": "2025-10-17 00:36:26+00:00",
+"start_date_local": "2025-10-17 08:36:26",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "dc`fAke~y^uEyAiEqCs@y@m@mAg@}A[cB?cB`@oAfAeAzEcDt@cA?[Oe@cCgBWg@@UNOfBYHUoAaL?mB\\{Bn@wA|@kAlAy@bBs@pD{@nKmApEaAlAeA~AeEl@aArBuAjB_@`BBfBj@hA~@hCtD`AbAdAd@nAJtIgAf[uIdAKr@JT\\Fb@K`Pa@`DwAxF{@pBKhK]v@m@RyGNoAG}@yAuCwJuAuAo@M_@Dw@d@e@t@O~@H~@~FpMp@rAYXu@T_KxAu@h@Kv@\\b@l@FfKsAj@@PTUTq@P{LfAeATW\\]nCq@~CWv@[\\w@D_Bk@aL_CoDcA_CWsDNcGx@oGfBaAHSIQ]KmBPuCf@s@vBu@|Bc@rMgBt@a@lB}Bt@g@|@B~Bt@h@CNML}@M{FF_Bf@gAdCqCPi@@m@MeA[_Ao@_Au@i@oDg@eHKeARkAl@eHxFkAZcEd@S^Bf@`CjJHx@IZSP[@i@]cCeJQY]IWPa@vAAjHPRp@J`@c@Rm@@o@_@[qEA_BLs@VKb@Nd@~B`BV\\Df@m@|@}EdDkAfAc@lAAfBRrAd@~Ap@xAj@t@hBxA`CtApGlBhBbAdA`BtBbGj@z@l@^fA@hBe@HWMs@~@y@Ug@gBu@DcB{A}@?i@d@_AbAWd@Nr@hA\\xAz@N~@bA\\Az@e@pAmAL_@EQ}ByAa@sAEk@Ha@`A]zBGtAb@dA~AbCvFf@^VEj@{@|JgGl@V~AzCt@p@j@WxAsEj@m@`A`@|CbDd@H`@OPo@i@cCPQpBe@T_@Be@WeAqBmCMgCOi@q@a@}AS}BGmD`@eAIOYF]dMkAj@SNYQYm@G{JpAo@@c@]Dm@l@i@fK}A|@[RYE_@i@w@kF_LWaAEs@RaAn@u@n@YdAPhAnAxCdK\\t@^\\dHEdDQb_@dGr@d@FtER`@`@P`@ERU^eE|@mBX]TE`@\\Ln@m@pECfAXfAr@l@hFzAdQpD|@OdA{Ar@Ml@FN`@G`A}AtEUhBBh@Pf@h@p@h@Xh@Md@wAh@kDPcEb@mBrBaEf@]p@KdALLZAp@_@hBsBxDWhB@|A\\t@~AjAz@tA`@@n@i@fA{B^_CFyES}EDoA",
+"average_heartrate": 122.7,
+"average_speed": 6.075,
+"elevation_gain": 381.0,
+"source": "strava",
+"streak": 8
 }
 ]
