@@ -20590,5 +20590,53 @@
 "elevation_gain": 14.6,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 16156063096,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3308.5,
+"moving_time": "0:32:20",
+"type": "Hike",
+"start_date": "2025-10-16 04:24:06+00:00",
+"start_date_local": "2025-10-16 12:24:06",
+"location_country": "\u6167\u5fe0\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100012, \u4e2d\u56fd",
+"summary_polyline": "sdbsF_vleU?RLzC?`DkDTWEmALcL^GCsACiCAcHXeC?kAEiA_@AEMuA?cBOkAG{ADgEAqAOeBDyAE}AAmDHuAZiAnCO`AIJMDAhACf@@bAJnACbCBF?HEbAFp@LXB\\Av@?zBQz@Dx@AnCL|DGz@?XD@I@}@D[JKb@GS@cAGWIKMESE_@EoC",
+"average_heartrate": 93.7,
+"average_speed": 1.705,
+"elevation_gain": 52.8,
+"source": "strava",
+"streak": 7
+},
+{
+"run_id": 16158259615,
+"name": "MyWhoosh - Active Recovery",
+"distance": 21173.9,
+"moving_time": "0:48:15",
+"type": "VirtualRide",
+"start_date": "2025-10-16 10:11:31+00:00",
+"start_date_local": "2025-10-16 18:11:31",
+"location_country": "\u0627\u0644\u0642\u0648\u0639, \u0627\u0644\u0639\u064a\u0646, \u963f\u5e03\u624e\u6bd4\u914b\u957f\u56fd, \u963f\u62c9\u4f2f\u8054\u5408\u914b\u957f\u56fd",
+"summary_polyline": "}ktmCo`vnIg@gEHw@dAm@dBn@nCrERvB`Cs@z@dD|Bl@hCe@r@TJv@}@`AQx@D`Aj@fAfAAJa@]wBf@a@d@Dn@v@H`Dn@xA|BbBlCd@|EH^y@[eCc@k@gAKqBhAw@OSkA~@_AtIlB|J_@pCb@lC}ArB]lB@jEv@jFWp@eAf@oF{@wAaBk@y@?{@j@u@KMwAfA}@~AJ`Ax@~APpDnBBf@g@~@Xz@z@I`@oAd@Dn@bBxE`Gp@tDUtBk@bBmEfEy@rBkBlBNn@jAr@Cb@}@n@En@x@jATdCpAjFNjBUzBgBvCoCx@}D}@kA{@k@cAHo@vAyALy@k@c@uAt@Ya@H}@dAg@xBJn@oAm@_A_@BgAfA_BW[q@f@_A`A?l@e@K}GbB{E`AcFi@yGy@qBaAgAeLyBaDPwDlBaCe@eK^kImBaA|@LfAz@VhBgArAHb@t@VtCw@^kGUwBy@_B_B[cAEmCm@eAo@Ee@d@\\`BOv@c@Fm@]c@gBTmAz@_A]cAiD\\qBe@_@e@g@gCeCr@MsBwDuFaBKe@d@It@~AlMjAhBQn@y@D[u@\\eBaBkMNeA~@a@zBfAzB|DNrB`Cs@jAnDjBd@jCe@r@RLz@y@v@UfAf@xBr@V^QFe@]kBb@e@h@@p@x@FrC^nAbB`BtC|@vFLh@o@_@{Ce@c@eAIyBjAs@YKiAz@y@tIlB~J_@lCd@~CgBlBWpHz@dFSv@cAh@wFm@iAcBs@{@GqAp@i@KQmA`AgAbBFjA|@zANbDbBRp@g@z@Dl@~@Rf@sAp@Dj@|AzEbGd@dBF`BaAfEkEfE}@vBgB`BLt@lAr@Cd@w@h@Kp@~@`BLhBvAbGH~B]pBoApBmDdAuCo@sB{AYoA~AkBL{@c@c@uAx@e@s@h@gArCB|@eAGs@g@]_BlAaBU]s@Vu@tAIh@c@IcH|AmEdAmFk@}GoBoDaL_CgDNcEnByBe@eK^kIoBaAr@FpAv@XpBiAnAHb@n@XvCq@d@}FOyBs@gB}Ag@uAEsCo@}@g@Ei@d@^pBKb@oACi@_CLy@`AaAM{@o@UmCd@wBk@_AiD_Cv@_@kCaC}DaAk@gAAm@|@p@~G",
+"average_heartrate": 116.3,
+"average_speed": 7.314,
+"elevation_gain": 342.0,
+"source": "strava",
+"streak": 7
+},
+{
+"run_id": 16161344644,
+"name": "Zwift - offline \u6d4b\u8bd5",
+"distance": 1871.1,
+"moving_time": "0:03:47",
+"type": "VirtualRide",
+"start_date": "2025-10-16 16:23:24+00:00",
+"start_date_local": "2025-10-17 00:23:24",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "`h`fA_c~y^oAm@cEiAeA]{BoAoA}@c@a@]c@[e@Ug@Yu@YeASwAC{@Fm@F[Ve@^a@n@i@hEsCj@k@N[@_@CMMYk@g@{AaAMUCU?KNO\\KlAQDI@KAYa@uDg@uDEmA?e@Bg@Jw@VaAf@cAp@_A",
+"average_heartrate": 109.8,
+"average_speed": 8.243,
+"elevation_gain": 3.0,
+"source": "strava",
+"streak": 8
 }
 ]
