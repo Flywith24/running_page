@@ -20737,7 +20737,7 @@
 },
 {
 "run_id": 16199348876,
-"name": "\u508d\u665a\u8dd1\u6b65",
+"name": "\u5468\u4e00\u4e03\u516c\u91cc",
 "distance": 7406.8,
 "moving_time": "0:42:50",
 "type": "Run",
@@ -20750,5 +20750,21 @@
 "elevation_gain": 14.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16209615347,
+"name": "Zwift - The Wringer on Chain Chomper in Makuri Islands",
+"distance": 17987.6,
+"moving_time": "0:43:58",
+"type": "VirtualRide",
+"start_date": "2025-10-21 10:10:41+00:00",
+"start_date_local": "2025-10-21 18:10:41",
+"location_country": "Graciosa Bay Ward, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "dts`Aides^Vd@vAn@RlAUzAcB~@c@~@OxBf@lAn@h@|Ct@lB`AnFi@PwA~@kAZ_ACi@_AmBB}BZo@|B}ARu@FuAQ}DSw@g@cAoA_AY}@Dk@x@wAJs@K]eAgABoAn@aAbDa@t@oBpDs@`@a@Jm@U{@{@c@oHs@Iq@L{AbB?PQOOeC?_@YA_@b@SRn@LDf@m@xARTNBl@|@\\@b@LJl@IZu@t@x@ZL^Iv@y@rEW`@QHYWcAe@QoCAoBfAwANaCm@kCMgA{@{AhAyBeBNk@Qk@xAiBnD|BT?NSWkBiA{@y@Uq@DyBfCkAZy@Ki@i@gAWkAy@mB]CoAj@UdBXrBlAPC|EmHq@aBqBy@HeCGg@{B_BgAkBQyCT_DCy@p@}@m@sABURKfA\\VKHY?yBNQ\\AZVb@fDd@NTa@TkDVUd@Gh@p@ErAV~Av@~@n@?~@g@N_Aj@eA@kBr@e@`@Ll@fBfCbCvBUfAV`@a@@s@gJeGSc@C_Ce@i@mB[qBr@a@MCa@~@cCa@]cAOyAsAs@BoElB{@GKe@BsCMYeC@c@ZMdAbA~@Ib@[VQBo@g@}@W}A?u@sAq@GSNHnAwAl@k@bBUJ}DIiB\\mB|@WAu@qAUE{A~AeBi@u@Da@j@AZd@jBWlBzA|@^jAGzAm@^oCReEsAGYXkCMaBmAa@iBgA}BeCcG^uArAaC|@e@f@h@nDGvDPdBh@j@rCfARl@@n@o@tB?r@n@lD`AdBDV_@|@?j@x@tAQ~A|@jBTdDz@`EHvCQfExCvJ\\DfD_AnDxJfDvGf@`@lBDnAvAp@^bDG`@f@x@nCfBbB~@?rB}BfA_@lCSlAd@`@|@L|CjBfARhAYbBcB|@Wb@W`BBdAdAxAlD~@vB`A`Fg@RyAhAyARaAeAoCD}Bd@u@hBgAXu@FiBUiEe@oA}AsA[_ABg@z@{AJm@G_@iAkADyAn@w@hDe@n@kBtDu@d@aAOcAq@c@{Hw@Ks@L{AjB@HWuCI[UEc@LQZ@Xp@n@m@rATNFNv@j@JTz@f@@Vo@\\Mf@v@\\L\\It@w@lEWd@QL]WaAi@QoC?oBhAqALeCo@eCMmA{@cAbAYDwBiBPi@Q]BU`AqA",
+"average_heartrate": 133.2,
+"average_speed": 6.819,
+"elevation_gain": 251.0,
+"source": "strava",
+"streak": 2
 }
 ]
