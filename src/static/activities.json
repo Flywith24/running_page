@@ -20766,5 +20766,37 @@
 "elevation_gain": 251.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 16221120230,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3431.4,
+"moving_time": "0:29:32",
+"type": "Hike",
+"start_date": "2025-10-22 04:19:23+00:00",
+"start_date_local": "2025-10-22 12:19:23",
+"location_country": "\u6167\u5fe0\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100012, \u4e2d\u56fd",
+"summary_polyline": "wdbsF_dmeUITLxJAVJlFCx@DhAwABYAsBJi@HcFHkDx@yCZ{Uk`@F[HsDZmAdDK~@WhAE`QLn@AlBH`EBlFGN@TFN?HEBKDw@He@JMHHFSJwA?mABe@",
+"average_heartrate": 107.5,
+"average_speed": 1.936,
+"elevation_gain": 49.6,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 16220483558,
+"name": "Zwift - 30/30sec Anaerobic #1 on Sand And Sequoias in Watopia",
+"distance": 28363.2,
+"moving_time": "0:52:36",
+"type": "VirtualRide",
+"start_date": "2025-10-22 10:10:24+00:00",
+"start_date_local": "2025-10-22 18:10:24",
+"location_country": "Muie Village, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "~t_fAcybz^aAMm@o@uBkHG}At@eFqBeEDcAv@g@hCFj@iFl@i@jAAfE`B\\n@BfBzBv@}@lCf@xAbBRfF_@tAcAbAcBgAyCBuA|BcBf@aBKiCmAuDqAmB_EwCSmApA_F|D{AbAwALaBWqB}D_FxBeCGaDnIgTf@uE{@aC_F}AmA_A}@uBAeBfG_NbAqDdDy@tDr@dAq@rAsChDMjBaAf@iBA{AcDuFd@aAzAu@fBd@|EdInA~@pBcAtAqEvAJrAdAJ|EjC|AVfA[t@_C|@e@bAAnKsAhSdErFr@nB|Fh@|L{CbBr@j@pDd@rMShCgB|AU`ALlFv@zCdB~@jCKhGvAdBvAb@tCrAz@|@s@jDaKtAa@|BpAZrCbFXfB~Bh@tD]jC{LfHg@r@]pCgBn@uAdBEfAf@dBpBtAC|BaE~Ca@Ey@sAiBISh@p@dAUfC_A^{D@e@p@Q|AiBbAk@jB_AJ]cAhA}B_@_BrAiA]cA}BoAaBTy@r@LvCq@Zm@e@iA_DhA_Em@{DDiBdEPbBkBmAmDkAWwC~AgBNKg@^sFc@c@eBOmAXyBlCqBl@{CNkEaAmBnCwC`@_DvAUn@zCl@jDpAvCwArCn@?n@u@d@}AD{CbAiEe@m@x@ZZrCThAnAhBU|Bb@hCi@fB|@vCfGY~AiAbAgAhDmCnAaEJ}@_BaBu@uAuDo@Gu@t@i@M_B}Dw@PU~AcB[{@j@_Bw@u@RBr@`CpCg@n@kBYu@o@g@y@TiA[k@sCi@_E\\Yp@Z\\rDUMl@gDhAQd@nDvAV`Ae@|AH`AdCr@b@tAaCvB{AXe@lCg@\\mAsBb@gBa@kB{Aq@sBf@}@`D~@pAEpA|@pA_BbBu@zCsA}BjAuC}@KsBzA@}B]e@yBfAgAhByA_@aBZeBw@MeAlAgF?uCaBkCuDgAaCcIGyAt@eFoB{DE}@~@w@xCAVqEb@o@dC@fD`BXnCzBz@cA|CbAnA`I]dCuC?y@gA_DTs@`CiBXwAGkB{BcGoFmEMgAtAcF|D{AbA}AJgBWgBaE}E`CmCQoCvIwT`@gEOqAi@s@qEyA}AgA{@kBCiB~FiMxAqEzCq@tBt@jAGjC}D`DMtBeAb@wA@_B_D_FHiA|AiA`BHbGjJnAp@fBiApAmE|ALzA`BDhErCfBE~AaC|@k@bAGrLsAxQj@dBvC~C\\bBpGz@pL{CvAP",
+"average_heartrate": 132.8,
+"average_speed": 8.987,
+"elevation_gain": 187.0,
+"source": "strava",
+"streak": 3
 }
 ]
