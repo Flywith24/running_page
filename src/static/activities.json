@@ -20814,5 +20814,21 @@
 "elevation_gain": 8.2,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 16237804840,
+"name": "Zwift - Aerobic 12s #1 on The Fan Flats in Richmond",
+"distance": 33224.4,
+"moving_time": "1:03:29",
+"type": "VirtualRide",
+"start_date": "2025-10-24 00:57:15+00:00",
+"start_date_local": "2025-10-24 08:57:15",
+"location_country": "Franklin Street Cycle Track, Monroe Ward, \u91cc\u58eb\u6ee1/\u91cc\u5947\u8499, \u5f17\u5409\u5c3c\u4e9a\u5dde / \u7dad\u5409\u5c3c\u4e9e\u5dde / \u7dad\u73cd\u5c3c\u4e9e\u5dde, 23284, \u7f8e\u5229\u575a\u5408\u4f17\u56fd / \u7f8e\u5229\u5805\u5408\u773e\u570b",
+"summary_polyline": "wqddFb_vwMiHvNeFxJaBlDeFvJWVi@NOPg@|A}CjGQRw@XSRM\\CpASj@yEbJ_KjSmEjIK^@PFLLFLCTWr@{A`Py[tEuIRYv@UTYJa@DmALc@`DmGV_@LK`@A`@Jh@^rAvAf@\\zCvA`GfCnCtA~BrAz@VNCLINa@VwBbFyRR}@Hk@FoVA_OF}EMUkDOe@SSBON}EjJoMbWoBhEgFzJUVk@NKJi@`BcDrGYTm@TUVMb@AhAM^oG|LgFjKoHnNO\\APDPJHL@VSpR_`@tDgHT]LKn@OT]Lc@@_ANe@xCgGd@o@`@I`@Fj@`@tAxAh@\\fLdF~BjAnC|Ar@PPALKNi@NyADSdFaSZwAF_V?iODqFKUUCeBAy@Ec@SQDML{Sva@eClF_FjJSVe@NWPe@zAeDtGUTu@XUVIb@?x@I`@yFzKoJjRgEbIMb@@RJLNBNEJOx@gB|Oq[rEsITYv@UVYJc@?{@Je@~CsGd@o@`@Ib@Hl@`@zA|Aj@^lKtEhCpAtC`Bt@NPCLOLi@N{AbG{UBiA@kMDmEAaMDmHC[QKgB?y@Is@SOJKN{CzFoM`WuD`IaFlJUVi@LQTe@xAcDrGWRg@PYTMb@CnAOb@{FzKsJrRuDbHO`@ARFPJHNAXWpLgVpE{I|C}FT]LKn@MV[Jg@@aANe@`DsGX_@NId@A^Nj@b@hAlAf@\\hLhF`ChA~BrA^Pb@FNCLMNi@HcAJk@bFyRXwAHaV?iNDiGGWSI_DGa@OQAOHKPqFrKeEnIsFlKcCfFcE`I[b@g@NUPs@rByC~FWTi@PWVM^ClAO^wP`]cFnJWt@@PJLN@NEHOxPc]tFkKZ[b@G\\]J[@aALq@|CkG`@m@^In@Jd@\\tAxA`@XjLhF`ChAfCxA`@N`@DPGJOLk@LyAnFwSReAHgU?mODkGMSgBEmAGa@QOBMNqOrZ_BvCkDjHiF|JWV[JYTk@`B_DlGWTw@XSZGb@?v@Mb@oFhK_I`P{FvKO`@@RFNLDNALK~Qg_@fEaI^g@h@MXQHMJe@?{@Jg@|CkGd@s@b@Ib@H^TxA|Ah@^zLpF~F`Dr@PPALKPg@LyAFUnE_Qh@cCDWHoU?kOFqFGYQKaDGs@SOJKNiTjb@mBbEgF|JSTo@RIHq@nBcDnGKHq@RUTM\\CvAO^qFjK}JdS}DvHGN?PFNJFNATW`Pu[",
+"average_heartrate": 136.1,
+"average_speed": 8.723,
+"elevation_gain": 134.0,
+"source": "strava",
+"streak": 5
 }
 ]
