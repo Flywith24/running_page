@@ -20846,5 +20846,21 @@
 "elevation_gain": 55.8,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 16247589142,
+"name": "Zwift - Anaerobic Endurance 4x60sec on Twilight Harbor in Makuri Islands",
+"distance": 30929.2,
+"moving_time": "0:59:25",
+"type": "VirtualRide",
+"start_date": "2025-10-25 04:54:58+00:00",
+"start_date_local": "2025-10-25 12:54:58",
+"location_country": "Bwuang, New/Noole Ward, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "be}`Amfes^iBoHw@eAkAs@sBCqHlBy@k@e@sBmCi@qBkAyI]]JW~A[f@{Cn@}A@m@Z]|AKrEUvAaK|KiCNmHmBcGGaA_@e@o@Dy@fDeIj@o@tCsAd@w@`@mHUkATyHTmAZuH|@aB~Aq@dCR|BbDtBzBlBhCxGh@v@{B?sAcD_Fa@sA~@uDn@yGt@yBbBuAlBUzCPfC|@jFd@pHrNbIjE~DfT^ZnBHB`@_B~BGb@`AhDhA|@|AdI@b@k@hABnBOZwAM_BaBqCaLs@kAiAy@uBQyGlBu@@i@g@e@uBoCi@uBmA{I[]Ri@zBgDt@qA?u@`@[`B[xG}J~KaCTyHmBcGE_A]i@o@B}@fDiIp@o@tCsA^q@`@{HUeARmH|@eLlBmBbDDv@n@jArBzE`GhA^xEPv@wB?wAkDmFUq@@u@v@mCl@mGn@yBdBcB~BWpCNjC~@nFh@lHnN`IlE|DbTVX~A?\\TiBzDz@~CnAdA~AfI@^m@jAGhCc@Jy@U_BeBoC_Lu@kAkAy@}BMyFdBgAFk@i@g@uBiCe@uBoA{I]a@TUdB[ZuCj@kC\\a@fBK`FQ|@}HfJeAx@cCNiHkBeGG{@Wo@o@?cAdD_Ip@w@pCqAd@o@b@uHUeAR{HXyA`@eItBsBnC@x@f@vAbCzB`CfBbC|@VfFLn@{B?mAcDyEc@kB|@}Cp@wGb@cB`BiB`C_@~CPzBz@|Fn@jHnNdInE|DfTlC`@Ab@_B~BCf@z@vCnAdAzA|HBh@m@pAC|Be@Ns@QcBeBsCeLu@kAmAy@{BIsHlBq@_@q@cCoCi@cBcAkJa@YPS~A]b@yCl@wA@u@`@WpAOvFQt@uJvKiAZoACeHkBcGEcA_@i@s@Bu@lDmIt@s@nCoAZi@b@_IUiARmHbAkLt@cA~@g@tCJv@n@jAtBzE`GhA\\xEPv@yB?uAcD_F_@eB|@_Dj@mGh@oBdBgBzB]`DPbC|@tFl@fHlNbIlEzD~STZ~BTgBzD`AlDnAdAzAdIk@zA@tBS^{AS}AgBiCsKq@kAkA}@}BQ_IpBq@c@q@cCcCa@iBgAaJa@_@HYfB_@d@yFl@e@X_@fBMbFQ|@yJxK}@VyACyGiBuHUs@g@U_A~C_It@gA|CwAb@q@b@wHUgAPmHRkA",
+"average_heartrate": 135.3,
+"average_speed": 8.676,
+"elevation_gain": 148.0,
+"source": "strava",
+"streak": 6
 }
 ]
