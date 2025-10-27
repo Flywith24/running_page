@@ -20862,5 +20862,37 @@
 "elevation_gain": 148.0,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 16257735619,
+"name": "\u5348\u540e\u884c\u8d70",
+"distance": 1934.6,
+"moving_time": "0:21:39",
+"type": "Hike",
+"start_date": "2025-10-26 05:34:29+00:00",
+"start_date_local": "2025-10-26 13:34:29",
+"location_country": "\u5965\u6797\u4e1c\u8def, \u5965\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "{hesFavkeUl@~BD~@AH}@d@o@?i@y@m@c@[?o@ZQh@O~@Ix@Ct@?n@BNCdAKlBObA?XFZZ`@LHh@NLLFZD~@JVNJZB\\Ib@Iz@]^?PF`@VP\\LNPX`@NVNt@Fb@CnBa@d@?`@I|AHv@APDLHL@b@Sp@Kz@[x@Gd@?b@B",
+"average_heartrate": 79.1,
+"average_speed": 1.489,
+"elevation_gain": 51.8,
+"source": "strava",
+"streak": 7
+},
+{
+"run_id": 16258438976,
+"name": "Zwift - Cruise Intervals #1 on Flat Route in Watopia",
+"distance": 29661.5,
+"moving_time": "0:55:00",
+"type": "VirtualRide",
+"start_date": "2025-10-26 07:39:37+00:00",
+"start_date_local": "2025-10-26 15:39:37",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "hu_fAum~y^oBkE[eB?sALw@h@{@fGiEz@gAOeAkCoBMm@`Cy@kAeLC{Bt@iD~BqCtBaAdD{@xRsCpAgAhCcGxAiAhBm@pBEnBd@nA`ArEbGnCn@hIaAxZqIdCQZRRp@GxO}@xFyB|GEtIW`BkBf@cIA{@aBqCsJyAsAkAA}@j@]t@Mx@H|@pHbPeAl@gKzAcAhAPt@v@NxJqAjAFGZeAZ_L~@Wn@LXtAN`G_@tBVv@d@ZbDnBrCV~@Qz@aCr@En@b@xAWz@}@MmCuCcAg@m@^cBbF_@Vo@g@kBiDs@SuJbGkAdAgF{JeBe@yBHgAn@@hAj@~AlBbAFh@wAtAgAj@eAeAy@Oa@_Bu@eAk@Oy@Nk@r@K`A~AdAGpAL^dBp@HZ{@r@H~@MJkBb@mAQeA{AkBoFaAcBeBaAoGkB}CcBeCeC{AgEOiC\\{AnAsAhFmDh@_A[cA_CaBSo@PWpBk@kAsKCqBNwAf@cBdAaBpDuBlEeAbNcB~Bq@hAoAtBgFtAkAbBm@zBKtBh@vAfA`EtF`Af@pANpIcA`\\_JhAGp@ZPfCKjMeAjGqBdGExI[|AwB`@gH?_A{AiCaJeAwA_A_@q@HaAt@_@|@Cr@RpAhH`OaAl@sK~Ao@f@K|@b@^n@BpJqAjANOXy@TsLfAKj@NXrALhDa@dBBvCn@d@tDpBrCR`A[z@_Cz@f@rBQz@y@?eDiDcAYg@f@wAnEc@`@q@i@iBgDo@U{JdGeAfAk@m@yBoFcA{AyAg@iCHeAn@HbBb@dAvBrA[t@}B`BsAgAw@K]{AcAqAoA@u@z@K~@~AbAEbBzBlAI\\s@d@J`AgBh@mACk@e@_DaIgA}AgB}@eGgBeFcDiA}AgAeDQkC\\aBvH{Fh@aAYeAwByAYk@H]vBm@qA}NXeCjAeChB_BzCkAhV{DjAeAjCcGvAgAdBk@~BCdBf@rAdA`EnFz@f@tAR~IeAn[yIzAGj@\\JdAMjPoBdJcAlCEdI]nBiB^yH?s@gAsC_K}@mAw@]{@D{@l@i@nAVhC`HrNwAt@wJtAu@j@Kt@V`@t@HfKqAp@DHRyAh@sK~@UNAh@^TfAF|Ca@xBDjCr@b@rDpBlCRt@UdAaCt@Ch@d@zAOp@}@?yCaDcAa@m@b@yAtEe@`@q@k@kBiDe@Q_KdG}@fAm@a@gCcGwAgB",
+"average_heartrate": 141.8,
+"average_speed": 8.988,
+"elevation_gain": 176.0,
+"source": "strava",
+"streak": 7
 }
 ]
