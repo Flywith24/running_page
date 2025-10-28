@@ -20926,5 +20926,21 @@
 "elevation_gain": 17.4,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 16277331542,
+"name": "Zwift - Endurance #1 on Mountain Mash in Watopia",
+"distance": 25091.8,
+"moving_time": "1:00:17",
+"type": "VirtualRide",
+"start_date": "2025-10-28 00:58:40+00:00",
+"start_date_local": "2025-10-28 08:58:40",
+"location_country": "Usili, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "|mefAel}y^iBcByBaDm@}AQgBJgBpAqD?yEzA}Ex@aBjAYd@DLTKbB{AjESjBJp@`@n@n@j@b@D`@c@^_Bb@wCN}Dv@sCdAuBp@w@`AWbAJPj@OzAY`AiB|C_@nDb@zA~AlAv@nAd@BzAkBt@yCLoDUsHJoAjA_D^_@^?~@~@^nAeAnJRbEGpBNzAr@vBrAPv@WPu@B{CbAqFPaGj@wClBuBj@Ql@F\\VF`@UxBm@zBPjA\\`@f@AtAu@t@{@dC_GzAmHd@c@`Bi@Ze@QaDHcAxByKfBeGtBeEtEeFfAUrDt@hDItAV~@`ABxCd@vBn@pAdBhAtBf@xDQz@Hb@j@v@jCz@l@`BJxFQbFj@rBi@`BeAj@u@h@yA`@}D_@iAwBqB_@wALa@fByAf@mCx@w@z@MlBbBdALpDoBhBiBy@cJPo@rB}CZaBDyAYgBkD{EGu@XgCOs@_DgEiDs@SW?{Be@m@oDgB{G_GsBy@kAP}F~B_AnAw@|Ba@jEUv@q@^oBVqBjAgBGeBcAMo@AcDw@}@kCWiML_Ah@YhBhA~OSfHz@hDDz@cAfDQVw@NsBe@gAiCQ{@e@sKqA_@u@Tq@`BZ|CUlAs@`AeAp@gCb@k@g@Uw@DiGG{@Yq@wBaAeDuFcCcCgFiDeE{AiHgAqG?qL|A}E|AeB`A}CBc@l@Gx@fA`BFxClBnBB~@c@n@}@EmBuBy@QmBnByDbBwq@nP{GrByA~@?fAbBlFVT`QiEp@LV^HtBMbN]`CsArFeAhCErJ[bAoB^oH@w@mAsC{J}@mAy@_@}@D{@n@a@`AEx@TpAdH~NeAn@mK|As@j@It@Z^t@FrJoAz@?PRwAj@{K`ASPA\\X\\z@FvD_@`CHlANp@^b@vDhB~BXjAQt@eCv@Cj@f@~AKb@[To@SkCuCgAe@q@f@oA`Ek@p@s@k@eBcDw@UwJdG}@dAs@q@aC}Fy@iA}Ag@_CFgAd@A~A\\fAxBrADf@oApAuAh@_AcAw@M_@}As@cAe@SiARe@n@Mz@bBpAC`BdBr@PX}@`ALl@OXuA^mAAm@c@k@}@oBwF}@_BaBcAgGeByC}AkCaCyAkD_@cDXeBbAkA`FeD|@cABk@Ue@}BcBWi@\\g@jBQ",
+"average_heartrate": 133.6,
+"average_speed": 6.937,
+"elevation_gain": 446.0,
+"source": "strava",
+"streak": 9
 }
 ]
