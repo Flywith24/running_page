@@ -20958,5 +20958,37 @@
 "elevation_gain": 52.6,
 "source": "strava",
 "streak": 9
+},
+{
+"run_id": 16288125489,
+"name": "Zwift - Tempo 15min / Target RPM #1 on Sea to Tree in Makuri Islands",
+"distance": 26839.7,
+"moving_time": "0:56:14",
+"type": "VirtualRide",
+"start_date": "2025-10-29 01:06:50+00:00",
+"start_date_local": "2025-10-29 09:06:50",
+"location_country": "Graciosa Bay Ward, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "nvq`Aa_is^`DSnCrC|CpATbBWdDvEzApC[Zq@KqBoB{AVsBe@qBZs@bAMfBj@bBcBrA|A`F}A|DH`AwBlAWIuAXWx@Jr@rAdB?`B|@p@u@aA_AJqAd@[hC?VtEfA@lFoB|ApAhBh@}@vCJZvCm@pBf@f@|DrIlF\\b@Al@]h@qAUeCLgCgCg@{A[Mo@j@CfBw@~BiBn@mAoAMsD[c@}@R[|De@V_@_@e@eDw@@MtCe@NkAUf@dBk@t@UjFXdDfA~AtB`BCbDlBt@dAhBdEnCxAw@tFxDL^wAlCdB`B`DuAvEI|B}@lD\\|B]r@p@PjAaAjAaBT}CwA{@f@Gr@tCrE`DrArBTtAhBtAe@e@gBRs@~A_@hCrBr@hEh@p@jB\\dAKz@k@fAJNPSbBPdBsAtC|@|DKbCvCfDbIzArCxEfE~DH`BeAn@k@zAnCrDc@fEFlAj@rAzDvBXrD|@`BHrA_Aj@aEo@{Ej@_DAa@[k@cCyBeBiAW}Cv@iIaFs@@yBtAiBo@q@gBy@]iEvAu@KmA_AS}C}@o@w@FoCtAaAlBuA|@kE?}B^kDiByCq@y@}Bs@i@gBSwE\\qG{BoAcB@aB`@_BtBwANeBOo@mBmAMyC[y@qAi@iCRsAh@eBrBqAEyAyAwAwDeDDmC{BeCYyDsHcDgJqDbA_@YsCqJRkEKeDtEw@fDmBh@R`AtBnCy@Gw@_B}B@c@hA_@jC|@n@g@NcAWoAoAkBMqA_CiB~@sBWsCvBgArBl@jAE|AuCcAaA}CWaDxAwA\\aAxA}AUEuCsAmBfAuJOuBmD_BiCmCqGh@eAlAyClAOh@l@zCDxGn@p@bCx@`@v@m@tEp@vDdApB_@lBz@~AS~A~@nBRxCx@|D?zJvCfJfE{@pBrFxDwAyCkI_Ev@}AyD_JtCrCrJf@XpC{@tArCpD_AxFvKxBNhCzBjDCxAvDpBfBn@CrB}B~@a@zCUz@Xl@dANbDbB`AVr@OnBqBrAc@bBBfBlAzAlGtB~E]vANx@j@l@vBnD~@|CbBvB_@rECvA{@z@iBfEaBfAp@XhDpAx@tFqAv@\\f@~AbBt@bCuAz@AtIfF`C{@pATdCnBd@xBn@^nIm@xFh@XS@aAeA}BSaDe@s@aCaAw@{@WsBf@eEoCoDTqAvAkAAsAsEqEgCiEwHwA{CsCU_APcB}@oDvAiD",
+"average_heartrate": 133.8,
+"average_speed": 7.955,
+"elevation_gain": 227.0,
+"source": "strava",
+"streak": 10
+},
+{
+"run_id": 16288663113,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3309.2,
+"moving_time": "0:31:25",
+"type": "Hike",
+"start_date": "2025-10-29 04:17:57+00:00",
+"start_date_local": "2025-10-29 12:17:57",
+"location_country": "\u6167\u5fe0\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100012, \u4e2d\u56fd",
+"summary_polyline": "aebsFedmeUOXM`Ah@pB@bAAfKDhBELOHOBy@B_B@iAL{AAcETuDA}@CeB@sAJ{@AsCBi@AaAD_@?}@GaAAOEMOEOE[GmCO}@C_@CeGDkAAm@KaBDqB@kAFcAAwCDk@DMx@e@LAf@@t@W^EtB?|@HxAGzBHfECxAD~@@~@Er@H~@@p@DxD@bCGT@XFDE@IBq@BWJIVCLEDIDMB{@AmAImA",
+"average_heartrate": 97.8,
+"average_speed": 1.756,
+"elevation_gain": 52.0,
+"source": "strava",
+"streak": 10
 }
 ]
