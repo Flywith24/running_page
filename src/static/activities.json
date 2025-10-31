@@ -20990,5 +20990,37 @@
 "elevation_gain": 52.0,
 "source": "strava",
 "streak": 10
+},
+{
+"run_id": 16298314229,
+"name": "Zwift - 30/30sec Anaerobic #2 on 2019 Worlds Harrogate Circuit in Yorkshire",
+"distance": 26985.2,
+"moving_time": "1:00:53",
+"type": "VirtualRide",
+"start_date": "2025-10-30 00:59:55+00:00",
+"start_date_local": "2025-10-30 08:59:55",
+"location_country": "West Park, Low Harrogate, Harrogate, \u54c8\u7f57\u76d6\u7279, North Yorkshire, York and North Yorkshire, \u82f1\u683c\u5170 / \u82f1\u683c\u862d, HG2 0NE, \u82f1\u56fd / \u82f1\u570b",
+"summary_polyline": "uxohIh}kHtJoGj@CZNV\\Lf@nOlx@fLrm@dH|^f@`EzAlOfBlOnDr\\zGhm@xArNnHvq@n@nF^jCBZ?XIROD[CcC[{V_EeMq@]I{@i@{BoBa@KUp@Mz@Sv@c@A{@sAc@Ca@Da@GqAcAoBw@_HiDmDuAsCsAq@i@o@s@iCiEc@i@e@a@aAg@cAUuW}ASGUSQ]ESEq@?YdB_u@G_Ca@qGCo@Do@Pg@~D}FfB}BZUz@Wz@GZJVXj@z@TVXFTQJc@AgAqAuMWmEBaANy@fIgVp@aB\\_@jBi@t@a@hDiC`A}@|AcCl@gAtFcJFQ@UQm@kGkM_AcCk@mBu@aDaEyROk@i@iAWYiBo@cBy@qBwAiByA}@y@mA{AwBuCsAsB[MU\\Ij@Ah@HhA\\nAbC|Gx@fCnGx^`@vC@l@IXOPsBx@g@^IRAV@lACp@Ip@c@rA_@t@}BtAwFrCWJUOIc@_AkG]qBm@cCk@kBqAaDaEiIeDkHeB_GUkAi@qDK[sBuBy@kAO_@Kc@MmBS}E?[HUNIvG}AfCw@zEmDRGPJLTfArCXj@nA`Bt@p@f@Bz@K`Bi@PKH[G_@i@iAK[sBeJC]B]HUV]jAmApC}BfAu@~O{E~Aq@tAs@~JwG^G`@LNLLR`@bBvAvHxb@`|B`@rDtAlNpBxPlDt\\lHdp@lClWfFhe@r@|FZpBD|@APGJUFUAeV_EmC]}CYyH]_@M}@k@cCuB_@T_@zBa@Z_@g@]m@c@Me@Dc@EwAgAwD}AqFqCkEcBuAs@q@g@_AgAoCmEs@q@cAk@iAWgWyA[GYWKQMs@Ay@n@{V^kPD}CN{FCwAg@mI?q@Lm@fG_Jr@y@\\Qz@Mx@AXP~@rAVRV@RUFc@EcBeA}J_@eGBaAJm@lIuVr@cBXW~Ag@l@YhDeCpAkAPU`JeOVc@BQASISyFqLq@yAm@eBi@oBw@cDwDwQOm@g@kAW]iBo@wBeAkBsAsBeBoBwBiCmD_AyAY[YPOh@Cl@@j@Ff@T|@vCjIj@jBZzApFp[b@vC@v@I^IHuB|@i@`@IR?fBM|AUx@k@lAgAv@uAt@aFdCWDQYmAaIUqAm@eCk@mB}AuDaEiIsCiGsBeHw@gFKYmBmBy@iAO]Ma@KiAYyG@YJOxIwBdA]bAk@jDmCRANP",
+"average_heartrate": 139.4,
+"average_speed": 7.387,
+"elevation_gain": 471.0,
+"source": "strava",
+"streak": 11
+},
+{
+"run_id": 16298835406,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3390.9,
+"moving_time": "0:37:01",
+"type": "Hike",
+"start_date": "2025-10-30 04:24:17+00:00",
+"start_date_local": "2025-10-30 12:24:17",
+"location_country": "\u6167\u5fe0\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100012, \u4e2d\u56fd",
+"summary_polyline": "udbsF}gmeUAn@KfA?b@Dz@HrC?lBCfCBfAC~@L|B?ROF}@Pw@@oBRgBCyAJeACaDQMBWJa@D}@D_BAs@NS@gBEqBDmAEkBHaBIICGIEOCUIaBSoCMwC@ULy@Bg@EqBMiABiACuDFq@CeABcAFc@NWTQNE`AA`AE\\Cb@QfAE~AFfBCp@HpAGdADz@Ct@@V@l@JnCK^Dt@?l@BbAFhA?rAM\\Dt@Ep@LDA@G?{@BUJK^KJIDKDYD}AS}A",
+"average_heartrate": 101.5,
+"average_speed": 1.527,
+"elevation_gain": 16.4,
+"source": "strava",
+"streak": 11
 }
 ]
