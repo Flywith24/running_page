@@ -21150,5 +21150,21 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 16358881275,
+"name": "Zwift - Cruise Intervals #1 on Hilly Route in Watopia",
+"distance": 27892.0,
+"moving_time": "0:54:56",
+"type": "VirtualRide",
+"start_date": "2025-11-05 00:57:53+00:00",
+"start_date_local": "2025-11-05 08:57:53",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "xu_fA_`_z^pDcCn@gAU_AgCkBMa@J]bC]lECb@b@YrAm@Tk@g@FuGl@cBn@d@|BzIlAb@`@a@Bw@{B{ICcBnGaAfH_GhBy@dM\\|BtAj@rAN~AYjAaChCg@pA@fKi@VgEaAaFhEgNlB}ErAm@n@M`AEtCPlAfA\\jHqB`H_AdDKbYjGfAy@xAcGf@w@`Ia@tCHhBn@^nDbC~DKbAeCv@En@d@zA[x@{@KwCaDgAYi@h@uAnEm@ZiCiE_AW}JjG_Az@eFyJqAe@aCBiAb@G~Al@|AtBrA_@t@oBxAQFeAeAgA[SoAeAqAqADo@p@O`A`BdAEdB|BrA{@z@DbAuCl@}AiAkCeHgA}AqKyDkDwB}AuBuAqEFaDhA{AdGiEb@aAc@aAaCgBCq@hCe@xE?Xf@g@~A}@GMk@J}Gv@mAj@|@nB~Hf@f@p@?X_@@}@}B_JCwAxGgAbH{F`Bw@xKNvCbAv@rAZhBQtAgCnCg@lAFlIMjAm@J}D}@aD|C_Ah@kMdByFzAm@p@ObAE|BVhBnAPzGmBvG}@vDMjYhGz@w@tA_Gf@w@vCExE_@tCRx@`@d@zDtBpCL`Aa@v@sBh@Ap@b@xA]x@{@QoCwCcAa@m@`@sAhEe@l@o@c@qBoDq@QcKlGk@|@m@[kCiGeA{AsBc@eCXg@d@LjB`@|@jBbAF^aDdC_AaAgA]UqA_AkA}@Io@Vc@v@Er@`BfACdBjBv@L\\}@r@ClAcCb@y@Ue@k@kCeHeA_B{BkAsGmBuFgEgB{EOaBL_BdAyAzFaEn@_AWgAeCeBE_AlCa@hEA`@`@_@`B}@BUi@H_Hx@sAn@fAlBvHb@b@l@B`@c@@s@_CgJAyAtGeAtGoFnBaAnLPpAZbAx@l@rATbBWlAaCdCg@hAExKg@PcE_AyEdEyNrB}EvAe@j@SfBAvBTjAjATpHuBnG{@nDMzXlGhAy@tAwFn@cAdIc@jCHnBr@XdDrBrCTv@WfAcC|@d@vBOv@cACuC_DmA[k@r@qAdEg@\\kCeEu@_@iKjGu@~@o@i@wBmFkAeBwAe@oBDsAb@IrAp@hBtBvAsCjC]@w@}@aAUa@cBaAiAkADk@h@SpAvAz@BjBxBtA}@|@Jr@MT{C^{A}AsB}FgAeB_M{EoCkBwAoBmAaEAwCv@uAzDsC",
+"average_heartrate": 134.0,
+"average_speed": 8.462,
+"elevation_gain": 326.0,
+"source": "strava",
+"streak": 3
 }
 ]
