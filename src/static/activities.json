@@ -21166,5 +21166,21 @@
 "elevation_gain": 326.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 16369640848,
+"name": "Zwift - Endurance #1 on Beach Island Loop in Watopia",
+"distance": 31868.6,
+"moving_time": "1:00:19",
+"type": "VirtualRide",
+"start_date": "2025-11-06 00:57:00+00:00",
+"start_date_local": "2025-11-06 08:57:00",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "hq_fAqt~y^tAtDhBnBtDzBfHvBvAz@pEpK@^_@NgBeB}AU_AZm@jATtBhGbRgA|AWrA_BdBy@pB@v@jBbFf@`@fAEpAuB`Co@tAj@j@vDIzDeBh@UfCPf@tDlCr@FrFkBb@`@?^}Cf@a@\\DTvGPpBe@tBkAn@}@p@kDhCkChE{Hv@iC`@iGk@gNh@kF|@_Er@gAxFyEpB]lBr@|@KFw@eAu@dCMd@q@g@w@wBVeASmDkDaAc@y@r@wApEk@P}C{E_@GsBz@m@_B}AcAGoAb@]xAVn@c@~BgK|N}ApAq@_A_@sKrAi@GUa@Vw@r@_@jJqAvAq@mHiPEeBfAaBlAQ|AnAfDzKt@fAfI?lBk@VaBDyIfAmCnBsJFmP]eAgCEq[zImI`AwCy@kGsHuBm@{BDcBf@aBlAcC~FiAhAwQjCeE`AsDnBkBfD]rEnAzLoBb@Sj@Vl@`CdBRr@u@hA_HdFe@jACdB|A`GfBrBhEfCtGnBbBbAtEvKGd@[@eBcBoAUeAVq@lAV~BdG~QcAtA[xAgCfDOhBpBfFh@ZrAQv@iBhCw@tAl@l@bEMfDM\\wAVWdBJz@fA`AvCbB`GsB^PNp@gDj@_@\\DTrHLbDoAdA_AhAoExBuBzFcLp@}Gk@gK@}Ct@cGt@sCrH{GlBUfBr@r@GRq@gAcAbCId@q@e@u@{BTgAUsDsD{@Wo@f@_B|Ee@NaD{Ek@AaBz@s@gB{A}@GwA`@YrAXp@_@nAsEx@{DrNyApAg@Ea@u@KwJpAwAWFw@j@e@fK{AnAo@mHkPEaB`A_BzASvAnAbDtKx@jA~HArBi@ZgB?iIbAeCnBoJFiR_Ao@aBJw[|IgI|@eCm@sEcGsAaAeBe@{BBmBl@_BnA{BpFiAlAmQhC_E|@{DlBmBvCi@|EpAdMiBd@Yf@Pn@nCrBHt@{InHc@bBFlB|AxEnBzBtD|BnGhBlBdAbA`BpCvHCb@YFcBaB}AYgAb@g@dAZ`C`GpQeA|A]`BqB~Be@rBnBrFf@b@tAKz@gBlCy@tAt@f@jDI|DaBh@YbCNf@tC`CxAVtFgBd@v@oDr@Wb@LRvAOzDXlCw@pByAjAsExBqBnEeI~@{C^wFm@eNl@aGx@sDp@eAfG_FjBWfBp@v@ENu@cAk@?UdCI`@m@g@u@{BRaASgFmEw@^wBxFq@a@qAgC",
+"average_heartrate": 131.6,
+"average_speed": 8.806,
+"elevation_gain": 127.0,
+"source": "strava",
+"streak": 4
 }
 ]
