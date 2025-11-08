@@ -21182,5 +21182,37 @@
 "elevation_gain": 127.0,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 16379945573,
+"name": "Zwift - Tempo 20min / Target RPM #2 on Lutscher in Innsbruck",
+"distance": 21145.3,
+"moving_time": "1:06:08",
+"type": "VirtualRide",
+"start_date": "2025-11-07 01:03:17+00:00",
+"start_date_local": "2025-11-07 09:03:17",
+"location_country": "Franz-Greiter-Promenade, Saggen, Innsbruck, \u56e0\u65af\u5e03\u9c81\u514b, \u8482\u7f57\u5c14\u5dde, 6020, \u5967\u5730\u5229",
+"summary_polyline": "ccp_HqxpdA|CxApB@`UjB\\MJg@Ak@kAoMe@sDBu@\\YjE}@d@HxBfAh@CTWRy@NuAx@kLVa@r@W\\W`BqClBmEzA{FZCxCn@\\?VWHk@A{AMmDUaCFu@LQp@a@dGwB|G}DfA_AxCoDXa@VeALMvAGtEqCz@_@hGgB`IkBTOZi@VOP]Di@Cm@q@qG@mAXiFE{BQmBi@oD[gBq@cCa@cCwAcLaCkZIiD@kFNsCRuAXeAdAyBReADoBSqF?{@DSVGV\\ZlDz@bEl@rBVZVJXEXYJe@@g@Y}DAaBP{Bl@aEr@_Dv@wB^g@z@QPM\\o@Pw@Fo@EsCY{LQqBkBsKEmANkAfA_DtA_DPSVMbB@vEdA~An@bBrAz@hAn@|At@zC`B|HhAfEl@~Al@~@jA|@bFdBjCbB`DvCrA|Bt@r@bFlBdEbB|CnBlIzGP^?d@KpA?NJTb@?hCwAt@I~BdBj@XxD`@bR~F|@f@`CvBdAh@pK`C|A?jF_B|BMzAJ`ATfF`C~ApAtBxBtAnB~@hBrBhFlBbIjAdEfA|BvAnBz@x@hAv@~CtAfAVjMlB~A`@`Ab@rDpCtAhBF\\G^e@jA_@f@kAZqFp@mCJwAXwAf@mBfAuDbDwDrDkCpBQXk@xAo@TsAD}@Pw@p@}BdDaD|B}@dAu@lAiFzJy@hAa@\\uBr@cDXyB?}Ck@e@F_@^[j@mChGg@xAg@jCgArI]bAUTs@\\mAXiCFs@b@qBvBqAd@yAZaBAaEoAa@?a@V_DjFwCvD}AxAuBrAq@VYAsAu@aAGiBDc@O_@]c@OsDk@]UcA}Ba@WsBBe@QUs@@sDI{@o@_B{@kAaB{AsC{AmDmCgBw@{BwA_Aa@cAKeABqCf@c@T]d@e@zAY`@w@t@y@b@y@DqAc@q@g@o@u@Sa@_@oAy@iFmBoPwAeHaAaK?wAQmA}@cJ?cAZcG?}@KyA_A_HgAsEqAwIm@uFiBgUSwDEqCB{DLmC`@gCnAoCVmABmBQyGDe@XETZNrBL~@|@lE`@xAXb@\\JXCVWLc@Be@[qEAwAR}Bd@aDt@kDx@aC^k@jA[\\k@VaADg@EqCYiMW_C_A_Fe@eDEw@HcAd@cBdAoChAyBl@Qt@@rE|@vBx@xBdBr@fAl@~AvCbNhA`Eh@tAl@z@l@h@~EfB",
+"average_heartrate": 134.4,
+"average_speed": 5.329,
+"elevation_gain": 628.0,
+"source": "strava",
+"streak": 5
+},
+{
+"run_id": 16380495615,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3055.9,
+"moving_time": "0:32:57",
+"type": "Hike",
+"start_date": "2025-11-07 04:29:54+00:00",
+"start_date_local": "2025-11-07 12:29:54",
+"location_country": "\u6167\u5fe0\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100012, \u4e2d\u56fd",
+"summary_polyline": "mqbsFgjleUkAHqE@gCAgA@iAFgA?mADaA?iACqBBmAMMEKIGMESCeDQmA@eCEw@?aABkBMcBDiDCyBHiCFw@LOj@Qj@EzA?PETQLCbAEn@?bAFpACpA@f@CNDlBAhAGdBJ~B?p@Fp@MZ?p@Gh@Bj@PXDz@?vAGX?HEDIHw@DSLGd@ADEBEBkBK{@Ei@",
+"average_heartrate": 100.9,
+"average_speed": 1.546,
+"elevation_gain": 50.4,
+"source": "strava",
+"streak": 5
 }
 ]
