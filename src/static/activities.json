@@ -21214,5 +21214,21 @@
 "elevation_gain": 50.4,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 16390169638,
+"name": "Zwift - 30/30sec Anaerobic #3 on Suki's Playground in Makuri Islands",
+"distance": 35058.9,
+"moving_time": "1:08:10",
+"type": "VirtualRide",
+"start_date": "2025-11-08 06:23:52+00:00",
+"start_date_local": "2025-11-08 14:23:52",
+"location_country": "New/Noole Ward, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "zjv`Aa_fs^e@~A|@dDQbBZjAtChClHnAfJjL?nA}AnAQdAnCpDe@fERjB|EhDZvD`ApBQzAqGc@kIj@k@[g@{BuBiByA]yCt@{H}EcEtAkBy@yAyBuFpA_BkAYiDeAa@_EfB}@jByB~@wHTyHaDu@_CqBkAdBiF_A}BCaCdDaDReCi@{FkCoDhAwDsAaDj@uAvDk@r@oBtDw@`@sAqAsAoHs@BkCtBUwCM_@}@f@KZp@h@m@`BTfBjC|@_AtAdAxAcAlGi@hFnAmBwERgAl@W`DxA~@G~AkAWcBqDAqC]gC|@yEH}CzAqBgBpAgDaGaEqAx@uEgCqFhHkCuAqHsAkDmBsCwDkEq@gAcCqBiBg@{DhAaBm@}@yE[uEpB_AvAuAKM}CsAmBfA}JQqBaDuAqCsCqGf@mFtDf@bDAvFj@tApDlBm@zExBlH_@tBx@rAMhBz@fBlAzIG`JhCvIj@j@rDw@xIrSzBRnC|BtDDjAhDjBfBbAErDyCxCSdAf@j@rEhBjAR|@QdBoBlAe@dB@dBrA~AhGtB~E]zBiF_AwCAuBdDgDReCa@iFsCaEhAaEmA{ACgAt@mAbDc@|@uBlDq@f@wAsAuAmHs@BiCtBSyCQWcAx@l@p@m@|AThBjC~@aAvAfAzAeAtGe@tOnD`BnBpAu@a@yBhBq@pCzBl@zDr@z@~BVzBw@`A^EtEoAjCh@`HZbAjCfCzHtApCtEpEpEC|AmBvBpC~D[vGv@xAhDdBfBnJiAl@iDo@iKh@oAcDyBcBeAWwCx@mIaF{DvAcBq@gBcCeGjAkAgAMuCaAo@iE~AgAvBcBx@{HV_I}C}@eCoBoAfBgFcA_C@eC~CwCTcC_@iFwCiElAuDuAaDt@wAlDk@p@kBrDu@d@qAcAsA{Hy@@iCrBWwCMY{@^O`@r@f@i@dBXlBdCz@_AzAbAjAaArGi@hFlAsBqENiAv@WhCnArA?xAeASiBsDAoC]eC|@}EJwCxAuBmBtA}C}FcEoAz@wEmCyFjHeCsA{GgAcEwBuCwDqEw@wEkHAmCdAkAa@{@sEe@aFpB}@tAiBOCuCqAyBbAeMmH{FyGVqFfDh@zMpE|Cm@vEtB~G[~Bv@pAOdB`AvBlAxIElJxCjJbE{@~IzSfCZlCzB~CI~A~D|AxAbA@rD{CzEFf@`ANbDhBdARx@QfBcCrBS|CbAzApG|BzFe@lBiFcAsCFcChDwDQqH}C{EjA}DsAiBFqAt@{@`Da@t@sBlDm@f@}@w@iBeI{@",
+"average_heartrate": 131.5,
+"average_speed": 8.572,
+"elevation_gain": 280.0,
+"source": "strava",
+"streak": 6
 }
 ]
