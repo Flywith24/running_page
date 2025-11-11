@@ -21246,5 +21246,53 @@
 "elevation_gain": 53.4,
 "source": "strava",
 "streak": 7
+},
+{
+"run_id": 16410260971,
+"name": "Zwift - Anaerobic Capacity Hills #1 on Glasgow Crit Circuit in Scotland",
+"distance": 30512.0,
+"moving_time": "1:00:34",
+"type": "VirtualRide",
+"start_date": "2025-11-10 01:03:06+00:00",
+"start_date_local": "2025-11-10 09:03:06",
+"location_country": "Portcullis Buttress, \u5317\u827e\u5c14\u90e1, \u82cf\u683c\u5170 / \u8607\u683c\u862d, \u82f1\u56fd / \u82f1\u570b",
+"summary_polyline": "wpqrIbxz^Q`Hk@b@_CA{@Sg@kA?uI[yAmDEiFvAk@M[aBDk\\`@{@bI?V{@AwDd@_AbN?lAh@Ln@?~J[bAcJAg@x@a@Ju@eAyCAUj@?|JLl@dTJx@h@HvDQ`AyF^K~LSt@a@ReDGu@u@MmA@yHa@qAyDB}EtAm@_@Q_BDa\\Ng@ZO|HAN]@qE^}@tNAfAt@DxLQb@oJF{@bAkAiAsCBOd@CtJX`AbTBr@j@HnD]tAmFPGtKIdA_@f@sDAy@w@KuK]_A}D?eFvAe@e@OuAFm\\`@q@lIEJoFb@{@pN?dAv@DrLKd@kJHaAdA]Kc@y@yCCWv@AjJVv@`TH`@JVl@DzCSpAuF`@K~KK|@[`@gDA{@i@SkA?kIYkA_E?eFtAi@c@OkADm\\`@{@hIAL]B{EZs@lMEhBd@NnA?`JYdA}I?gAdAcAgAmCCUJGh@AhJLx@lTLr@h@JdDWxAqFVO~LQv@a@RmDIk@k@QqA@}H[oA{D?aFvAm@_@QmADs\\b@w@dIAN[ByEd@{@`MAbB\\V`A?xJYbAgJ@aAbAaAgAuC@Sb@ArJP|@jTJn@l@L`DWvAwF`@IvLSv@a@RcDGo@e@SsA?iIa@kAaEDyEpAi@a@OkAFa]j@g@|HCL_@?oE^}@|N?~@t@F|KYdA{I?eAdAsAiAkCBSh@ApJTz@hTJp@l@F~CStAwF^KpLMv@]XeD@y@m@QkA?kIYkA}D?eFtAi@a@Q{AFe\\h@s@|HCR_A?wDh@y@fN@`A`@NnA?`JYdA_J?gAdAcAgAmC?Y^ChKRn@|SHz@f@LvCWhBwF\\G~KOfAg@ZiDGs@y@IkK_@iA_EB_FrAi@g@MiABi\\d@y@nIODcFf@_ApLAtB\\TfAKhLmJLaAdAqAgAkC?Ub@ApJN~@nTLl@f@JvDYlAqFXInLOv@]ZcDCy@i@SiA?gIWoA_ECgFvAi@g@OkABa\\`@aAnIIJeFd@eAjN@`A`@Pz@IjLoJNkAdAu@eAsCAUHId@AdJP`AlTJn@h@H|D_@hAiFNKrLOx@]ZgDEy@m@QmA?mI]eAcEDwErAk@a@Q_BHo\\h@i@vH@V{@AuDb@aAbPT\\tAK`LwJN}@bA_AgAgDPGjKPx@bHH",
+"average_heartrate": 121.8,
+"average_speed": 8.396,
+"elevation_gain": 331.0,
+"source": "strava",
+"streak": 8
+},
+{
+"run_id": 16410702073,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3522.6,
+"moving_time": "0:39:22",
+"type": "Hike",
+"start_date": "2025-11-10 04:16:27+00:00",
+"start_date_local": "2025-11-10 12:16:27",
+"location_country": "\u6167\u5fe0\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100012, \u4e2d\u56fd",
+"summary_polyline": "{dbsF_fmeUATPfJ]vC\\lDD~BCBmARyCTcFFgAHaCHwCMmAFu@Fm@?m@Iw@F_A@q@DmAGmBAw@D_@GOMIe@GuDKm@A[G_DB_ACaA@{@M{BBqCAuAF_AByCDOBIVMVEn@C`@D^Eh@Mb@Wb@CrCFxACr@Fh@@LFd@?fAKjA?fADdEDlA?`ABjA@`BAp@En@Ht@BBCBIAeAF[DEHCZHJ?FEBKB}AC[Ms@Ca@",
+"average_heartrate": 91.4,
+"average_speed": 1.491,
+"elevation_gain": 56.4,
+"source": "strava",
+"streak": 8
+},
+{
+"run_id": 16412569029,
+"name": "\u5468\u4e00\u516d\u516c\u91cc",
+"distance": 6734.7,
+"moving_time": "0:39:28",
+"type": "Run",
+"start_date": "2025-11-10 10:13:40+00:00",
+"start_date_local": "2025-11-10 18:13:40",
+"location_country": "\u5965\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "mkbsFirkeUm@n@wArA{AnA_DzBIHEH@BJCbDwCHENEXUlBiBrBeCj@e@z@m@lAq@p@SdCk@b@ExBGzAFn@J~Af@l@XlA|@`DfB\\HJA@CQQiCaAmC}AuA]cC]i@AeCHc@DiAXcAZ}@`@uA|@_Ar@yArAs@x@YXwAfAuDbCSVCJD?HEnBoANSHYtCeCpAoA`AgApBgBLG`Bq@`@M~@SvAOlBIp@?d@FdB`@fA`@d@RnAz@TFnCxALDFA@CAGGCqAe@gBy@}AaAg@Q}Ac@g@ImAIkA@_AFqAZaBl@wDlBsCvCmB|A[\\yA`AiAz@i@ZGH@BF?RMxAkApCoBhBgBzAmB`AaAjAy@h@Yt@Yr@SjBUvBEXBxARz@H`ATZLxBtAjB`ATJd@JFC?CQKwA]_A]oAy@}@g@YMaAUe@EwAAiCHg@HmATy@VgAd@gA`@mCvBs@f@eAdAcAv@cA~@yAdAy@f@IJCJB@JEjBgBdCuBnAkA",
+"average_heartrate": 144.9,
+"average_speed": 2.844,
+"elevation_gain": 16.0,
+"source": "strava",
+"streak": 8
 }
 ]
