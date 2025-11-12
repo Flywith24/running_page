@@ -21294,5 +21294,37 @@
 "elevation_gain": 16.0,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 16420555550,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3003.8,
+"moving_time": "0:33:49",
+"type": "Hike",
+"start_date": "2025-11-11 04:30:51+00:00",
+"start_date_local": "2025-11-11 12:30:51",
+"location_country": "\u6167\u5fe0\u8def, \u8304\u5b50\u5e02, \u4e9a\u8fd0\u6751\u8857\u9053, \u5927\u5c6f\u6751, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "mdbsFa|leUCb@AxBHrICNSL_@Fs@BqA@i@Lu@FaCGg@GQ?sDZc@H]Es@A}@Gm@DaCJwAEgBF_EKeAJQGMUIq@EwCOy@IkA?sADqB?gACo@IsAAoBBmA@sFBUFQb@Wt@SzAEZG^Ob@CbB@jAFhAEb@BTC`A@|@Cv@HhAC~ADvACrDNrBB|@CxACFC@GB]Cw@AyE",
+"average_heartrate": 88.8,
+"average_speed": 1.48,
+"elevation_gain": 3.6,
+"source": "strava",
+"streak": 9
+},
+{
+"run_id": 16422945995,
+"name": "Zwift - Cruise Intervals #2 on Jungle Circuit in Watopia",
+"distance": 28545.1,
+"moving_time": "1:01:03",
+"type": "VirtualRide",
+"start_date": "2025-11-11 10:08:41+00:00",
+"start_date_local": "2025-11-11 18:08:41",
+"location_country": "Usili, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "tgefAor}y^vDlEbFbBfEhGnCfA`Np@hRyE|GbBvFBHnBTj@tC]|CbAa@fA_DNWhAbE~C~AfCb@dCm@rF~BvBb@lBg@|ALzA_@f@_APqDeAmBjBT`BxBdB\\tBaBSo@^l@fCyA~@?dA`@v@lCbAb@lGbDvCtAvDrD|AvAfBbF`A|By@vFQnAb@b@jC`AdAxEs@n@b@|@hCzBf@rCWpAgBh@C|Ah@`@zBtElArBgAnAmEaAoBkDuBD_F|BgDvDe@vBeA`@y@FeCc@o@kFkBoDv@yCsBqBpB_CcC{BMsA~@n@`C{@bBP~Aw@nAsBAyChAkFeCoA}Av@_DsCcCXuCs@gDJw@hAi@rDt@dCzAzGKx@a@TeCn@QjAb@fA}@MmD}Aw@{@cB_CYeDXkU}Hi@qCoByAsCW{@n@BpB}@bAiEcBuAl@OrBhBrAr@hBg@dCNlAqAx@}DeAmBfBBjAdC|B^vByASu@Zj@jC}AzAVtAtClALpDl@zBtC~BzA~DfDnA~@vA`GpAnBu@jGSfAb@`@jCfAfAnEw@r@b@`AlC~Bb@dCUxAiBj@A~Al@?nA`@j@rEdAlBgApAmEiAuBeDsBJ_FzBcDbHcBh@cAHuBUs@{FuBmDx@{CqBkBpB_CcCeCOmAv@p@dC}@dBP~Aw@nAoBA_DjAeFaCsAeBv@}CqC{BV_Du@iDNs@jAg@nDt@nC|AzGQp@_@NaCv@SfAb@dAy@Nw@_@aC{Aq@gAgB{GBiU}H]cCgB}AmD]u@t@HxAy@nAyEaBiAf@WtBjBvAp@|Ac@tCNjA_Bx@oDeAuBnB`@fBnBvA`@tBkCBId@p@~A_BlBXrAzCrA?lCt@zCpCvBxA~DdDlAvAjBhFbApBu@|FYxAh@`@jCjAfAjBu@fBAfBhDxBh@xCWbA{A~@KzAp@PlB|EpAhB_AxAyEgAsBiDsBHuE`CmDtDe@~BqAZ_EaGmCqDv@_DqBqBpB{BaCwCO}@x@p@bC}@dBRtA]|@eCT}DbAyGgEp@mDqC}BVkDo@eEjAw@xDv@dCxA`HOt@e@LyBv@UfAd@fA_AU{DyAk@{@cB}BY}CZuU_Ia@kCkCgB{C@]f@F~AeAnAwDcBgAHm@jCzCtDc@rCNnAuAz@aEcAiBjBVzAxBlB\\lBiBOg@`@j@fCqAt@FpBxCnAl@xGdDzCxAxDfDpAlAbBvFfAvBw@xFSpAj@jAzDh@R|@a@",
+"average_heartrate": 137.3,
+"average_speed": 7.793,
+"elevation_gain": 264.0,
+"source": "strava",
+"streak": 9
 }
 ]
