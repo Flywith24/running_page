@@ -21406,5 +21406,21 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 10
+},
+{
+"run_id": 16441438450,
+"name": "Zwift - Endurance #2 on Knickerbocker in New York",
+"distance": 26551.1,
+"moving_time": "1:02:52",
+"type": "VirtualRide",
+"start_date": "2025-11-13 00:17:53+00:00",
+"start_date_local": "2025-11-13 08:17:53",
+"location_country": "East Drive, Manhattan, New York County, \u7ebd\u7ea6;\u7d10\u7d04, \u7ebd\u7ea6\u5dde;\u7d10\u7d04\u5dde, 10065, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "q{zwF|zmbMu@mBm@e@aDC{GiBgSkPs@cAw@eDCaAXeEc@_CqWgQoEoC{Ac@gGUoDdByA?{EyC{D_FeB_BoF@sD{@eBiBu@{Bc@i@kADq@tADlApAhD@f@[dAs@\\q@YcCoCoAy@aDqAgAVwC~GoAtJ@|@\\t@jAz@z@FjAo@x@uDn@w@bG_AtAf@|@x@^t@zA|Fh@j@rB`A^f@xBvHf@bAbLzGl@t@zAfDbF`@nA`@d@l@d@lAhA~EjCtDxBnAtBd@hBQvDeAvB\\bFjF|@fC`@b@hAR~CMvBnAbJpKpE|HpBvBzAj@hHYbBZ\\`@~ArEr@fAhBfAlIbDtBxB~EbHvExDpANfAi@n@kAEwA{D{EsHoG}@cCAw@Le@b@IdEh@xDoCrBOp@_AbCiGxAy@j@VnA|B`@^b@OlAwBz@ClA\\dFfDh@dA?tAo@xBeDpHgFhReBbFwAvBu@f@aADwA_@yE}Ce@gAAm@^yBz@eCnBeB@gAe@qCBoArDcJNmAEg@y@mAeAk@UHaAvA}BVkDhCaFc@WVGjAPdAr@tApGjFpE`Fl@Xl@Kl@aApAeEZ{BIiAa@{@yIaFmAmAaA{AS{@?iArA_FFy@Iw@eBiC_EmC_CcFs@y@kDsAgANm@v@Ot@CnCsA~HL|Ek@lBkBrBiAh@kCg@yIP}@i@gBmBsE_IsJaLqBgAeDN{@SY[{@gCgFmFyBc@iElAmBJcBc@yBuAgCoDkAgFkAsBy@]qFa@_@e@_AaCu@_AuKkGq@oA{BwHg@i@gCuAiByGe@w@y@u@yAe@gG~@u@~@s@pDcAl@w@CgAw@]{@Ce@jAiJv@cC~AkDn@YjAThDhB|CfDx@Hp@g@TyAkAeDKeBb@}@hAO^b@v@dCbBzB?dCN`AlB`Ej@hBDfAS~AuBdFtCnKz@~@|JtFl@x@zAbDvFf@~@`@z@`BlAjFfCtDdCxAnBd@bBQbEiAxBb@nErEbBvD~@X`EIjBnA~JpL|DhHrChC`ALpG[bDh@jAi@hBoBt@kCQ{DtAcJOwCg@]}AGaBeA_AkAqAiDm@u@eDGwGcBaTcQa@o@s@qCIwAVyEUsAm@y@oXuQeE{BqH]sDdBm@F_AWgEsCkGoHo@Q{EH_Du@oBqBcAsCm@WeAd@[|@NlBbAzBFf@QfAUVkAF_EaE_D{AcAKi@Ty@|AkArCe@tB",
+"average_heartrate": 121.1,
+"average_speed": 7.039,
+"elevation_gain": 422.0,
+"source": "strava",
+"streak": 11
 }
 ]
