@@ -21518,5 +21518,21 @@
 "elevation_gain": 17.4,
 "source": "strava",
 "streak": 15
+},
+{
+"run_id": 16490557072,
+"name": "Zwift - Sub Threshold #1 on Classique in London",
+"distance": 30645.3,
+"moving_time": "0:55:15",
+"type": "VirtualRide",
+"start_date": "2025-11-18 01:04:35+00:00",
+"start_date_local": "2025-11-18 09:04:35",
+"location_country": "Admiralty Arch, Whitehall, Victoria, City of Westminster, \u5927\u502b\u6566, \u82f1\u683c\u5170 / \u82f1\u683c\u862d, SW1A 2DY, \u82f1\u56fd / \u82f1\u570b",
+"summary_polyline": "yrjyHdyXzHzVxGtTNp@B\\AZSnAAZ@bDInGs@tf@@vA@RFPJGDm@?mHj@q_@FsGCeCBs@Pm@Z]tAB^QtC_DVc@FU?[_AsQiBo`@@{Bh@}OIqCGOMIe@IcI@gDTmBZmCr@yHzCmAJ{@s@s@UMQkDiIsDkJgCqH{@iDIUMCEVBVfAbErBdGrEjLFZ@\\CtDDx@JRP@zAa@b@FVf@PlAHTJNn@D\\TZZTd@|Ozg@tJv[F^@`@U|AA`@@bDI`Gq@xf@?bBBRFJHIDi@?_Il@ia@D}E?eDLi@V]^Iz@F\\MzCeDT]Hk@}@}PmBga@@eCh@_PEuBCYMSOIa@CkI@wCR_BVuCt@mIbDcAF_Aw@g@MOMMUkDoIyDuJ_CaH_AsDO?CZDZbArD`C`HfEtKHx@CtDDz@LPP@xAa@d@FLPHXHv@Tp@NHt@J^\\Zh@pPhi@hJ~ZDZAZUhB@zDGlFs@nf@?tBHb@HEFi@?_Jl@{_@D_FCoCDm@Ng@X[\\EjA@|CeDT[Ne@kAgV}Am\\?kBj@oPGmCGWMMa@GsI@sCRaC`@_Cl@_I~CaAJOEm@i@w@WOQ}@qBkHyQgCqHs@yCIUQ@AXDXhAdErBbGlE~KHX@\\CnEB\\FVPDxA_@d@?NNJTPpAHVNPb@B`@P\\^Zh@nRdn@tGjTPx@B`@SzAC^@|CIxGq@bf@AdBBVHRJKBs@?mIl@_`@DyEAuDRs@LQPKlABPCNMzCcDVi@D[_AuQkB{`@?kBh@{O@y@EsAEYYW]EkI@yCRoBZqCt@{HzCoAJaAw@o@SKQkDkI_EgK_C_Hy@eDIOMBAT~@xDvBnG|EfMFl@AvEHj@ZDtA_@\\@VXTvANd@LHh@DXNXX^p@r[vdAF^A`@SzA?zDIxGq@te@AfBBXHPJMBq@?oIj@m_@FmFAoDPq@\\_@zA@PIbDoDVi@B[gAgScBk_@?gBj@iPGmCISOK_@GoI@qCRaC^eCp@_I|CaAJOGo@i@w@YMQwDcJuDqJ}B{G_AsDOEGVr@zCr@xB~AvEjBpEdBxEDz@CtDHv@NHPAhA[d@ANJJTRrAVh@b@B`@P^^Xh@lRbn@dHpUF\\@\\WpB@hDI~Gq@bf@?zA@VFPJEDm@@qJf@c]HkHCaCDq@Pi@\\Y`B?|CeDV]Ni@yCcn@O}D@{B",
+"average_heartrate": 129.0,
+"average_speed": 9.244,
+"elevation_gain": 143.0,
+"source": "strava",
+"streak": 16
 }
 ]
