@@ -21505,7 +21505,7 @@
 },
 {
 "run_id": 16483191813,
-"name": "\u508d\u665a\u8dd1\u6b65",
+"name": "\u5468\u4e00\u516d\u516c\u91cc",
 "distance": 6140.6,
 "moving_time": "0:34:29",
 "type": "Run",
@@ -21532,6 +21532,22 @@
 "average_heartrate": 129.0,
 "average_speed": 9.244,
 "elevation_gain": 143.0,
+"source": "strava",
+"streak": 16
+},
+{
+"run_id": 16491154654,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3477.7,
+"moving_time": "0:34:42",
+"type": "Hike",
+"start_date": "2025-11-18 04:22:12+00:00",
+"start_date_local": "2025-11-18 12:22:12",
+"location_country": "\u6167\u5fe0\u8def, \u8304\u5b50\u5e02, \u4e9a\u8fd0\u6751\u8857\u9053, \u5927\u5c6f\u6751, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "qebsF{gmeUD|CPrEJnOe@ZmCH_@CUBk@EK@SJIByAEcBJoA?gCF_AAu@By@CeAFyBD}@EaAB{EAc@GSSIWAWAe@@u@C}@QiAGsA?c@JeB?{AAy@OiA@_@Ho@@_@EeBBeAGyACcAFk@P_@PIx@O|@U`BM`A@~AFpAAjBJNCXMTAlAPr@DxEIvGLtA?`@CXHpBIDCBIBy@DSHG^GNEFIBM?u@YiC",
+"average_heartrate": 101.2,
+"average_speed": 1.67,
+"elevation_gain": 60.6,
 "source": "strava",
 "streak": 16
 }
