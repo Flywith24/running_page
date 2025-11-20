@@ -21598,5 +21598,21 @@
 "elevation_gain": 2.4,
 "source": "strava",
 "streak": 17
+},
+{
+"run_id": 16510778783,
+"name": "Zwift - Tempo 15min / Target RPM #3 on Volcano Flat in Watopia",
+"distance": 39656.1,
+"moving_time": "1:09:26",
+"type": "VirtualRide",
+"start_date": "2025-11-20 00:45:21+00:00",
+"start_date_local": "2025-11-20 08:45:21",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 137.9,
+"average_speed": 9.519,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 18
 }
 ]
