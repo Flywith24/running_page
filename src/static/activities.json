@@ -21678,5 +21678,21 @@
 "elevation_gain": 8.6,
 "source": "strava",
 "streak": 20
+},
+{
+"run_id": 16540128833,
+"name": "Zwift - Anaerobic Capacity Hills #2 on Ocean Lava Cliffside Loop in Watopia",
+"distance": 29332.9,
+"moving_time": "1:00:12",
+"type": "VirtualRide",
+"start_date": "2025-11-23 07:00:44+00:00",
+"start_date_local": "2025-11-23 15:00:44",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "zv_fAea_z^yC`Ck@`BHjCnAbE|ApBhCdBfJ|CvAx@`AxAzClI]^_B}A}A_@cAVs@hAVhCbGlQE^aAhASpA}A|A}@zBBt@bBvE`@f@p@F~@[~@gBr@AnAk@fAn@j@~DKpDeBp@SxBTp@`DbC~@PnFoBd@TJh@aDh@c@b@HVbBKjDXvEcB`AiAp@oD`C}BxEuIn@uBb@kGm@oJ@cCj@uF|@sDv@iA~DqD`Ai@jBWzAp@bAEJ{@{@_@E[dCI^g@[w@iBS_AeCFo@rBg@^eAWeAqBqCc@sDaDu@{G\\cAKIQLe@jLcAjAi@Qa@m@GaKpAiAWFy@j@c@pK_BfAw@eHgOU{A^yA|A_AbBr@l@~@rCzJx@hArMS~^fGn@d@HpEj@r@|@Y\\eElA_Cf@Oj@lAs@lGn@lBvE|A~QzDjAGrCiFdDsBp@kClDoBx@aDvAoBj@aDBkDQwBLcA|@iAbC[nAoATs@GcBcBw@w@kCh@_BrEcDa@_F\\}A|@oBi@gBh@[nAj@r@y@~Ae@R}@iA_BDq@~@oA^sAxBi@b@s@GiBtA_HCo@aD}EmIwFiI{BwI]cN~AcF~AiB`AaDBc@l@Iz@hAbBH|ClBtBUzA}@FmCiC_@EsBnBqFzB}g@zLePtEmAn@Mr@pBvGOVwMbDkGd@wBu@_EoFkAaAoBo@yB@oBh@}AhAqCnGkAbAwQfCmGhBiCtB_AtB_@`CDvChArJkBd@Wh@Tn@bCdBNfAkItGc@z@MtA`@jDnB|D|F|DnGjBbBz@bAbBxCxH?`@]L{A}A}A_@}@Ru@`ARrC`GzQaApA_@dBeBfBk@zAAx@fBbFt@j@rASz@kBbAEjAk@|@`@Xl@ZxCKxDaBf@Uz@?tAhApArCbBrFgBd@?XZ?`@mDn@QNTf@fAS`FRbC}@bBuAbAiExBqBvEoIv@kC^uFk@uNr@qGr@{Cl@aApCmBtAeB~Bk@tBr@n@AXU@c@eAi@?YdCG^i@Yw@eBMeAqCLk@vBo@T}@UcAoBeCk@aEiAe@sBOoF^sAOAi@PItKaAxAi@Ia@{@I}JnAgAYHw@l@c@jK}AfAg@Ag@iHaOCoBbA{AjASzAhAjDbLt@dA`NOj^~F|@n@DhEj@t@~@W\\cEfA{Bn@Uf@`As@bGb@tBlClAlLfC",
+"average_heartrate": 128.2,
+"average_speed": 8.121,
+"elevation_gain": 269.0,
+"source": "strava",
+"streak": 21
 }
 ]
