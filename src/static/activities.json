@@ -21713,7 +21713,7 @@
 },
 {
 "run_id": 16557678274,
-"name": "\u508d\u665a\u8dd1\u6b65",
+"name": "\u5468\u4e00\u516d\u516c\u91cc",
 "distance": 6228.8,
 "moving_time": "0:34:15",
 "type": "Run",
@@ -21726,5 +21726,21 @@
 "elevation_gain": 28.4,
 "source": "strava",
 "streak": 22
+},
+{
+"run_id": 16558009449,
+"name": "Zwift - Cruise Intervals #2 on The Classic in Watopia",
+"distance": 31029.8,
+"moving_time": "1:01:12",
+"type": "VirtualRide",
+"start_date": "2025-11-25 01:02:46+00:00",
+"start_date_local": "2025-11-25 09:02:46",
+"location_country": "La P\u00e9rouse, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "b{afAcozy^h@nAd@vB\\zEpBrChBtApDtDnAd@hCQ~B_A~AeAl@?b@dA~AtHzBbFfAtAnAz@tCn@nAQhAm@lEaFfGkEtAiBx@yBlAeIhAuCf@sBHqBg@{AoCoBaDq@aFQmI`@}@IUy@b@uC@uAQmBYq@aAk@cMaEkBGiHlAoKeBiEY}BLuAZ}@f@m@z@[hAEjAl@dDdBvDbFjHz@rDRtDj@pAbDvCdEhE|@^bADfAOdCaA`BeAt@?zBhJxAvD`B`CxAdAvAf@~AFhBm@fFuFrFyDpAyA~@_CjAsHxBkHJmBa@}AoCsBgDs@kFQ_I`@_AIU{@b@yC@uASoB]o@eOiF{AGsFfAoADwJaB_FYyDb@aAd@e@h@m@|BLhCh@lBbAtBxFnIx@pDPlDn@zAvDhDjDnDbAb@`AFbAQjCcA`BeAt@@zBlJrAhDzB~C~CzA`BDzAi@jFuFxF}DpA}A~@{BrAiIjAcDd@qBHoBc@_BaA_A{Aw@aDm@aGOsI\\a@s@d@mEGqB[mA_As@wCs@_IqC{AGsFfAmADyJcBeFWyDf@_Ah@c@j@]dAKjAb@dD`BtDxFvIr@dDNbDt@bBxInIlAh@|BIdC_AdBiAt@?`@z@zAlHxAtD~B`DnAt@lA^|A@dBo@|FgGrF}DhA}Ap@mBxA}IfAqCh@eCBqAOy@iAyAwCwA_Ee@kEAiG`@_AIUy@b@wC@uAQmBYo@eAk@qMgE{AAoHlAkLmBiEQsDh@y@f@g@r@]jAG`Ah@tDhBzD`FhHz@tDPnDt@|A|ItIbA`@~@DnAQ|B}@jBkAf@A`@z@hBhI|AtDtBlCzCrA~A@zAi@dFuF|FaExAiBz@_Cz@qG~AsE`@kBJqBk@}AuCqBgDo@mEMqI`@_AKSy@b@uC@sAQoB[q@cAk@{L}DoBIoHlAoKeBkEWiEf@}@f@c@h@]bAMfAFhA\\hBjBbEfFtHt@~CRvDr@`BzDlDdDjD`A`@tBArCeAhBkAt@BnBjIjB|E|BvCxCpAdB@vAk@bFqFzFaEtA_Bz@wB`A{G~B}HJqBKq@]u@mCoB{Ds@}EKgJ\\a@m@d@yEGmB[kA}@o@wMiEuAG_InAyKiBiFQoDl@aAp@a@x@Y~Bj@nD|AhDpF~Hn@jCZvEpAzBdEpDvB|BfAb@`ADpAUzB{@bBiAj@?Zn@rAnGr@|B|AbDdApAvBpAhBZ|AS~AeA",
+"average_heartrate": 137.6,
+"average_speed": 8.45,
+"elevation_gain": 327.0,
+"source": "strava",
+"streak": 23
 }
 ]
