@@ -21886,5 +21886,21 @@
 "elevation_gain": 20.6,
 "source": "strava",
 "streak": 27
+},
+{
+"run_id": 16615226918,
+"name": "Zwift - Tempo With 30sec Spike #1 on Tempus Fugit in Watopia",
+"distance": 31832.9,
+"moving_time": "0:54:50",
+"type": "VirtualRide",
+"start_date": "2025-12-01 00:55:23+00:00",
+"start_date_local": "2025-12-01 08:55:23",
+"location_country": "Muie Village, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "dt_fAiybz^yA_AsBsHCqAt@yEyBcFHk@p@g@rBLh@Sh@qFt@[hADdElBTjCzBv@cAtCPx@n@`@xHWrC_DCq@gAoDxCuCVoAEeBkBuF_GcFMyAvAwEpDqAhAcBCaEwDaEMq@~BgCQkCxIyT`@_EMqAe@w@kHuC_AiBOgBbG}MnAmEbDu@rBt@hACv@k@~AyC`DKjBaAf@uAAoBaDsFbBmB`AK~@`@bFlI|@v@z@Az@s@fBaFpBb@v@~@BlEjCzAZlASn@yBx@q@dAEjLsApRl@tAxCdDTxA^RrFf@zLyCx@Dn@f@r@~E^pKQzCcBxA[fAFdEdApErAp@fCIzGzAzAhAf@|CpA~@x@g@|CiJjAeAlATlA~@ZlCfFZfCdDlCClBaBHoCyBeB{@EuAd@oBfCqECe@W_@qCsCkAoAt@}ClJ}@p@iA{@k@aD{AiA}Di@kAm@eCJ{Ai@u@oB_@qFJ_BhBcB\\gBYkL{@uGiBu@sLzCaGg@YUUwAyCaDk@qAtAiS@gKn@kArBo@\\_A_@sAiC}AGqEwAkA{AOa@h@}@pDu@p@s@HcAw@cFiIy@g@y@@}Ax@e@jAbDpF?dBg@zAwB~@sCFaB|Ck@`@gAFeCu@yCt@wAvEyFzL?nBz@rBrAfA`F`Bt@xBe@rEmI|SKdAVrAaCnCPp@lDvDTxAKnB}@tAgEfBmA`FVrAzDrCnAfBpA|DFbC_@rAiCtBBxAdAhC{A~B{@d@{E^}Bi@IcA`CqEfBeAfDc@dCiAv@{@XqAU{CyAuD_BkBeDcCMkAlAuE|D}AhA{AJgBSaBmD{DSy@zB}BI_DvIsT^cEQmAg@q@_F_BqAaA}@sBCaB~FkMnAkEvCy@dCt@hAGl@a@fBaDrCErB}@j@iB?_BcDwFd@aAlAq@jBXnFtIfAt@j@C`A{@vAuE`BLlA`AL`FhCzAThAWt@}Bv@g@`ACnKsAvS`EhFXxAZTjGj@vL}C|Ax@|@tIPhJ[vAkBbBKnBVrE`AhCrAh@dCKnGxAfBtAZlCnAdA~@e@tC}IfAqA~@D`BdAd@vCjF\\dCbDnCGbB{ARsAKcAwBaBeCVmBjCwE?k@W_@qCwCkAgAp@aDpJ}@p@kA_Ak@aDaBiAsGuAgCFsAq@u@_DOkFTaAfB_BRmCa@_Ls@cF_Bw@eM|C{Fi@YQW}A_EaFpAoSBwKf@_AbC_ARcA]cAeCuA@oD]cAgAs@wAQ",
+"average_heartrate": 129.9,
+"average_speed": 9.676,
+"elevation_gain": 49.0,
+"source": "strava",
+"streak": 1
 }
 ]
