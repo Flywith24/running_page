@@ -21918,5 +21918,21 @@
 "elevation_gain": 20.6,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16624342098,
+"name": "Zwift - Anaerobic Capacity 1min & 2min on Volcano Circuit in Watopia",
+"distance": 30218.1,
+"moving_time": "0:54:31",
+"type": "VirtualRide",
+"start_date": "2025-12-02 01:02:25+00:00",
+"start_date_local": "2025-12-02 09:02:25",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "hm`fAq_}y^|@t@dGiA~Fn@rDaBpBIbB|CgBnB}BQmDzAgA|Cz@fDxAj@tByAzC^pBgCx@eCl@SzAl@x@~ClCnDGdAoChFcCbC{@zDgDzB}IXOa@vDu@Do@}@e@{FlBmD_Ci@u@FqBnB_AH_Ei@uDyAu@iCp@eAnBkANuCuGz@oC`CgE`EeCfDa@fGn@fDaBpBG`B|CeBlBaCOeDrAmA`Dx@fD~An@hBwAbD^pBiC~@mCl@KvAn@r@vCpCrD[hBoCdFgBvA_AbEoAjAsDrAwGKh@u@tCe@y@eAkFhBs@KwDkDL_CvAURc@FwDo@}DqAk@wCx@s@dByALkCeGViBbC{CZ{A~DeCjDc@bGn@dD_B|BI~AvCqBxBwBS_DjAuAjD~@fDtAj@~ByAlCb@zBoCr@{Bv@U|At@d@`CvC~DWbBwCnFgBxA{@zDmAnAwDpAwGQ`As@~B[s@oAaFfBgAGuDiDN}BfBm@JcEm@{DyAm@cCl@mAtBmAFkCgGj@cClBwBfBcD|EaBlIf@bD_BpBKfBxCoBvBwBSmD|AeArCt@fDpAr@jC{A~Bh@`FiHhBr@t@xChCzCGbBaD~FcBrAgBtFsEnBqGASYh@_@xCa@Am@eAc@sFjBuEqDPiCxASLg@DyDw@_EcAa@qCr@y@fBmATo@a@eB{ERqBzBuCz@_ClF_CvBMjFn@nDaBlBMfB~CmBrB}BS_DpAoA`D~@rDpAd@|ByAxC^pBiCt@aCp@SbBv@d@bCjCtC?xByCvFmB|AuAbFaF|BuGAO]ZSdDg@Ao@kA_@mFfBqEcDHuChBq@H_Eq@{DaAi@uCl@{@hBuAXk@_@gBaFRkBbC}Cr@wBbGgCtId@~C}AbCI|A|BEb@mBlB{BScDvAiAxCx@jDnAl@jC{AhCf@zBoCx@eCf@Q|Al@x@|C`CbCEhC{CtFcBrA_BjFkErBiHEr@y@`CWDi@}@k@eGjBmEkDJeChBq@H_Eu@gE_Ae@oCl@qBbCsAi@iByF|@eC`BiBRoApF{CnCSlFn@vDeBnBE`BvCiBtBaCQkD|AeAzCt@`DtAp@tBwAxCb@vBeCdBaDlBx@f@fCpCfDOnBuCnFkBzA{@|DyAvAmDjAuGOz@s@bCY?m@o@c@yFhBoA[yCcDPyBhBq@HkDk@cEuAu@kCp@cAlB}AJeCgGTyA~BwCh@sBxD}BvDa@|Fl@~C_BvBI`BzBGl@aBdBsBUsC~@gBlDZ~BfAvAhABpAoA",
+"average_heartrate": 131.1,
+"average_speed": 9.238,
+"elevation_gain": 150.0,
+"source": "strava",
+"streak": 2
 }
 ]
