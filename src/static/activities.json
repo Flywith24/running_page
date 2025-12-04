@@ -21934,5 +21934,53 @@
 "elevation_gain": 150.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 16634997588,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3610.0,
+"moving_time": "0:39:02",
+"type": "Hike",
+"start_date": "2025-12-02 04:17:16+00:00",
+"start_date_local": "2025-12-02 12:17:16",
+"location_country": "\u6167\u5fe0\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd\u5927\u9646, 100101, \u4e2d\u56fd",
+"summary_polyline": "qdbsFkemeUH`CDvEATQtAJlJCBgAVeAF_DDuA?y@Aw@FgBFq@Ee@?EDKCgBE}CP{ADaAAaBB_B@e@Eu@@s@EICKMKe@AiBUqCAsC@cAAcCO{ADkAGmBBy@Fw@AaDBa@J[JGLAdDGPE^Wj@El@Bj@CrAHx@AjEFpBCzFHh@AvCMz@Hf@JV@v@EP?VDVAVKFILiAFQBAVJD@FIDQBWA]OoBCk@",
+"average_heartrate": 95.0,
+"average_speed": 1.541,
+"elevation_gain": 62.6,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 16634567982,
+"name": "Zwift - Cruise Intervals #3 on Cobbled Climbs in Richmond",
+"distance": 31133.5,
+"moving_time": "1:01:42",
+"type": "VirtualRide",
+"start_date": "2025-12-03 01:00:24+00:00",
+"start_date_local": "2025-12-03 09:00:24",
+"location_country": "Richmond City Hall, 900, East Broad Street, City Center, \u91cc\u58eb\u6ee1;\u91cc\u5947\u8499, \u5f17\u5409\u5c3c\u4e9a\u5dde / \u7dad\u5409\u5c3c\u4e9e\u5dde / \u7dad\u73cd\u5c3c\u4e9e\u5dde, 23219, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "ykcdF|bswMoNzX]bAFd@HLfDjDlDdDpB|An@J\\QV]z@yBbCcFjLkUtKyS`BqCbHiMVCVP|FhGRHRCNQfA_CNm@Dq@OwBTyAxBcFxE_ItD_HbAoBXyAz@_BnHaMfCuD|@gAdQkMhEwE|IuC\\SV]BQASKM]EyA^}GvCkFzF_An@qAf@}@LuES{I|ASACQh@q@@WIOs@UiAPI_@z@c@b@eA`@N^f@`@Hb@OHKBc@Ka@aBmB]WQAOHq@fBeJlQAb@R^lB|AP`@Md@iCvFg@p@[@UOaKuK_A{@OE]P}AbDiK`S_@`A@d@|@jA`LnK@Zs@|A_B|C{BrDoFvJ}BnESTM?}@]y@y@eA_@cB_AmA_@oAOoB{ASCQHs@jAq[pn@_AzBDn@rD|DdExDjAz@`@Pd@ANKXc@z@wBbCeFlUid@jNaWTUVFjGtGRHTEbBoDFmAOcBT_B~BoFvEwHxBaE|BqEVqA`AgBhH{L~BgDpA{AvPaMvEaFlHwBjAu@Pc@CSKOq@BuA^mGpCsFbGaAl@aA\\_ANwEQ{IzAQ@ESBKb@e@BUKSq@SeAPKKAUx@a@f@gA\\Nd@h@TFXCTOFK@c@M_@aBkB]WOAOHq@fB}I~PM`@L`@bCxB@f@yCrGSXWPYESQ{KmLg@a@]DwDvHaIhOO`@Gb@L`@`AhAlKtJFXEXeC`FiChEuAnC{ChFuBbEQRO@aA_@q@s@mAe@{A{@oAa@mAMqB{ASESHu@nAc]hq@Mj@Lj@bChCxEtEzAhAr@VRA\\WvEcKdL_UfKaSzFoKhCoERSVBjGtGRJTCNQrA}CHoAOeBVaBvBcFbFiInCcFdBmDVsAx@yAnHcM|BgD~@gA`@]|OmLrC_DlAgAdEkAnCeAj@c@HQ?UGQ_@IqAXiHzCmF~FaAp@cA^cAN{EO}IzAO?CUh@o@@SISs@SiANGIAUx@g@f@cA^R^b@^J`@KPY@OAQO_@uA_Bm@c@QDW^]fA}GnMoAlCDd@VZnB~ABf@{CxGSZYLWGSQmKaLu@m@_@JkBzD_KnR_@bA@d@~@jApKzJLR?Zq@|A_BxCyBpD}AzC}CnFuBbESPiA]w@w@eA_@_B_AkA_@uAQqB{AUCOHyGpMgH`NsL~UQd@Bh@tD`ExDrDtBtAb@@PId@q@bAeCfDcH|Swa@bJsPjCqEROVJhGrGRHRELQtAaDFeAMqBZiBvB}EhHyL",
+"average_heartrate": 136.8,
+"average_speed": 8.41,
+"elevation_gain": 412.0,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 16638554376,
+"name": "\u5468\u4e09\u95f4\u6b47 10*400",
+"distance": 6293.1,
+"moving_time": "0:31:02",
+"type": "Run",
+"start_date": "2025-12-03 10:11:25+00:00",
+"start_date_local": "2025-12-03 18:11:25",
+"location_country": "\u6167\u5fe0\u8def, \u5965\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd\u5927\u9646, 100101, \u4e2d\u56fd",
+"summary_polyline": "wjbsFmskeUUZsFlFs@j@uAv@KJ?DFCZm@PS|BsAlAaAb@c@l@w@rAuAzAmAt@c@vAo@t@UhAWfAKzAE|@FpAT`AVlAd@nAl@jBt@tBfAAEDSC@UGmAg@_GyCw@Yu@KuAIqAAuAHe@AEFBHAAVChAIjAAp@BbCTrATb@NLH~ApAh@^|A|@\\`@D@BC@EEO@ISEgBs@}CsBc@Si@OeBWmAKsBCaBBG@IL?@LDEC`@MLAn@AdB@t@F~AXbAXf@T~A|@fAf@v@X~@VRRD@DA?CsDiBoBmAs@Ym@MeBUs@EcAAsCJIDCDNMrAM~@CjADlBXd@J`A^fDlBvAh@ZPVJFAAIEIM?iFeCqAc@iBa@m@Kw@Eq@AgBDs@AMLXQ|AInA@jAJfB`@hA\\ZP~@n@bAj@rCfABMCCA@CEe@EyAc@cDaBgBo@cAWkAMc@A{ADyAHa@JCCE@?EEDK@CHHAl@]TEfAAxAKd@@n@LH?FC?ECAa@Ee@Aq@B",
+"average_heartrate": 159.6,
+"average_speed": 3.38,
+"elevation_gain": 18.6,
+"source": "strava",
+"streak": 3
 }
 ]
