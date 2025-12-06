@@ -21998,5 +21998,21 @@
 "elevation_gain": 57.2,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 16653424944,
+"name": "Zwift - Endurance #3 on London 8 in London",
+"distance": 32445.8,
+"moving_time": "1:06:28",
+"type": "VirtualRide",
+"start_date": "2025-12-05 01:00:01+00:00",
+"start_date_local": "2025-12-05 09:00:01",
+"location_country": "Byward Street, Leadenhall Market, Monument, \u502b\u6566\u5e02, \u5927\u502b\u6566, \u82f1\u683c\u5170 / \u82f1\u683c\u862d, EC3R 5AT, \u82f1\u56fd / \u82f1\u570b",
+"summary_polyline": "{jkyHdfO}Bp]mB|LcBnOo@dIWxFUfYp@jJJjCGjQH|GIj]RhJl@lIVvBdC|MbApD`BxDpBlD|DvCbDbB^h@F\\A|@gDnY@`@R^\\VXArJwDpHsA`MK`@PTj@BpCm@pP?bBjDbt@YhAiDpDoBF[f@EZ@lEq@de@CnJIp@[NUe@AkCr@gg@DkKToCsVyx@wCmK{@mAmA_@Se@W}AKOeC^Y[Gu@?cF{EcM{BuGw@}CKo@BWLKXT|@jDdChHbJ`UzBvAlAYvIoD|FaAdJQbNRvEmAlEMvNeBPq@dBqZE[yBe@OIEUt@sNJc@fABN[d@cJVq@nAoAd@aALw@CwAc@}@kFoCGo@d@mD@WIQ{Do@yATa@QEs@b@{ASe@WQqCHuE`CoBp@yBAYMIUSqDJoAx@iDvBuGvAoCrFqMvAkBrDqBL[Ag@kAYqDvAgCvBsF`Ha@BKu@Ni@xBgD~EmJpFuFdGmDjF_EvGaG^FPp@GxEHhEJz@n@|Bt@RjB}@jCR^YhAuDJyCOwDmBgIMuEFwOG{G\\eIf@cGN_EA_GWkKs@uH]aBWi@]]a@IgEt@}@QUg@Iq@E}FS}A{@oBiAsAw@[y@Rm@`AcCpGm@bA{@Ns@u@a@oAOaBPeRGyBQwBk@kD{@wCs@oAyAoA}@M]Jq@t@k@`Ao@tBGlC[hCi@dA]L[Si@eA{@mDEaBTmDS]WGwBUo@dKA`AdBtCZpAFxAMvAYjAo@n@u@PwAWuBgAOk@NaBGSoHsDUPs@lEYZOCcW_P{L_B]PW^_AhC?f@t@xEPfDCxEYlCMpDFf@v@zBXvATnBBvBoCfc@aBfKiBjPu@lJSvEYtYz@xNElQHtHIh\\RnJj@fIf@|DbCfMpAdExA~CdBvC`EvClCpAn@x@@vAgDtY@ZR^VT\\@pJwDtHuAvLKf@LXn@BdDm@xO?xBjDts@Kn@W^cDjDcB@[VOj@BrDq@pd@C`LOz@Y@Su@?uBt@ih@BmJV{BAWmVgx@cDgLq@_AyAk@YaBUg@c@AuA^_@KOmA@wEqEqLaC_HaAyDCm@TWV^v@`DbCfHlJpUzBnAtJwD|GsAxJSnMTxEmAhEM`OeBTeAbBeZGY}Bc@MQ?u@r@mMNa@fA@Ja@h@gJZo@bA}@Zi@XkABw@Iu@e@u@mFyC@k@d@iDIc@eEo@oAT]KGQAm@`@kAAUg@k@",
+"average_heartrate": 129.2,
+"average_speed": 8.136,
+"elevation_gain": 346.0,
+"source": "strava",
+"streak": 5
 }
 ]
