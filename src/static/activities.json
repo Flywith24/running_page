@@ -22014,5 +22014,21 @@
 "elevation_gain": 346.0,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 16664691574,
+"name": "Zwift - Power Intervals #1 on 2018 Worlds Short Lap in Innsbruck",
+"distance": 22688.8,
+"moving_time": "0:56:36",
+"type": "VirtualRide",
+"start_date": "2025-12-06 10:32:28+00:00",
+"start_date_local": "2025-12-06 18:32:28",
+"location_country": "Franz-Greiter-Promenade, Saggen, Innsbruck, \u56e0\u65af\u5e03\u9c81\u514b, \u8482\u7f57\u5c14\u5dde, 6020, \u5967\u5730\u5229",
+"summary_polyline": "y}o_HuupdA~BB`TdB^GNc@Ao@kA{Mc@{CAw@HUNMrEaAf@HrBdAj@AVYT}@P_Bx@aLLQbAg@^_@nBoDrA_D|A_GNCfDr@^ET]Fo@AgAc@iINo@p@c@jHmCfGqD|@w@vCoDXa@VeALMxAGhEkCjAg@dQqETMXi@f@g@F]?q@q@cGAo@Z}GEgCUyBs@sE_AwDYaBaBuM}BeYMsDB}FJ{BP_BX_AjAgCTgA@aCQkFDaAZER^^tDv@~Dj@hBV\\ZJZGVYJc@@e@YsDE}AN{Bl@}Dr@iDt@wBd@s@z@OPO\\o@R}@Bo@C{C[yLUuBgBmKEs@JiAl@oBpBwEb@e@l@G|@DfE|@jBt@lBvAv@hAj@tAbA~DzAfHfA~Dj@|An@bAjAz@vE~A~BxAbDrC`BjCv@v@dM`FzCpB|HpGLj@MlBN\\d@CpCyAh@CdD|BfEf@zQ|F~@h@`CtBbAh@rK~B~AAxEyAvBO`DZrDzAdBdAjBdBjBvBpArBhA~BpAvD`BhHtAvElA`CbBxBtCpBfC~@zKbB~EhApAr@fCpBlAzAN\\?b@Y|@_@p@i@\\aGz@kEV_B`@_Bp@uBzA_InH{B`BUVm@~AUTsCR}@b@_DhEgCbBaAbAkB~C}DzH}@jAc@\\wBr@_CT}BBkEk@c@Tw@tAeD`Ii@nCeArI[bAUV{Bv@iB@u@L}CvCeD|@}A@wDmAa@Ea@H]^yCfFiDfEcA|@_DhBq@GsAs@kD?aAq@qEw@[Yg@uAYe@a@QsBBc@USq@@sDIy@m@}A{@kA_ByAoC{AmDiCeBw@uDyB_AQcA?kBRgAZa@X_A`CY\\u@r@w@^sA?kAo@o@i@k@{@k@uB_BoLw@iHcBsIe@_G]sAUa@sAe@]DcH|AsGlBkDfBmBtA_@t@I\\CdAv@~N`ApKtBt^h@nEv@zDv@rCBb@I`@QZm@d@_E`BmDr@eBIe@Hq@h@kC`EkAr@mJlBeGKsAJyKtD}KhCU`@?t@VlDJ`@PX@PeCdEGb@BhBGh@_@p@gCvCeGpK]\\KIE[J_CC_Ac@}Ee@mBm@o@oBg@s@a@{@qAcCsFs@{@{@_@oBDMEGSFoA^yBN]l@c@pAqBJg@Ci@]iAy@qAoAkAsL_HmB_B}@}A_BaE{BsD}@kB_F}O",
+"average_heartrate": 130.8,
+"average_speed": 6.681,
+"elevation_gain": 489.0,
+"source": "strava",
+"streak": 6
 }
 ]
