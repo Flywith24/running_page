@@ -22046,5 +22046,37 @@
 "elevation_gain": 13.6,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16689954334,
+"name": "Zwift - Sub Threshold #2 on Roule Ma Poule in France",
+"distance": 32034.2,
+"moving_time": "1:04:21",
+"type": "VirtualRide",
+"start_date": "2025-12-09 00:58:25+00:00",
+"start_date_local": "2025-12-09 08:58:25",
+"location_country": "Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd",
+"summary_polyline": "hhtcCouhu^aDmM`@qCe@bAlAaDBeCk@mFmD{SmAiVcAY{E~@}Aa@iJyJiG_MwFiFqBeAgJmByEcBsBGeBfBfAzA@h@kDUWFCZjHhDHt@k@Z{Jf@]b@fO`EJXyGrEmD`BWh@b@x@zNfBl@^c@f@eGvB~CbF`@fB?hCqAlCaDdCeDl@{A_@eG_FqF`@iAsA_@}AEaBy@q@_BeEm@]mBj@sBhC{GnAmAAm@e@w@aCt@{BQw@o@]_Ad@a@|AsCtAwF`B{BA_CrFyArFfAhCBz@sAnAy@hF}A~@Yr@P|AvBvFQjBoAh@qDmA{AFc@r@GjEWt@_AXiCiAm@Ba@d@WfCk@f@gAI_DoCu@@gJ~NEl@RZ`FtCDhAw@dB?j@zBvARh@Sl@}Az@Qx@zChBJj@W~@{At@yIE{Bv@aBrByDjAWf@C~@aCd@a@^@|DOh@iEvA{@t@_@hADpA`AhBrEjC?fEx@dAzOlCzCpCtBl@bK~AnI^bEvDRx@MnCf@j@|NA`DXL~AOjAoFrFA|Cu@~EuBzCLzBxRXjDfIbBr@z@bBG~CiBrFBbAZv@`D|AnFmAzD\\tA`AfArCtBlBx@bBbElD`BHjCaAxEc@zANhCe@tNgEpHwEpD~@`CHp@MlAyArAQbD|@tGtD~JDlCk@bO~BnGpB|@t@^~BfCJZd@AnBkBfBLjA~CtAnC^tA|Bx@ExAqAhAAnA{AvA@zBl@v@q@r@aB?_Am@eCrB}AJy@K{@s@{Aq@a@qEfAoAE_@s@CuAPoArCwDKcChD{@HgCkDmC{JgNq@iEo@gBgDsB_DmEuFcFi@sAHcNzC_DvA_E^aC?{FSkDs@qCiGuKYgARw@tEsFLiAyCyLaEcM}K}b@AwAhAyD?aCk@kFmDoS{@iT]sA{@IeE|@aB[eKsK}FmLgGwFkMcDsEaB}BE{AdBdAxADh@cDSg@XbHlDTRKt@oKp@k@Z^f@pNrD[p@cLjG[h@b@~@~NfBf@f@iHxC~C~Ef@lCUlCeBhCyClByC\\{Ak@qFoEiAAmBh@aAIo@g@k@_BQmCo@a@k@oB}A_C{Bf@mBjCiHrAcACs@o@q@uBHu@h@u@Cu@a@i@o@Ci@\\c@bBuCtA}F`B}AOq@l@{D~LjAzCCt@sApAs@|EiBlAOl@VlBnBzE@nAe@x@q@T{DqA}AF",
+"average_heartrate": 135.5,
+"average_speed": 8.297,
+"elevation_gain": 283.0,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 16691962247,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3107.2,
+"moving_time": "0:31:08",
+"type": "Hike",
+"start_date": "2025-12-09 04:27:11+00:00",
+"start_date_local": "2025-12-09 12:27:11",
+"location_country": "\u6167\u5fe0\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd\u5927\u9646, 100101, \u4e2d\u56fd",
+"summary_polyline": "{cbsFg}leUUdEBzDFxA?xAeFX_CJiDPwE?c@EoABu@EkAJs@Ak@DyAAi@EuABcAI{AHQCIEKMEKGa@Ce@@cACw@CWQa@CYEoBTmFKmAFkBAeAGmBBk@?yCBUHSRG~@IvBCJEVYb@GnBDl@ClCLdAAxABhAGbBHlAAn@@zB@xBJ|@Cf@BRAHEX?~@Df@GJCDI?iADOJA^NDADKFqBMkACg@",
+"average_heartrate": 85.4,
+"average_speed": 1.663,
+"elevation_gain": 54.8,
+"source": "strava",
+"streak": 2
 }
 ]
