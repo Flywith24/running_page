@@ -22142,5 +22142,21 @@
 "elevation_gain": 61.2,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 16718461885,
+"name": "Zwift - AC + Sweet Spot #1 on Two Bridges Loop in Watopia",
+"distance": 32160.6,
+"moving_time": "1:02:21",
+"type": "VirtualRide",
+"start_date": "2025-12-12 00:44:37+00:00",
+"start_date_local": "2025-12-12 08:44:37",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "dr_fAgr~y^rApCtBhBjOnGpEhKxAv@rCg@CeA`A_AKa@qBaA?gByA}@n@gBvAI`ApAVrAlCzAdDgCAe@wBoAYs@McBf@e@fCQdB`@tFzJhMiItDbFt@[vAqEl@i@xEbEl@Jl@_Ak@cCxCwAIaB{B_D[eDkAm@{BSgKf@m@`AyA`Gq@n@{YkGiIn@gMfCe@aBLyDZs@bBy@EuDnAkCuAsB{BuIm@c@w@jAI|H`Aj@f@a@VkAo@s@wId@AbApCtBN`AuIdHg@zA@fB|@lD|AnC~FnDjJnDjDnIxAdBnD[HsAz@{@yBsAAkBwAw@?q@p@cA|A?lA~CjC|A`D{BA{@mBeAa@}@KyAj@e@pBUzBb@nFzJlMiIbEfFh@e@bCuFnEzD~@Nb@y@i@cC`Cy@XwAgCeEi@wDcFq@yIb@k@v@_BnGw@l@kYkG_Jp@yLfCg@}APmE|BgBGgDnAyC_B}BuBmIu@Sm@tAGhH`An@f@c@VqA]g@gJ`@C`AtCzBH`AyIfHa@|AF`C~AtEpBxBfE`C~I~CzDhJlArAbAHvBg@?kA|@{@qBmAEoB{A_Ab@iBfBKlA~CrC~A`DeC@e@kBgAk@gAKwAn@k@~BOjBd@rFvJvLgIv@VxCjEf@[zByF`AT`DhDv@Hd@}@g@gCbCw@RwA_CsDo@eEcFu@gJp@cCbI}@h@iYoGwLjA{IlBc@_BLaE|BgBCyDlAgCqAkB{BwIm@i@y@hAKbIdAf@d@g@TmAu@k@sIh@@`AlCpBP~@uIdHg@bBFnBnAlE|AtBvEvC|JrDlDvIjAzAzAHbBc@BoAx@s@Og@aBo@EoB}AeAp@gBbB@lAzC`CzAlD_CAm@mC}BQcBj@k@bCS|AZxEfJh@\\vLiIp@RtCnEn@[vAqEr@k@pE`Er@Jh@w@c@qCzBo@ZqAeCcEk@_EaFq@kJj@uBnHcA|@eYkGiIl@qMjCg@cBNaEzBcBA}DlAiCwAoB}B}Is@Uo@tAGfHz@p@j@]VeBg@[eFByBb@@`AjCnBTz@eJ~H[zAHrBxArExBbChDpBfKxDpDzIjAvAlAHlBg@@oAx@o@Mk@mBy@BgB}A}@r@kB~AAlAzCbCzAlD_CEs@sBkA_@eAIiAp@m@fCMdBb@lFxJ~LiIv@\\hCdEl@QfCeG~@^zC`Dx@Jd@}@g@gCzBo@Zk@",
+"average_heartrate": 140.7,
+"average_speed": 8.597,
+"elevation_gain": 365.0,
+"source": "strava",
+"streak": 5
 }
 ]
