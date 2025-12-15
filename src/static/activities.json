@@ -22190,5 +22190,21 @@
 "elevation_gain": 33.0,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 16745390756,
+"name": "Zwift - Cruise Intervals #4 on Queen's Highway in Yorkshire",
+"distance": 31356.4,
+"moving_time": "0:59:13",
+"type": "VirtualRide",
+"start_date": "2025-12-15 00:53:41+00:00",
+"start_date_local": "2025-12-15 08:53:41",
+"location_country": "West Park, Low Harrogate, Harrogate, \u54c8\u7f57\u76d6\u7279, North Yorkshire, York and North Yorkshire, \u82f1\u683c\u5170 / \u82f1\u683c\u862d, HG2 0NE, \u82f1\u56fd / \u82f1\u570b",
+"summary_polyline": "ksphIdklHuDdDSZEh@xB|Jx@nB@XSf@iCv@yAC}@}@kAaBaBeEMGwF|DgLzCNtFNvBJb@dA~AtBtBlAxGnBlGbJrRpAbDzA~FxAvJHTN?`KuFf@aAXcAJsAD{Bn@o@xBaALO@]o@{EaGa]oEwMS}ADeBMk@[IwC|@eA?yBaCg@}@mA}CMSO@gFvDuKlCUHCd@d@|I~@`BhClCbAhGrB`HdLjV|ArFjBtLNHzJoFVYf@mAXkBA_BNy@hDgBDu@o@sE}Fw\\wEmNM}ABcBSc@}Cx@gADWKmByBk@eAiAwCMQQ@sFbEmKdCSR`@~IHb@^r@dDpD~@`GtB`HrIpQxAnDbBrGxAvJJTPC~JwFz@wBNuA?_BNs@bDcBHSCy@g@sDuFw[a@eB}DkLQ{ABeBOg@yDx@gAI}BsCkBmEQGsFzDuKjCST^zIHf@b@x@bDpDbAhGnBtGxIzQxAnD~AdGzA|JLRrKaGz@cCJ{A?aBLY|C_BLOB]m@wEcGk]yEwNKcEYQ_D|@gAAaCmC{BaFwFxDqKlCUHGd@f@|I~@`BhCnCfApGnBtG`JjRlAtC|A`G`BpKNJnKaGx@_CLyA?aBH[r@i@fBw@NKFYi@qEeGu]uEiNO}ABeBQc@}Cv@_BA}BoCsByEQ?qFzDcLzCLtEVfDr@rApCtCdAnGpBxGbJnRjApCzAtFbB|KLNlK{Fh@gAVgAJuDJYbDeBJQ@[s@iF_Gy\\sEeNMwAB}AMg@YCoCz@uAE_CoCmBsEOGoFxDuKjCULCf@\\bHPlAfA|AvBxBbAhGtB`HhLvVbBpGzAxJHVN@hKaGv@wBLuA?_BF]^c@hCkAJSA{@k@wD_G}\\uEkNO}ABcBQe@[?aCt@}AA{BkCiBgEMUS?gFvDqKjCWLCf@d@tIp@tArCxChAtGfB`GvI|QbB~D~AjGzA|JNNNGvJmFh@aAZmAHkA?kBHWh@g@zBaAJM@m@k@eEeGq]uEgNK{ABcBUa@}Cz@o@Fo@OyBmCiBkEQOmFvDyKnCUNCf@d@tIr@tAxCdDdApGjBhG`JjRjArChBbHtAdJHVN@bKyFh@gAXiAJ{Dn@s@vB_ANMBYq@mF{Fm\\sEcNSyABcBIm@YKyC|@gA?{@w@qAgBeBgEQKwF|DuKlCQT?j@f@nIfAfBzB|BfAnGjBnGvLnW|A~F`BnKVJhKaGb@cATaAHoADsBl@m@vB_ARa@q@oFaG_]uEoNKyAB_BSa@kDz@aA@w@q@{AoBcBgEOKuDpC",
+"average_heartrate": 128.3,
+"average_speed": 8.825,
+"elevation_gain": 423.0,
+"source": "strava",
+"streak": 1
 }
 ]
