@@ -22286,5 +22286,37 @@
 "elevation_gain": 57.4,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 16790727349,
+"name": "\u5348\u540e\u884c\u8d70",
+"distance": 1571.5,
+"moving_time": "0:21:13",
+"type": "Hike",
+"start_date": "2025-12-20 06:07:04+00:00",
+"start_date_local": "2025-12-20 14:07:04",
+"location_country": "\u6167\u5fe0\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd\u5927\u9646, 100012, \u4e2d\u56fd",
+"summary_polyline": "qsasFioneUVI`BuFt@wF@e@}@[f@TR\\EhA]jDSfAu@lCu@|BS|@UtECTKXCZCr@AhBO|DK`@KLq@De@C[EMMIu@A}EGW_@c@",
+"average_heartrate": 73.8,
+"average_speed": 1.234,
+"elevation_gain": 54.2,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 16790666853,
+"name": "MyWhoosh - Kaido Circuit",
+"distance": 55142.7,
+"moving_time": "1:42:45",
+"type": "VirtualRide",
+"start_date": "2025-12-20 07:19:18+00:00",
+"start_date_local": "2025-12-20 15:19:18",
+"location_country": "\u6797\u9053\u6d77\u6ca2\u7dda, \u5967\u591a\u6469\u753a, \u897f\u591a\u6469\u90e1, \u4e1c\u4eac\u90fd/\u6771\u4eac\u90fd, 198-0107, \u65e5\u672c",
+"summary_polyline": "ivkyEi_fpYx@gAnBy@|_@AlDeBv@iBRcCSwh@u@[mc@?[xDs@nAkT\\sAb@kAhBUrBNzBvBfCh[T|@`@LhK[jAmVd@wAl@Ivh@V|AhAn@xWF|@[^oAE_LyICcBu@gB}DLwF|@iB|BmA``@AdBa@tAqA`AoESai@q@a@gc@?[JM`EaAbA{STgBv@s@hAMfFt@dBhAv@b[RbAf@JnKo@nA{UTuAp@Ith@VzApAn@fXBv@m@Ny@@sKwIOkBq@eA{Ae@sBTsFpAuBpBw@l_@A~AYzAqAv@kBNgBM}h@}@i@kc@?[~Dy@nAcSPeDzAg@`BGpCx@`CnAz@d[Rl@LZ~@?rJi@`AuVZ_Aj@Ffk@n@p@fBRfVCdA_B@aLgIGwBs@cAuAg@qBDyEhAcCbCkAp_@AtDeBx@iBRsBO_i@m@c@yc@?_@hEm@~@qT\\mB~@q@vAGtEzBvCp[T|@j@FjKw@pAoUR}Ax@Eph@VvAzAr@fXCz@qABaLuIQsBy@gBoEPaFrA{BfB}@f`@AlDgBp@yAV}BM_i@m@g@{c@?]~DiAtAiRJiDtAk@`BGxCj@jBpAfApB\\~WAl@NZ`A?pJg@|@_VZsAj@@fk@hBbA~VBfAc@Tw@?kL{IGkBy@_BmDFsF|@sBdCsAz_@A`B]tAmAr@}ARiCMih@m@i@yc@?c@pEu@|@cTVmBx@y@fBMhCR|AzB|Bf[Rv@`@LjKi@rAyUZyAd@M~h@d@pBnA^~W?bAgBA{KqIEuB{@eBiEPcFx@gB`CsAf`@AtA[hBeBv@oEOqh@s@c@oc@?WXGdDs@hAuT\\eB|@m@jAUhE`A~BdAr@l[R|@p@FfKo@lA}UToAh@M|h@`@fBdAb@pX?~@aB?wKsIMwB}@_BuDHeFvAoCrBy@l_@AxDeBn@oAZuCMqh@{@i@oc@?]fE{@fAiTVeCjBc@tBDdCz@jBbAp@n[Th@NX~@@hJi@fAeVZmAh@?fk@`BdA|W?j@W^oA@sKuIOuBy@cBgEL_FvAiCrBw@t_@ArDkBv@mBNiBMqh@y@q@sc@?[fEy@fAcTVcBr@w@tASlEd@vAxAtAp[T~@l@DtKg@|@}UZiATUl@@vi@h@bA`AVxNB",
+"average_heartrate": 136.1,
+"average_speed": 8.944,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 3
 }
 ]
