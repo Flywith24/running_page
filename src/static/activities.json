@@ -22350,5 +22350,37 @@
 "elevation_gain": 11.6,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16825327062,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 2963.5,
+"moving_time": "0:26:44",
+"type": "Hike",
+"start_date": "2025-12-23 04:19:46+00:00",
+"start_date_local": "2025-12-23 12:19:46",
+"location_country": "\u6167\u5fe0\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd\u5927\u9646, 100101, \u4e2d\u56fd",
+"summary_polyline": "ydbsF_dmeUPvFKrB?pBLvCZvBAC]Zc@JaADqE\\UDeAV{@BOEO@QFMHUTAFg@HaA?YCCOEAs@DwBZ_@@q@?YDMCa@Bc@Iy@DKE[?G@MJq@BWC_@Oe@CSEiALKCKOISFmEOe@IyAKaJUyF@qBKyBJcBt@e@vDLzN@x@_@@Er@ObDB",
+"average_heartrate": 94.0,
+"average_speed": 1.848,
+"elevation_gain": 52.0,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 16825287830,
+"name": "Zwift - Neuromuscular + AC #1 on Kappa Quest in Makuri Islands",
+"distance": 26204.7,
+"moving_time": "1:00:23",
+"type": "VirtualRide",
+"start_date": "2025-12-24 00:46:21+00:00",
+"start_date_local": "2025-12-24 08:46:21",
+"location_country": "Graciosa Bay Ward, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "zwq`Ai_is^|BGtBbClDzAVlAQfE|EpAfC]X_AI_BqB_BVmBc@qB`@}@bDb@~AcBvA|A~E{A`EF|@uBlAYGuA\\Wv@Np@nA~AAjB|@l@q@_A}@LyAhDWVrEfAB~DkB`A@tDxBs@nDpCm@pB`@^h@R~CnIhF^r@e@dAqEEeCcC{@oBw@\\EpBaAnCs@\\_A?o@q@[mE]a@{@VUjD]d@g@U}@{Dg@RQvCoBAl@~Aq@`AQpET`DrApB~A`ABpDbCpAb@xAaFpHiJ}BkDqAaBeA}BeDcFeAy@sBcCaCg@mBeEw@wBdAVrCaAlBtB~A^hBhA|AV|AUbA}@d@_CaA}@TEf@jB`DqCtAkBiC{DpB{D^aAgC]{Dy@}APaB_AsB^eB_AgBu@eEn@uCEiAqDeBi@_BBaFg@uDrFuD|G_@jBxBbEpBAjG`FlAzBW^y@GeBqB_BVsBe@qBb@{@~Cb@~AcBxA|AdF}AxDH~@uBlAWG{A`@Up@Nt@pA~AAhB|@l@q@aAaAHoAnD]\\xEvAIpDeBz@DhAhAhBj@q@rDnCo@jB^d@l@PzCpJpGe@rAsEEaC_C}@sB{@d@?~A{@nCiAh@aAOi@}@MmD]g@_AXi@jEo@Ke@aDa@_@_@^IdCsBEh@~Am@~@SfFV~CpDlD@lD`CpAd@vA{EpHgJwBmDoAkBmA{@oB_As@aFcAy@sBmCoCY{AaE{@yBz@NbD_AjBdCrBHfA|AlCErBmAj@wB_A{@VEd@pA`BVnAcCbAwAsBe@ScDjBkEd@gAqCYuDy@wANmB}@cB`@cBcAqBu@gEp@mCCiAsDkBg@qA@sFg@qDvFwD~GWrB`CpD`BPbBW`DdFxAbC[\\w@OoBmB_BXeBe@wBb@y@bDb@~AcBtA|AtE{AjEF|@sBnA[IuA`@Up@Jt@pA|AAlB|@h@q@aAaAJqApD[\\vErFeBhAExDzBw@jDxCi@jB`@^d@VdDlJlGm@rA_EAwEuFk@\\CjBy@bCcAl@aAGm@y@OiDi@u@w@b@q@dEi@U{@{De@PInCkBK^nBo@z@QbFRxCjAjBnBpAAjDjBv@x@lBkFvHaCqAkFu@iDsAoCkDiA{@wEy@_A{BeCeCc@gBiEw@oBx@PvCaAtBzBbBV`BzAbC?bBgA~@{B_AeATG^jBzCSn@}Bp@_AcB",
+"average_heartrate": 139.5,
+"average_speed": 7.233,
+"elevation_gain": 399.0,
+"source": "strava",
+"streak": 3
 }
 ]
