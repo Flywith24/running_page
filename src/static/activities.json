@@ -22430,5 +22430,21 @@
 "elevation_gain": 54.0,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 16852731188,
+"name": "Zwift - Power Intervals #2 on Times Square Circuit in New York",
+"distance": 50305.3,
+"moving_time": "1:35:37",
+"type": "VirtualRide",
+"start_date": "2025-12-27 09:34:14+00:00",
+"start_date_local": "2025-12-27 17:34:14",
+"location_country": "Walgreens, 33, East 23rd Street, Flatiron District, Manhattan Community Board 5, Manhattan, New York County, \u7ebd\u7ea6;\u7d10\u7d04, \u7ebd\u7ea6\u5dde;\u7d10\u7d04\u5dde, 10010, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "u|swFvpqbMvFQPqEkAu@yGrA}@aDcHIQyDn@c@hCRIxHqLPa@qIeAi@}EvH@rNpB`EEdGoDC_@aMoGz@iAaABoCbAo@~q@@|@gAAkCs@}@yHlAw@_DmHQAmEvCGHpIsLHYkIgBc@}DfH@tNlBrDB|FaDn@g@mMyHd@k@}@H}C|s@[|@iAq@eEyHlA{@aDeHIMmExCOHpIwLDScIiBe@{D`H@bOjBdDDbGcDj@c@iMsHf@q@w@FeD`t@]v@w@?sCs@eAyHlA{@aDgHKCoExCI@rIkLH]uIiAe@wEbHA`OpBzD@jF[x@_CBq@uMwHj@i@_ALaDrs@UbA_AE}Ck@s@{HnAaAcD{GEQmE|CQBvImLD[oIiB]yDlHBtNpB~DArFcD`@_@aMkITQ{Evs@U|@}@C_Dm@s@yHnA_AcDcHICsExCGDpIsLHYkIyAi@kEpH@vNpB~D?lFcDh@]}L}H\\o@aATkDfs@OfAiACeC}@cAoHrAu@_DmHSAkEvCIFpIqLH[oIeB_@}DhH@rNlBpD@lG_D`@c@eMyH^o@cAH{C|s@Yz@y@CcDm@s@{HlA}@aDcHKEoE~CG@lIoLL_@qI}Ac@eErH@pNjBjDDjG}Cf@k@oM{Hd@i@aANcDzs@Qx@iAAgCq@_A{HlAs@}CqHSIaE`DS@tIqLBYuIcBW}DrH?bNpB`E?bG{Cb@c@aMcIVi@aAL_Dts@U|@u@?aDm@w@wHlA}@aDkHOIeE|CQFpIsLF]yIgA]wEpH@|NjBjDDdGcDd@c@iMaI`@e@}@RgDvs@Ov@{@CaDo@s@sHnA}@aDkHOIcE|CQHlIoLL_@oIeBa@}DhH?rNpBzD?`GyCd@g@gMeIZ[wEbt@]v@_AAoCw@cAqHpA{@aDcHIQkE|CQJnIoLLe@}IwAYgErH@pNnBxD?`GyCd@m@qMwHh@k@w@JkDvs@U~@aACwCy@{@qHpA}@aD{GEQoE`DM?pIoLF[mIcAk@_FpH@xNpBbEIfGkDK]{LsGx@eAy@B}C~@i@~q@@~@cAE{Cm@q@yHnAw@aDeHGQkE`DS?tIkLD]qIcAg@}EhHAzNpB~DAfGkDJ_@gMqGt@iAq@?}C|@o@fr@@|@qAIqCs@q@uHpA{@aDaHIIoE`DIPtHcDd@",
+"average_heartrate": 135.4,
+"average_speed": 8.769,
+"elevation_gain": 296.0,
+"source": "strava",
+"streak": 1
 }
 ]
