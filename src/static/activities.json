@@ -22446,5 +22446,37 @@
 "elevation_gain": 296.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16860982786,
+"name": "\u5348\u540e\u884c\u8d70",
+"distance": 2198.7,
+"moving_time": "0:28:25",
+"type": "Hike",
+"start_date": "2025-12-28 06:10:57+00:00",
+"start_date_local": "2025-12-28 14:10:57",
+"location_country": "\u6e56\u666f\u4e1c\u8def, \u5965\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd\u5927\u9646, 100101, \u4e2d\u56fd",
+"summary_polyline": "i_csFkpkeUjB]Xk@Y_NAkAFq@jAGnB?`GMLKFA|@JfBH\\AVGFIFYJIPEB_@Li@EeBDiAEeBIc@DaAI}CBcAGeGDkAG]@]GyBAqBBUDGFC\\?JI@KA}@BKNIf@ILICEFK?FABCCCM@}ACa@Kw@",
+"average_heartrate": 84.6,
+"average_speed": 1.29,
+"elevation_gain": 60.8,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 16862032839,
+"name": "Zwift - Sweet Spot 12min on 2015 Worlds Course in Richmond",
+"distance": 46158.4,
+"moving_time": "1:34:09",
+"type": "VirtualRide",
+"start_date": "2025-12-28 08:51:57+00:00",
+"start_date_local": "2025-12-28 16:51:57",
+"location_country": "VCU Medical Center, 1250, East Marshall Street, Shockoe Slip, \u91cc\u58eb\u6ee1;\u91cc\u5947\u8499, \u5f17\u5409\u5c3c\u4e9a\u5dde / \u7dad\u5409\u5c3c\u4e9e\u5dde / \u7dad\u73cd\u5c3c\u4e9e\u5dde, 23219, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "ahcdFt|rwMym@tmAEf@Tt@jH`FHNCd@s^vs@oAt@m@hB_DlG{A~@Y`CsXri@K^N\\X@TWdXgi@X]p@QZ[TeC`DqGh@s@jAFtCjCnLjFdHtDf@D^_@X}BdGeVLum@MUUEoDQgI_GWa@?UbXsi@XSZLjDrDnFxEx@Vj@UvSkb@zJmRdK}QXEVPvFbGf@LPOxAcDFu@OcCPiA~BwFzIiOzBmEVqAv@yApLqRlAuAtP_MvEcFrImCt@o@Be@g@UoAXiH|CqF`GcClA}@NaFOyIzAQ?CSf@m@Cg@o@WqALEa@x@_@b@eA|A`Al@SHo@M_@oByBo@Aq@fBiJzQFd@dCvBDf@yCtGk@l@m@UyLiM_@GYVeNfX[bAFb@~@hAjKrJNRIr@cC~E_OrWq@KwAiAiDaBwCk@yB_B]Dq@fAkx@b_BGj@X|@fH|EHPEh@q^ls@oAz@c@vAiDxG}AfAMfBQf@qXji@Bj@NH^SlXoi@jAm@X[TeC`DqGh@q@jAFnDzCxNtGdDjBx@Tb@Q`@qC`GyUNcn@c@UkDKuIkGMq@fXui@XOZN|H|HvAhAt@Zf@K\\c@|D}IvUwd@hN_WTOTHfGpGb@JPM|AuDBm@McCTsArB{EdLaSv@_BXuAp@qArLsRdAqAxPaMrEaFfJwCj@i@@m@_@Q{AZaHvCoF`GiCrAcANyEQwIzASACQh@q@Ec@s@YkAPGa@v@_@d@gA`At@^Jh@SHk@Qg@}AiBYS]?aL`UBb@RZ|BtBGd@s@|A_BdDe@l@m@K}LmM]KYRcOhZ@`@nA~AhKpJFTOn@_Sj^oA[w@y@eD_BaDo@uB}A_@Fq@fAix@~~AE|@Zt@`HrEL^I`@_^rr@_@j@_A`@i@bBiDxGuAv@K^EvAM\\mXbi@K^L\\Z@RUzWuh@b@o@p@Q\\]TcCfD}Gb@g@lAB`DvCjLfFjGfDn@Nh@_@V{BbGcVNan@a@WeDIqIcGUWCa@`Xoi@\\U\\L~H~H~AlAj@Tj@OrEuJbNeXdJiQvJiQRSVBhGrGd@LNM~AwDBo@OoBPuA`C{FnIsN~BsE`@eBp@qAvLqRbAmAxPcMpE{E|IwCp@k@Fi@[W_BZgH|CiFxFcCrAgAPcFOoI|AWACSh@s@Ea@s@WiAPIe@x@a@b@cA^N~@p@h@OJs@Qe@}AeBYU]@yGxM",
+"average_heartrate": 135.3,
+"average_speed": 8.171,
+"elevation_gain": 402.0,
+"source": "strava",
+"streak": 2
 }
 ]
