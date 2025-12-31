@@ -22510,5 +22510,21 @@
 "elevation_gain": 18.6,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 16879752089,
+"name": "Zwift - Sweet Spot 15min on Volcano Circuit CCW in Watopia",
+"distance": 35603.1,
+"moving_time": "1:03:25",
+"type": "VirtualRide",
+"start_date": "2025-12-30 01:09:22+00:00",
+"start_date_local": "2025-12-30 09:09:22",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "hl`fAoa}y^n@lCqEhHa@zBrClGnAEnAwBbCm@pAl@^lJgBp@QjCbEnD`HcBr@x@iDp@Wt@`HL|DwAjAmAt@yDpBcBvCsFJsBkC{Cs@{CgBu@cFfHsCc@}BxAiAk@w@aDlA_D~CmAzBNjBmB}AoDwBDwDbBgIg@_FbBcFvHSbClC|F`BW~@kBhCm@~@d@n@vDE~DgBl@QrCnEpDbGgB~@`@_ExARh@nGFlEcBrB}FdGsIDgCeCkCs@{CoBs@{EhHiCg@oBvA{Ae@{@_DfAyCdDyAxBRrB{BkBeD_CJ}C~A_Jc@aGfCyDvGMxBrC~FtAQ~@mBjCo@bAb@p@~DItDeBp@QtC`FnDnFiB~@^qDpAHv@dHApEwBrA}EpBgB~CcG@mBgCqCq@wCmBy@{EdHuCa@yBvAkAe@{@kDhAsC~CsAfCJdBmBmBoDaHlByIc@}FfCyD|GQlBrCbGvAO`AoBdCo@lAl@n@hEKjDeBd@OxCzEnDxFkBz@b@sDnAHv@`HApEuBxAaFlBaB~C_GHaBsCoDk@oCcBu@w@NwDxGeCi@oBvA{Aa@{@kDfAsC~CuAfCLdBkBgBqDeHjBoIe@}F`CgEjHIpBrCzF~A[x@gBpCm@~@l@j@zDK~DeBb@QlCzEvD`GkBp@ZAh@wDv@Hf@`HDvEqBdBoFfByA~CaGDkBiC{Cq@wCiBw@aFfHuCa@qBtAqAe@{@eDhAyCbDsAbCLfBsBkBiDgHjBgJa@mFdCsDnGU~BtC`GzAWr@eBjCs@nAn@j@vDK~DiBj@KnCvEnDdGmBt@f@mDhACv@fH@pEqB~AiFhG_JBoBiCwCq@wCgBu@kFhHmCg@}BvAgAk@u@iDjAsC|CoAdCJbBkB{AkDyBBqDbBcJa@qF|B{DvGYxBpCbG`BQx@iBfCq@fAb@r@`EIrDiBt@OpCbFrDrFkBt@TFd@qDt@Jt@zG?vEyBtA}EjG}IFqBkC}Co@uCiBw@aFdHqCc@{BxAoAi@w@cDhAwCdDuAbCLfBuBaBaD_CDqD`BuHk@aF|AwAlAyD|IvCtGvAM`AoBhCq@lAn@b@jJgBn@SfClDlDvAN`FiBd@dAeCXs@x@nHRdDkAtAsA~@cE~FmINoBoCiDm@qCiBw@q@PmDpGyCa@qBvAqAi@y@gDjAsC|CsAbCNfBkB{AoDyB@cDbB}Gm@cGzAgBzAqDzIrCnG~AQt@gBfCq@tAj@j@vDKvDcBj@U~BrDtDdAPlFmBp@|@_Dh@c@r@pGRzCu@vBaBbAgExFeI",
+"average_heartrate": 138.6,
+"average_speed": 9.357,
+"elevation_gain": 168.0,
+"source": "strava",
+"streak": 4
 }
 ]
