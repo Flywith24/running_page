@@ -22654,5 +22654,37 @@
 "elevation_gain": 16.6,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 16951811851,
+"name": "Zwift - Road to Sky in Watopia",
+"distance": 17047.9,
+"moving_time": "1:24:57",
+"type": "VirtualRide",
+"start_date": "2026-01-06 00:55:06+00:00",
+"start_date_local": "2026-01-06 08:55:06",
+"location_country": "Usili, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "pgefAur}y^dB~BtArAp@XxBb@v@d@`EbGfAp@rA^bHn@~DAxCm@bIsCdASfACzB`@~Ap@p@L`CJdBMVFXf@QhAFVd@\\lBi@vARnAf@HRCTY`@i@HgB?_@VMx@Pb@fB|@hA|@v@bAd@dA^dADz@GhAc@jC?h@Z`@tA|@d@bAHx@g@~ALzA]b@_@Ne@@iC}@_@E]Jc@t@q@l@A`@Xx@vBbBDz@Xx@GLQB_Ac@q@VGb@n@vA@RuAv@Kh@L|@X^pBn@\\XDj@ExA`@`Cf@r@zA~@\\`@n@jAXtAVd@b@VxBn@nAdBf@N`BLnBl@^GvAo@xABvAc@x@DfAXZTV`AFfA~@`Ab@BjAq@v@Iv@Dj@d@Bz@M~A}CfRiA`F?j@Xr@rD`EdBhChBtBVv@v@xAv@x@nBxAh@hAj@rB^hCGHME]mB}@aByBeAaAQ_A_@wAM}CcEgG_Fa@AKNBR`DjCX|@CTYCO}@QSyBy@_B{A{@k@[ESLCXHPr@`@xAnB~@d@^~@dA`A|@`CILOGEw@]k@_CsAwAi@UHKTQzBZ|B\\~AWnCTtCg@lBWzAOjCa@tCF^\\HZSLaCz@oC\\YxD}An@mAJCHLa@`A}CtC_@z@UtAErDDx@XxAc@v@s@b@uAUgAJw@CsDo@SFGVHNnA^bCvAlBd@xAxAd@Rp@D~@Mb@]b@_AJADJ{AzBeAd@aANc@O}AoAsCOiDcAYHETPPzGhC~BfCr@\\dFKl@Q`A}@|@A\\JIR{@EUHs@lAi@\\}@JgBp@_AJuAMgAYsBmAoAmAWASNAPJTdBdAdA~@vAjBz@j@xE^~A\\t@?`@If@q@x@_@j@{@N@BJyAhBk@fAqAl@oFD{BXcDo@W?SLCZ^|A?lCR`ENh@h@j@Rp@`@hB@bASV]@iA{@_@GoARo@ZsCfFc@`Bq@nA[`AoE`GOZE^JX\\B|@uAxDsBpGyB\\EXHfAtBr@v@@PQ?q@_@o@KeA@}@VsBlAgEhEeAp@KTBRNJT?rAeAb@QtC?|@h@tBjC`Ar@|EdBhEbCjC^`BFb@O`@iARCD`@KbCu@`A{@j@_Bp@uDp@iBNOHETXZzGxBbHx@",
+"average_heartrate": 137.3,
+"average_speed": 3.345,
+"elevation_gain": 1024.0,
+"source": "strava",
+"streak": 5
+},
+{
+"run_id": 16953917082,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3599.5,
+"moving_time": "0:40:06",
+"type": "Hike",
+"start_date": "2026-01-06 04:23:07+00:00",
+"start_date_local": "2026-01-06 12:23:07",
+"location_country": "\u5b89\u7acb\u8def\u8f85\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100029, \u4e2d\u56fd",
+"summary_polyline": "ydbsFw`meUHL?bLLbCmBxBeCVaABiGLyAC_BD_AEs@Bo@AoABe@DY?m@F{@Cq@MwBPy@Gc@?e@GKGKQI[C_@GoCIc@CWDcBCsC@gBCc@Ks@Ae@?mEHo@E}A@oAHq@HSHEJAdDALCZUXEpAD|CCnB@\\DRCj@?tAErBJtDA`AB~BNpBMD@?BAAnAIH@RFT@FCBKDkABQFCf@BFEDOB_@Cm@@o@Gu@?]",
+"average_heartrate": 97.6,
+"average_speed": 1.496,
+"elevation_gain": 59.2,
+"source": "strava",
+"streak": 5
 }
 ]
