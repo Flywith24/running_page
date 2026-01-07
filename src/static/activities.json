@@ -22686,5 +22686,21 @@
 "elevation_gain": 59.2,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 16963490971,
+"name": "Zwift - eFondo: Cat. C on Downtown Dolphin in Crit City",
+"distance": 31384.3,
+"moving_time": "1:01:38",
+"type": "VirtualRide",
+"start_date": "2026-01-07 00:52:53+00:00",
+"start_date_local": "2026-01-07 08:52:53",
+"location_country": "Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "pgk~@e_~r^lBFHnD\\V`BH?`Fy@UmFyELeA?g@mBgDMy@s@UkANgDQUUZOnKCNWFqGnA?pAl@fBFLVGtEkGLOdBLrA`CHNxD|B\\DjEMT{@_@gFuEPeAAe@mBiDMy@w@U{@PqDQWW\\OjK?P[FmGpAAbAj@vBJDfFiGNSZAhALrA`CJNvDzBZFnEMTy@_@mF{ETgAEe@aBsCYkAw@Q{@PmDQWU\\QhK?Ti@CoFTUrAFr@d@`CVC~EaGJWVChAHvAdCLNvD|B^DlEOR_HsFLkBaA{BeAqBsBB}D]PY|KEL]CqFNYlA@jAl@jBHFdFgGPUXAxAHbAbCHR|DzB\\D`EQ^}GsFGa@TgA}@wBi@i@WiAu@Qy@PmDQ]QZSvKGFoGNW|ADz@h@jBHJb@EdEkGNOZAtA@p@RXxBDNxD|B\\?zEy@QqF}ENkBgCmFwBDyDc@VStKCN[CqFJ[nA?lAl@nBL?fFkGLObBHpAhCR?pCNd@vBTAbFy@YoF}EPgBaAyBi@i@WeAqB@mDQUU\\QhK@Ti@DcGnA?nAl@nBJ@fFgGLSXAvA@r@RXzBFNvDxBZC`Fy@[iFuEG_@TiA_A{Bi@i@YgAqB@iDQ[SXQnKATg@CoFRUjA@hAl@pBNAdFiGJO\\ArAPjA`CNLvDxBRFbEK^u@WsFaFPgBiB_DUgAw@O_GMRWtKARi@D_GxA?z@h@tBJHbFeGPWTCdBH|@dCLNxDzBZ?~Ew@SsF_FPgB}@uBi@i@WgAaCAwD]PY|KEL[CwFRUnAB`Aj@pBHFbFiGRUXAxAHbAbCHR~DzBXDlEMTq@WoF{EG_@TgA}@wBg@i@WiAu@SmAP_DQWUZQpKCN_@CiFL]tA@dAj@pA?d@VCxEkGPShB@v@RXxBDBxCRf@tBTFdEO\\y@_@oF_FT}A_AyBi@k@YgAy@MyFK?Q`@KbK?Ti@CeFL]rA@bAl@tBL?dFoGPMjBFdAdCJPzD|B\\DjEKVy@]kFwENiB_AyBi@i@YgAqB@oDQSYpLSNcHrAAdAj@pBFNXClEsGVMjBHfAfCL@nCPn@vBVDjEMTw@]iFuELkBaA{BeAqB_HMO[nLQFmGNYlA@jAl@nBJBdFqGRMlBHdAdCJNzD|B\\C~Eq@SyFgFTyA}@{Bi@i@WiAw@S{@PoDQWUZQlK?Rm@CiFRUlAB~@h@`BB\\VCtEaGNYTCtALpA~BDT`EvBVA`F{@[oF_FT{A_A}Bk@i@YiAy@MyFKN[|IB",
+"average_heartrate": 120.4,
+"average_speed": 8.487,
+"elevation_gain": 260.0,
+"source": "strava",
+"streak": 6
 }
 ]
