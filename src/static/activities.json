@@ -22734,5 +22734,21 @@
 "elevation_gain": 20.8,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 16974832542,
+"name": "Zwift - Cruise Intervals #5 on Oh Hill No in Watopia",
+"distance": 17860.1,
+"moving_time": "1:03:55",
+"type": "VirtualRide",
+"start_date": "2026-01-08 00:54:47+00:00",
+"start_date_local": "2026-01-08 08:54:47",
+"location_country": "Temuo, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "neofAiuaz^iV?eGBkECyi@?c@E[Oc@[eAcAg@_@]K]C]FSJONMXOx@O`CKb@IRKLSLUFW@UCQIMOIYGw@BeCCWGSKQSMUGa@AY@SHOJINIXC\\BdCEh@IVIJUFYBUCSIKQGSEi@@qBCk@Mo@OW_@Ka@AWDUPM\\In@CtCEd@ELIHQDS?MCMGOg@Eo@?kCEa@K_@KQMIUGUAUBSHONERE^@`@NtB@XERURS@QGq@{@SMe@Kq@G{ICO@OFINANBPFLNH`@B`@Kn@u@NIxFBp@HVJz@bA\\H\\KP[@a@OkBAe@Be@Ra@b@Id@FXZJd@Bh@?xBBf@Lf@^Td@?\\YFg@@yB@g@Hg@Pa@d@Od@D\\XJd@Df@?xBBf@Ld@^Vf@Bd@KT]Hg@?g@EoA@g@He@X]f@Id@B`@TNb@Bf@CtBBf@Lb@XZd@Fd@E^QT]Jc@Fe@JmBHc@Na@XW`@Kb@D\\PbCrB\\N^H^@pyAAZ@TL`@d@TJVBTCRKNOHSBSCUGQOOOIg@Ea@Le@f@OHQBye@AgIB_@CuE?uEB{@C_Y@c@E_@Me@]eB{Aa@Sa@EWBWHQPOXOx@KfBIl@Qf@KNULk@FSCSIMQIUGc@A]DiA?q@CUGWMSQKWG_@AY@SHQLINI\\AXDvBCn@K\\KJSH[@UCSIGKK[Em@?iCMw@ISKKQGSC]@YFONIVMx@AvCIh@IHSFW?SIGIGQGc@AyCI{@IWMOSI]EYBSHMLGTCT?f@NrB@b@IVULO@SIm@w@UQ]Ig@GeACsH?MDKHEN?NDNHJNFNB`@ENGl@u@NIdE?~@Dn@JTLb@j@TT\\DZMN[?a@OgBAc@@c@Na@`@Ob@B\\TLb@Dd@B|CDf@R^d@Lb@IR_@Dg@?uBBe@He@Ra@b@Kd@DZXJb@Df@?tB@f@Jb@ZZb@Fd@EZYLc@@e@EsBDg@Na@^Sd@Cd@HXXJd@@d@CrBDd@L`@ZVb@Fb@E^QR]La@Dc@LiBDc@L_@T[\\O`@?^JZRbBzAXRZL^DnzA?ZB|@v@VFX?TIPOLUBUCWKSQOSIUAUBQFk@l@SFU@ki@?{BAcM@[Au\\?_@C]Kk@a@cA_Ac@]a@Qa@Cg@HSNOTQv@OtBIn@KZQV",
+"average_heartrate": 143.3,
+"average_speed": 4.657,
+"elevation_gain": 785.0,
+"source": "strava",
+"streak": 7
 }
 ]
