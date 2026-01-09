@@ -22766,5 +22766,21 @@
 "elevation_gain": 64.2,
 "source": "strava",
 "streak": 7
+},
+{
+"run_id": 16985725861,
+"name": "Zwift - Endurance #4 on Big Flat 8 in Watopia",
+"distance": 37001.7,
+"moving_time": "1:03:29",
+"type": "VirtualRide",
+"start_date": "2026-01-09 00:51:14+00:00",
+"start_date_local": "2026-01-09 08:51:14",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "xr`fAqeez^QmDgDmDU}@xB{BK{CxI}T\\eEs@wBmH}CcAwBEcBxI_T|Cq@tDp@|@i@tAuCdDOnB_Ah@eBCkB_DeFx@yAhBe@rAt@jErHvAbAfB_A|AyErB\\`ArADfErCfBIdB_Cz@k@hACtKwAvRn@`BvC|Cb@fBdGr@`M{ClBx@t@dHVtJUpB}AnA[|@JhFr@jDzAz@zCCpGxA|ApA\\rCrA~@hA_AxCgJr@k@p@?vBnAf@xCzC@|Ad@rAhCZhCGdBe@dAmLrGg@x@UfC{B`AqAvBx@dDbB|@LnBz@bBc@nB}AT[p@Z\\fBELd@kBfB}DjAm@fJnBjHxEhFQxGN`Def@pL}MbEc@`@Ct@nBpGkAf@kKhCgHd@wB_AkGmH{Bm@qBF}DrBmChG}@~@eXpEeDdBqBbDe@fFpArLmBb@Sn@xCpCPx@cJxH]bBNxBpA`EnB|BbDtBvK`EnEhKBf@WNkBeBwAYgAZk@~@XtC~FnQiAdBUtAuBdCa@xBrBrFl@\\xA[t@eBlCq@`Ad@p@zDI~DiBl@KrCxEnDpFgB`AX?d@mDl@QPVd@pHA~EsCz@_E|BwBrEiI~@{C\\}Fg@oOfBoKxGmG|Be@`Dn@Xy@iA}@fCM^_@WaAgBOeAqCLi@xBm@T}@Q_AsBkCi@}DsCw@yG\\{A]Hc@rMqA`@S@e@eBGaJjAy@QGg@fAcApJuAtAq@mHoPDwBpAuAlAFrAvAjEnMzIC`Bk@ViC?gHnDiMPkRi@kAcBCq\\`JmI~@iCu@iGqHqBo@yBAiErBwCrGgBlAmUjDqD|A_C|BaA]gAeBWcBJkBvD}Iv@wGo@yJi@yAoAkAGmA_AeA]yBL_BvCmJ^kE{AcDeDy@y@mAoBsHr@gHwBwEr@gAfDGZ{EpAs@jF|Ab@j@FtBxBr@aAbD~@nAzHW`BoAt@wAoAsE`DgDB}DuBsFmFkEQiAvAkF`E}Az@wAE}DeEkFzBgCKwCtIoTd@yEw@yBkFeBiA}@{@uBBsBzF{LrAmEvCq@~Bv@dAExCiE`DIhB_Ab@sA?mBaDkFz@aBpAc@|@LlGtJjAh@bBeAjAkEjBHtA`BAvDfCzA\\`A[dA{Bv@g@`ACvKsAjSdEnFVxA\\T`Gf@zLyC~At@n@dEb@tLUpCaBvA[bANnFn@xCdB`AlCGlGtAdBrA`@tCpA|@|@k@rC{IfAkAnALtAdAd@vCjEJbAn@",
+"average_heartrate": 140.8,
+"average_speed": 9.714,
+"elevation_gain": 117.0,
+"source": "strava",
+"streak": 8
 }
 ]
