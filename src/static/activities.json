@@ -22830,5 +22830,21 @@
 "elevation_gain": 58.8,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 16998966817,
+"name": "Zwift - Neuromuscular + AC #2 on Tick Tock in Watopia",
+"distance": 37205.5,
+"moving_time": "1:01:00",
+"type": "VirtualRide",
+"start_date": "2026-01-10 10:24:32+00:00",
+"start_date_local": "2026-01-10 18:24:32",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "~o_fAs~bz^oAuFx@aGwBuF|@_AzCETeE`@w@~BEzDlBH|B`C~@cA|Cz@rAhIYhC{CCu@gAkD|C{CH}DgBgF{F}ESwApAyEzDyAdA}AEcEsDcEMu@~BgCMoCxI}T^sDw@gCoFgBiAaAw@gBGcBhG}MpAgEzCo@xDr@v@g@dBaDhCAzB_Ap@wBC{AeDiF`A_BrB]fGxInAjA|@Ez@u@rAqE`CZ|@pACxD`D~BMxAoCfAa@hA@hJwAjSf@`B`DlDV|AbHv@|L{C~AbAt@rHP`KUpAmBhBOxB^zEl@jBdBx@bCMjGrAzAfAh@~CxAdAjAkA|CkJxA[vBnA\\nCdFZlBtCb@bEg@rByL~G}@`EuB|@qAzBv@~CdB|@JlB|@~Ac@vBoBZIj@^\\vAIX`@mBnB}DhAk@pJpBfHtE`FQdHVfCad@fL{OvEw@nAjBjHaKnCgH~@yBK}AcAaFmGiBs@wBGyEpB{CvGeBlAoUjDgElB_BjBgAWsAuBQcBR_CjDmHz@yGGaFe@cDk@{AmAiAKsA}@iA]_ChDeM^}DsAcDyDeAs@mAmBoHt@_HqB_EAs@x@w@xC?\\{EzAw@fFbB`@j@FpBvBt@aAxCn@nAnAP`Ge@dCiCDy@}@kBGsApCiCZ_BIaBsBcGoFgESoApAcFzDwAfAcBLcBWcB_EiF|BgCMuCzI_UZyD{@eCiH{Cy@cBKsBbGsMlAiEzCu@zDr@`Am@vAuCbDMlB}@h@aB?iBcDmFh@kAjAm@pB^lFrIdAp@hB}@vAuEtADxAfADrElCbB\\fAUv@uBr@s@bAEfLqAdShEtFx@hBjGb@`LwCbBr@p@|D`@vKIdDqBrBUlARnFn@jC|Ax@dCGvGvAdBpAb@vCtA`AbAaAtC}I|Aw@dCvAf@tC`FTjBtC\\~C]fCgMnHw@zDsBz@uAtBx@jDdB`AFfB~@hBe@nBiBVOh@X`@`AOv@^Kl@}AhAcEpAm@zIrBrHzEpFUjGR`Dgu@xRi@pArBtGeJnC_IjAcCKaBeAaFmG}Bu@qBAoBh@kBvAiCbG{AjA}UnDmD|AwBxBaBu@y@eBIoCr@yCvCkGj@{EAiCy@eHmBcCGoAmAgBQwBhDwLZ}DsAcDwDgAy@{AeBiHv@wGwBgFz@_AxC?^aFvAq@lFdBZd@HtBnBf@Fn@aAxBx@rAlIY|BeCH_A}@cBKwAvCoCVcBKcBsByFkFgEUgAlAeF`E_BjAoBScE{DoE~B_DU{B`AwC",
+"average_heartrate": 147.3,
+"average_speed": 10.165,
+"elevation_gain": 113.0,
+"source": "strava",
+"streak": 9
 }
 ]
