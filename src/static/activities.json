@@ -22846,5 +22846,21 @@
 "elevation_gain": 113.0,
 "source": "strava",
 "streak": 9
+},
+{
+"run_id": 17008824739,
+"name": "Zwift - Power Intervals #3 on Champs-\u00c9lys\u00e9es in Paris",
+"distance": 31888.8,
+"moving_time": "1:00:25",
+"type": "VirtualRide",
+"start_date": "2026-01-11 08:34:21+00:00",
+"start_date_local": "2026-01-11 16:34:21",
+"location_country": "\u9999\u69ad\u4e3d\u820d\u5927\u8857, \u9999\u69ad\u4e3d\u820d\u8857\u533a, \u7b2c\u516b\u533a, \u5df4\u9ece, \u6cd5\u5170\u897f\u5c9b\u5927\u533a / \u6cd5\u862d\u897f\u5cf6\u5927\u5340, \u6cd5\u570b\u672c\u571f/\u6cd5\u56fd\u672c\u571f, 75008, \u6cd5\u56fd;\u6cd5\u570b",
+"summary_polyline": "qjgiHygcM`Hq[FUTe@NKNC`@?l@HfAR`BVLAJEJKFOx@gDh@iCnE_S`Hs[BWCWKOcAw@kEmCoE}CWMMCK?KDWRGLMb@gNho@Gr@@r@AXUvD?v@DXJT`BbCTl@FX@ZKr@qRl|@wLlj@aHzZeErQO`@ILq@Za@^S\\Kb@Gf@?j@@RJh@P`@HLLJXL\\@LCZMJKT]Le@Fi@@k@Gi@YsAAq@DWzG{YnNqo@tEwSlPyu@HYLWRKTC|@DnDl@R?PMJU|@uD^kB~GwZzEyTC_@OSOMu@i@oDyBgFqDQIQCQ@QHMPSl@oAdGoJ|b@i@jCEj@@bAYjE@n@DTFRl@bAp@~@Td@FRDV@VM`AqPbv@gAxEkMdl@gFpUaFfTM^IL{@`@SRSXM`@Id@Cf@H|@Ld@HNTVZNL@ZCZMJKT[Le@Hi@?i@Ei@[eB?UFi@rEcSjEuRpb@mnBL[NSTGV?h@DbBZxATPCLMHSz@iDfCmLjBgInFsVx@}D?WGQKMq@g@yD}BgFsDa@SOAO@OHMNQj@kArF{Jdd@e@dCAZ?z@AZUpDA^B^FZLV|A|BVt@D\\C^Mx@uRl|@eLvh@kH|[eErQM\\IJo@X_@ZSZM^Ix@?h@Ff@Ld@HNVVZLZ@LAZOTYP_@FSFi@@i@Gi@WoACU?UFi@hHc[bf@wyBVq@PMTCx@DtDn@N?PGJOPk@h@{Bd@_CvEwSbH{[?UESKMq@g@kEmCaFmDUKUASDSPSj@eAfFiKpe@]jBC\\@x@WlE@z@FZJVl@~@l@x@Vn@FZ@\\Kv@uPnv@cAfEuAvGgIj_@eHh[oEpRSn@MNs@ZOL[d@IVMt@@x@DZRp@LRNLPJRBR?PEPKPOLURs@Fy@A]Mu@Os@C[?[DYbCgKbDuN`Iu^zJ_d@hPku@H[NWRMTA|@FjDl@P?PILQPo@h@{Bd@_C|EkTvGsZDWCUKQKKq@e@}DaCeFqD_@OU?SJQRK\\uAxGgI`_@_AjEQbACX@jAYjEBr@FXJR|A|BTj@DVBZOfAkLvh@sCzMwIp`@qBjJmDzOSp@sBlJkEjROb@KLu@\\WTU\\Of@Gj@?n@BVLh@Rb@ZVND^@\\KZWHQ",
+"average_heartrate": 139.5,
+"average_speed": 8.797,
+"elevation_gain": 195.0,
+"source": "strava",
+"streak": 10
 }
 ]
