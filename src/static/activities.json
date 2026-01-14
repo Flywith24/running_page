@@ -22910,5 +22910,21 @@
 "elevation_gain": 299.0,
 "source": "strava",
 "streak": 12
+},
+{
+"run_id": 17042105757,
+"name": "Zwift - AC + Sweet Spot #2 on Watopia's Waistband in Watopia",
+"distance": 35747.5,
+"moving_time": "1:02:12",
+"type": "VirtualRide",
+"start_date": "2026-01-14 00:56:10+00:00",
+"start_date_local": "2026-01-14 08:56:10",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "rr_fAyybz^}CaJCmAv@{EyBmFz@mAvC?v@}F~BK`ElBH|BdCjAeAxC`AlA|HYjCwCiA{EVs@`CgBXwAGgBiBqFaGeFKqApAwE`E}AbAgBKwDqDaEMu@tBuBEeDvIwT^yDw@eCiFeBmAcAw@gBEcB|FiMpAqEdDw@vDr@x@i@xAyClDOjBaAf@eBCkB_DeF\\}@nAw@fAAp@d@~EbIjA|@rBaAxAuE`BThAdADjErCnBR|@]z@gC`A[z@CvKoAhSxD`F`@hB^P~Ff@tL{CdBv@n@nE^nLSjC{BnCHhFv@nDfB|@jCGjGtAdBxA^pCtA|@dAaAxCeJdBk@xBtAb@rClFZlBvDNzCc@lB}LbHw@xD_CfAmArB~@lD|Ap@NxBx@tA_@rBgBZUp@X\\`BIV^aBfBoEzAg@tIlBlH|EpFSzGVrCcl@`OiI`DHdBrBfFfOaEnAGp@h@GtRsDfNIhKsAbAeJBy@sAkCeJy@oAgBg@kB~AOfAVxAbHbOyAr@qJpAy@n@Iz@hAb@lKqAv@V{Al@{K~@K|@jBVlF]lDp@`@lDvBxCPdA_@x@sBf@Gp@lAvCfBNPd@Ud@sCRhAdAKf@kDk@mB^cHjGaAjDq@dGh@|Oo@vGcGjLyBrBeAjEiE`CwHFIc@xDw@?i@}@e@cGhBcEyCAmChBm@PsDa@}Ds@}@wDb@}A|B{@@i@m@cBcGbA_CrAqA|AiEeFkOs@aEj@cAfA[rA^bB`B`@MBo@aFaLeKsDeFmD_B}Cq@sDH_Bf@cAjI{GK}@_DyCNa@lB]De@oAoL`@uFyBsC]gCj@qDfDqHf@}Hu@yHuBqCEkA}@cAa@{BLyA|C_KVqEuAoCiD{@}@sAmB}Hv@uGoBuDEu@~@{@nCDh@mFxAi@fFdB\\n@?bBzBt@Db@cA|Bp@pApBLdFe@bCwCy@gCOuAxCwCPyDsBaGqFoEUwAnAuEbEcBbAeBMaE}DeFxB_CGgDxIsTZcEy@aCaF{AkA_A{@cBGuB~FgMpAqEzCu@bEn@rC_EhDMpBgA`@}AGoB}CaF|@}AvAc@|@T~FdJfAr@jBaAxAuEbBPpAzA?~DhCzAXjA[t@_C|@e@fAAjKqAtSfEnFh@dBbGj@hLyCx@?z@n@r@|E^vLU~BeBvASt@JxFr@xChB`AjCGpGxAxAjA`@rChAbA`A]`DsJpAcArCnA`@tCdFXzAnB",
+"average_heartrate": 135.5,
+"average_speed": 9.579,
+"elevation_gain": 117.0,
+"source": "strava",
+"streak": 13
 }
 ]
