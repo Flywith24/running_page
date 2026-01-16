@@ -22958,5 +22958,37 @@
 "elevation_gain": 15.6,
 "source": "strava",
 "streak": 13
+},
+{
+"run_id": 17065265447,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3558.5,
+"moving_time": "0:39:16",
+"type": "Hike",
+"start_date": "2026-01-15 04:20:00+00:00",
+"start_date_local": "2026-01-15 12:20:00",
+"location_country": "\u6167\u5fe0\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "ydbsFyemeUFlTHtCUDkFXoKXq@EwABuBEo@HcABkA@oDCyCFYCOCSUK_@Dy@CeBCYOc@EUA}@Bq@Aw@Bm@Ai@BoAEu@Ou@AQHsAEiDFeA?}AFy@L[LGv@GpBANETYZEfJHVBBBBDb@Ev@@|@Kd@AtAHvD?b@D|@BnA@XCr@?XHNMFAbCFBA@GCy@B[FIXEJGFKBO@_BM}A",
+"average_heartrate": 109.2,
+"average_speed": 1.51,
+"elevation_gain": 59.0,
+"source": "strava",
+"streak": 14
+},
+{
+"run_id": 17065246664,
+"name": "Zwift - Endurance #4 on The Magnificent 8 in Watopia",
+"distance": 35082.5,
+"moving_time": "1:03:55",
+"type": "VirtualRide",
+"start_date": "2026-01-16 00:52:41+00:00",
+"start_date_local": "2026-01-16 08:52:41",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "rp_fAkw~y^lA|EpBpClElCfGfBxBnAhEbKF`@[V_B}A}A_@cATs@hAXjC`GzQkA~AWrAiBrBm@bCnBrFd@`@bBSv@iBnCq@z@^t@`EGtDK\\}AZMpCxEnD~FkBv@b@A^yDv@Dh@dHFnFoCfAqE|BuBrEiIz@}C\\mFi@cOjBcLnHyGnBY~An@~@ENw@eA{@`CKd@k@[s@eBU_A_CDu@~Bs@NgAiCiE[mD_Bq@aDMiId@s@fA}AhG{@b@iYkGuGb@gMtC}@E[eA?cCPcBh@k@pFyAzMiBzEeElDz@~@QFwKpDcFBmCaA}BkBcAaF]kGJqJfHaHrABpA~B~IMrAu@Bc@i@{B{Is@YWT[zAG~Fl@|@~@c@NcB_G_@oAgL`@oGoBcCi@eBRmDhDmHz@uGIgFe@_Dg@uAuAuACkA_AcA]eCfD_M\\kEyAcDcDw@_AsAmBmHt@aHuBiFz@cArCDf@gF~Ao@zE~Ab@h@BnB|B|@aAzCv@pAbIUnCuC@w@_AcBGsArCiCXuAEiBmBwFuFuEUqAjAyEnEmBv@qAEcEqDcEMu@vBwBGaDfIoSl@{Em@gC{FsBcA{@u@_BI}AfGgNnAeEtCs@`Ct@dAEz@k@pAqCnDQjBeAd@}ACeBaDwFv@mAdBg@hAd@|EdInA~@jBu@zA}ExBZ`AvA@|DzC|BQxA{Bv@q@rA?pKuAhRl@dBzChDXzA~Gv@xL{CbB`An@tF\\xJWrCaBxAWv@JhFr@hDpB`A~BKrGzA|AnA\\lCpAfAjAy@dDyJn@a@x@DhBjA`@tC|DJnAl@nArCRhD{@`CiLnGy@~DmBt@wArB^`Cj@`AhAZT|Bz@`B]fBwBf@Gj@b@XzAGPd@aB`BeElAq@tJlB`H~ErFSvGPvC{t@pRu@nApBzGaDlAeIjBmH`@eBaAuF}GcCu@{BF}DrBkCbGeAbAkVxDiEjBmBbCy@lFnAbNcBX]l@Xr@rCrCm@hAmHrFa@vA@|AbAdE`CbDfEhCpGjBhBfApEpKGf@[@}A_BuAYiAZm@~@ZtC|FjQgAbBYxAqB`Ce@lBlBvFh@d@xAM~@oBhCq@pAp@f@|DGfDO^}A^OfBRz@fEtCvFgB~@XBb@yDx@IR`@ZxG@nCcA~AyA|@_EzBuBvEqI~@eDVeFi@kNfBqLvGmGxBi@fDn@Xu@eAcA~BKb@_@W_AeBQeAuCJe@zBm@Tu@QiAuBmCMcA",
+"average_heartrate": 130.4,
+"average_speed": 9.148,
+"elevation_gain": 192.0,
+"source": "strava",
+"streak": 15
 }
 ]
