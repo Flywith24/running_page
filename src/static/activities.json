@@ -23022,5 +23022,21 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17110678598,
+"name": "Zwift - AC Intervals #1 on Tempus Fugit in Watopia",
+"distance": 32154.9,
+"moving_time": "0:57:15",
+"type": "VirtualRide",
+"start_date": "2026-01-20 00:51:44+00:00",
+"start_date_local": "2026-01-20 08:51:44",
+"location_country": "Muie Village, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "ht_fAgybz^{@Ua@k@uBwHCmAv@yEyBeFv@oA`DEXsEXi@dCCxDhBHzB`C`A_A`DJh@v@f@dI_@bC{C{@aCQqA~CiDRuAKkBqBsFmFgESuAfAuEhEeB`A{AJ}ASgB_EiFzBoCMoCtIoTb@sEu@yBgHwC_AaBSsBnGkNbAwDbDy@~Bt@bAGt@i@tAsCdDOtBeAd@cBEgBaDkFhBoBfAGr@b@lFvI|@n@x@Gv@q@vAyE`BJlAbAHvErCfBR~@[x@{Bt@k@hA?jKuAlSn@zApCrC\\`B`@RjFj@jM_D|At@n@fEd@nLMhCoBhBSv@JdFv@rDbBz@hCKtGzAzAjA^pCnAdA|@a@dDyJjAy@pCnA`@rCdFZvCjDdCKdB}AFqCyBeBgCXoBhC}EAa@UYkC_BgAeAIqAnAuC|I}@d@eA}@_@sCoByAeDa@gBq@{BJ{Am@w@cCWgGXkAdB}AP}Cc@kLu@oEeBo@iM|CiFi@YM[cB_EcFrAoS?iKf@gA|Bw@\\_A[oAmCaBGuEoAeAcBOaBzE_Bz@kAy@eFkIw@e@cABqAt@g@nAbDlF@xAc@`BoBbAaDJ_BzCq@d@{@FkCw@yCr@qAhEcGtMDvBz@jBtAbAtExAx@rBc@xEsIlTLtC{BzBR`ApDbEN|AM|AcAtAcEdBkAbFRhA|FdFxAzDRnC[~AqCbCH`B`AjBsAdC_Aj@qE^iCc@MaAdCyEpBiAbDa@pB}@~@w@ZsAKaC_AaDcBgC}DwCSiAlA}EbEcBdA{AHiBU_BaEkF`CoCWaBL{@fIkSj@yEMoAq@}@}E{AgA{@_AkBEqB|FgMrAoEtCu@zBp@rACr@g@`B{C~CIjBcAd@wA?kBcDoFb@gAjAq@z@Ev@`@fFpIjAz@x@Mv@w@zAuEzARhA`AHvEpCfBTx@Uz@eC~@g@hA@rJuAfT~DfF\\fBXNlGd@pL{C~Av@z@nHVrIQ`CkBfBSz@LrF|@dDtAn@rCGpAn@zDh@xAhAf@|ChA|@bAe@zCeJtAiAbARnA`Ah@vC`FThCfDxCQzAcB@iCwBaBoC\\cBbC{E@e@Qa@wCuA}@cAMmAz@uC~I_Ax@oAaA]oCaBsAcEm@mAm@gCJ{Aq@{@}CQeFRgAnBmBNgCc@iLm@sEeB{@yLzCwGo@a@iB{CcDe@}AtAkR@wKd@_AjCgAF_B}CyBCiEyAyAiBKyAvEuAz@qAu@sBmD",
+"average_heartrate": 140.1,
+"average_speed": 9.361,
+"elevation_gain": 53.0,
+"source": "strava",
+"streak": 1
 }
 ]
