@@ -23054,5 +23054,21 @@
 "elevation_gain": 13.8,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17122723102,
+"name": "Zwift - Cruise Intervals #6 on Going Coastal in Watopia",
+"distance": 30675.9,
+"moving_time": "0:58:05",
+"type": "VirtualRide",
+"start_date": "2026-01-21 00:52:32+00:00",
+"start_date_local": "2026-01-21 08:52:32",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "rr`fAudez^HqBY{AmDuDMm@|BaCOuCvIuT^wEo@qBiFeBiA{@aA{BA_B~FgMpAqExCs@|Br@tAK`CuD|CMxBgAf@cBCeBcDmFx@sA~Ag@~Av@xEbIdAr@jB}@zAyEzALjAz@NdFnC~AT|@Yz@wBt@m@bACtKqA|SzD|EZ|Af@ZrFf@jL{CdB\\|@nEb@fMO`C_CvC?fDh@hElBbBrCG|G~AxAjA^pC~@~@lA]bDuJhA}@xCpAd@xCzERbC`D`AL~AQhAy@f@mBU_CJw@zCkD|As@hE^|EhClFc@tFdFlAo@dAkDz@oA`Fg@rDyChCJhEiAfH`DxDLdAg@r@uAx@iJnA_CbCwAzBYfEhCtA?x@gAjAwFvAeAv@kBdDqBlIQzBgDnDlAv@Ab@m@XaCjAk@t@ZA~ArBjArE_@xDqCz@@hDjAl@[XcBzA{@dC^bDaBpA\\JbDfAN|Ay@vCqDlAc@lAh@vBfEfC^dDvBAv@_Bt@iAvBf@bG\\t@hA`@rGPf@bDvDLbB`CnDkBlE`A^n@d@lDtCZr@n@fEjL`BdGz@hAfAKj@qAsAqCHiBqBcAGaAv@cA|B_AxA?t@`@HhA_B~EIzChMvOXpAAlFh@nA|Bl@jHIbHtBlHcAhDdEdFbDv@lEg@fFlAfAf@jC[bAyAx@uBCk@h@PfOd@`@pCRHfJTb@dH?N{D^_@zH`HHt@Ul@kGrAm@p@^|@`FbAv@n@[~BVtGq@hAkFNwFbD]z@M~CgBpCWrGuBfEk@hCq@n@cDFw@j@^xFsA~C@dAhAx@fEl@x@vAM`B}BnEMjDeFtE}G`Am@Wc@gBcAcA[iAy@OsDrEoGh@aAn@L~ArGdAvAbBZjIjAbBiAhMn@zBs@pAFl@nAj@fDgB\\Vj@zBnAjAhB@\\xAs@p@qIfAIp@d@~BcDfMkEzAy@tB{LlOgA`H{DvBaB`EqBp@}HLkBm@u@}Bk@g@cJh@cCwAeFg@qCdAqD_@{A\\aFpCeA`Bq@ZcNLcCbCsF`AuB|C[`CNtBhDrBbAlB{ApEcCz@qDsAQeByAy@eAB}@xAm@RqDBy@_@w@eCo@e@iB?wAt@i@Iq@{@UyB}@m@mBWmAb@sBAqBr@gFeAkAcB_DeAcBiE_DoCc@cCEsCqCeA[y@D_AvAy@m@iCj@SdA`@^]e@{BoB{A]sAzAgB`AF",
+"average_heartrate": 141.9,
+"average_speed": 8.802,
+"elevation_gain": 164.0,
+"source": "strava",
+"streak": 2
 }
 ]
