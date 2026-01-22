@@ -23102,5 +23102,21 @@
 "elevation_gain": 28.8,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 17134326714,
+"name": "Zwift - Waisted 8 in Watopia",
+"distance": 31252.9,
+"moving_time": "0:59:23",
+"type": "VirtualRide",
+"start_date": "2026-01-22 00:58:27+00:00",
+"start_date_local": "2026-01-22 08:58:27",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "vv_fAyk~y^jEjCpGlB|Az@lApBpClHEb@YDaBaBmAYeAPy@fAN`ChGhRcAtAWvAcBfB{@hClBxFd@d@tAEjAqBdAIx@e@`@@r@j@j@`EIbDK\\iAFWZOjBTt@tC~Bx@VpGiBb@x@aDj@c@\\DVvAGlDXzDK|DzFh@XxHa@lOxBxHoApBPjNfFZbAJxBg@zE^l@fOWxD^nBt@rBnBPhCa@|BwA`EqAlIqAnCsHxFaFnFoCp@_D}@cCkCiB}DoBwIk@_Ao@BgGpCcB@cAa@sJuJ[aAiAwI_IgMi@yBMkBT{Ar@cCiDyGLy@bAgBl@_DvBoBtEkI|@sC`@}Fk@kJBgDr@cGt@sCn@aAdEqD~@g@`BYlBp@v@CNw@aAg@AWfCK`@k@_@u@cBMeAsCJe@zBo@T_AUeAuBsCOgCWm@iDo@{F\\{ASHo@bLaArAk@Ka@e@ImKrAy@ES_@Ru@n@_@zJwAnAq@gHsOQiAFw@f@cA`Ai@fBj@n@|@pCzJt@pAzKS`@]P{@H_K~@wBhBeIReR[kAu@SeAHwN`E[QiBcHhA}@dHyB`k@qNScDPuGcF}FiAeD]yBl@{IzDiAxAcARe@Uo@wBKJk@fBYd@cC{@}AQyByAk@q@aBKkApAoBpBy@x@{DxKcGr@u@X}ASmDuAyCaBq@cDAa@mCsB{AcAAu@l@_DrJw@p@sAaAc@wCgBqAoDc@}Aq@kCFaBcAq@wDGeET{@hBaBRcC_@yKu@qFu@q@s@G{LzCeGi@g@gBaEeFFiDhAqN@iKf@cA|Bw@ZcAWeAmC{ACmEe@u@wAo@iADmAfEcBhAsA{@sF}IkAWqA`@w@x@Mp@`DhFB~Ai@fBkB|@{CDeB`Du@f@aA@uBw@iDz@qArEyFvLEhB~@`CnAdAjFdB^j@NhAK|Ba@dBeIjSKx@V~AaCpCTt@hDpDTzAIfBw@tAoEjBmArELzArBnAlCrCjBtFB`B]vA}B~ASh@LzA|@bBKv@yB~BiFb@}AKq@gAbA}BCi@m@c@kAOCgBk@y@{E_B_AHe@`@UdESf@uCE}@fAFr@pBbEw@jGrBfIr@dAnD~@pAnC[nEuChJQdB^bCz@|@JvAbAz@l@pAf@vCNlDm@rHaDdHk@tD^jCvBpCc@nDBbBnA`LwBl@Kn@Zj@tBvAX`Ay@fA_HbFa@nACtAf@tCtA~CdC|BxDhB",
+"average_heartrate": 128.6,
+"average_speed": 8.772,
+"elevation_gain": 147.0,
+"source": "strava",
+"streak": 3
 }
 ]
