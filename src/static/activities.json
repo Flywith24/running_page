@@ -23134,5 +23134,21 @@
 "elevation_gain": 59.4,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 17145515275,
+"name": "Zwift - Sweet Spot 20min on Tempus Fugit in Watopia",
+"distance": 34060.5,
+"moving_time": "0:59:27",
+"type": "VirtualRide",
+"start_date": "2026-01-23 00:54:17+00:00",
+"start_date_local": "2026-01-23 08:54:17",
+"location_country": "Muie Village, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "bs_fAqybz^{@}@sBuHt@cHyBqF|@eAzCEn@uFzBQdEnBNdC`C`AeAnCHn@p@h@jI[fCwCmAwETq@fCsBVwAKkBsBsFkFiEUuAhAuEdEeB`AwAL{ASkBuDgEKq@|B_CMqCtIoTb@mEo@{BqHaD{@}ASmBhGiNjAaE`Dw@|Dp@|@o@vAsC`DKlB}@j@eBEmB_DeFb@gA`Am@~@Iz@^lFvIfAr@lB_ArAqEjA?bBfAL~EbCvA`@fASx@aCz@k@bAAvKqAtS~DbFX~Ab@RnFj@tL{CnBn@t@fF^tLSnBiB~AUx@PjGz@rC~Ar@dCKtGzAxAjA^nCrAhAdAq@pCyIdAiAz@D`BbAd@vCpF`@hCdDtCS|AiB@{BwBgBgCVoBjCwE?i@Y_@oCuCkAgAl@_DlJgAx@gAcA_@mCgBuAuGyAaCHuAk@y@qCSaGNu@rBsBNoCm@kNm@wC_Am@y@@sLzCqFk@o@oB_EeFrAsSBoK`@}@bCy@XaAUaAqCcBIwEqAiAgBM{AzEw@p@u@BiHgKu@_@qAHgBtB`DtFDrAa@bBsBhAgDNuApC}@l@_Eq@{Ct@qAjEaGrMBfBbAzB`Az@nFdBn@xBc@lEuIpTJrCwBxBRbAlD|DHpDeA`BaE~AsAlFRhAfGlFtA~DP`Ce@jBkC~BFlAdArBgA|BgAv@sDZgD[OmAdCsEhBeAhDc@tB_Av@q@\\{ACoBoAaEgBcCiDcCYsAnA_FpDsAnA{ANgBQiBeEmF|BcCGaDnIgTd@oEq@yBsHcDcA{B@gB~FkMpAgEtCq@`Ep@|@k@vAuClDQhBaAf@iBE}AaDkFh@gApAq@jB`@xE~HpAbA|@Kx@y@lAiE~BXz@lABbErChBAfBkCdAg@jA@xJuA|SfEpFV~A^NtFh@vL}CfBn@n@nDd@`MOvCkBhBWjAT|Fx@jCxAp@pCGhGvA|AlAb@tChA`AfAi@`DoJjA{@pCnA`@tCnF\\dCdDrCMbAo@b@cA?yB}BeBkC^gBdC}E?c@Ya@oC{CkAaAr@}ClJ_Ar@kA_A_@qCoByAoGuA_CH}As@u@uCO}FVy@dB{ARaDg@aMi@mDgB}@}L|CyFe@]Q_@gB}DgFtAcS@oKj@gA|By@V_A]kAcCqAGqEgB}AgBBkAjE_B|@eAm@}FiJaCGcBpB`DxF@dBq@fBqBt@uCH{AzCs@d@_Es@kDbAqAvEiFvKSxA\\dBbA~ArG`Ct@rA",
+"average_heartrate": 135.4,
+"average_speed": 9.549,
+"elevation_gain": 53.0,
+"source": "strava",
+"streak": 4
 }
 ]
