@@ -23406,5 +23406,21 @@
 "elevation_gain": 51.4,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 17256157597,
+"name": "Zwift - Road to Ruins in Watopia",
+"distance": 30411.6,
+"moving_time": "1:03:43",
+"type": "VirtualRide",
+"start_date": "2026-02-02 00:56:13+00:00",
+"start_date_local": "2026-02-02 08:56:13",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "~d`fAud~y^sF_ByEsCiBoCiAsEDeB\\cAlHoFl@aAQ{@mCsBMi@`CgAoAiOh@yCfBoC~BsAjDcAnSyCpAgAhCeGxAgAjBm@rBClBh@nA`AhEzFvCt@xH_Av[{IpBMf@\\Jn@GjO_@lD{CbKGvJN`Af`@`HTd@FlEp@h@v@a@NwC`@uAx@sAf@Kj@lAu@lGn@jBxChAxTfFLhAeAbD@lEuA`ETdEvArCfCzCvFvBvDrFxAfA~GhAxFPtDo@|I_DtBQxGbBrF?^b@M~A^b@rCc@tCfAg@bAyCJYdAZn@dDrBbBnC`@xBk@~FrBbBl@`Ci@~APpAc@h@kALcDaAoBlBJjA~BnBb@vBUTaAa@q@TI`@p@dByAbAEx@^dApCfABrC`@|BjD|CxAzDhDpAnAbBzE`AlFq@bAa@vBTr@d@ZbCl@t@n@NtAu@jBAj@d@t@~BbAd@jDAv@Yv@uAjAAlAn@CdAZh@fEnAzBeAtAmEaAuBkDwBOwBZsBvByCvEs@rAw@b@{@H{BSm@cCk@cBeAs@CkCv@aDqBaA`Bo@LoB{BoBWeAJe@l@n@hC{@`BP`By@nAoBEyClA}B}AgBa@uA_Bp@iDoAm@}@eAVoDq@sCDq@hAu@xDv@hC|AzA[pBXnB[Va@HoBt@WpAb@lA{A]yC_Bu@]mAmCg@oDXmU_IW[KmBuCkB}AM}@XUl@HrA{@hAyBg@sAqAuCuHeF}D^iA`DSVa@Ci@gDgAaCf@[i@LuAk@i@qF?gHcBwBVkIvCcDj@yFGsHmAuAgAiDkF_EmAmA{@mEyGYeExAmECeEbA}C?aAiAq@}PqDyE}Ao@wBn@kFUuAu@Mi@l@cAdCMvCo@^m@i@EkEkA{@m^cGkMTeA{AoCoJcAoAcA_@w@N}@x@WbCtH`QqAh@yJvAs@f@O~@lAd@`KqAbARoAj@iLdAOj@T^dAHdD_@jCD`Cp@^nDlBhCXjAUt@wBj@Iz@bAlC`BLXt@SXiCLC^fAr@]f@{Cq@gCj@_BlBwDfDu@zCs@zGj@fNWdFy@zC}ExI{BvBcAfEcBrAeCz@uEYcATQS^]|Ce@Dm@_Ag@cGhBmEmDNgCpAQT]HyDm@_Eq@i@m@AcCn@{@hBkARo@g@iBiFf@yBrB_CPiAfAsB}FqQ[_Cl@eA|@YrAVlBfBf@[Is@yCuHaAwAoK{DcFqD_BcDi@oD",
+"average_heartrate": 124.8,
+"average_speed": 7.955,
+"elevation_gain": 275.0,
+"source": "strava",
+"streak": 1
 }
 ]
