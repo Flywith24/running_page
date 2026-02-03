@@ -23454,5 +23454,37 @@
 "elevation_gain": 21.2,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17266931235,
+"name": "MyWhoosh Crit Racing",
+"distance": 13837.0,
+"moving_time": "0:24:21",
+"type": "VirtualRide",
+"start_date": "2026-02-03 01:00:01+00:00",
+"start_date_local": "2026-02-03 09:00:01",
+"location_country": "Loma de Simon, Santa Cruz de Mompox, Isla de Momp\u00f3s, Bol\u00edvar, 132560, \u54e5\u4f26\u6bd4\u4e9a",
+"summary_polyline": "k|gw@~areMPSHWBeA?iRAeI@eEC[EOGKMGOE_@E_@?}O?QAqo@@_@MMKQ[Iu@?gOJKxL?`@DLFJLF`@B`JD\\HHLFZDvX?PAxC@LHDN?N@pGAZG\\GJKFMBcE?c@LoAnAOHc@FaKBgH?QA_@Qs@w@m@_@iKCMHENCb@@lJD^HJ^Fnl@Ct@@b@DNLFLBd@BtODjANl@Vf@zAjBnBzBL@VQnBeBpFqE~@}@L]D_@?q@?sQAiI@iECc@GOMMa@Iu@C{O?OAwo@@a@OKMQa@Ec@?eOBQPCrL?P@PDLJL^@PBdJBNFJNF^Dx]ANDFP@P@rGGp@ELMLOBmE?_@ReAdA]RQ@}JBuH?a@KMIaA_A]UQAuG?s@Ca@?QBKHG^?nJB`@DNJJ^Dll@CvAFLHFNDb@BlO@r@Fp@Pl@\\f@bEzENCNKpIoHr@g@Z]Pa@Be@?s@",
+"average_heartrate": 142.4,
+"average_speed": 9.471,
+"elevation_gain": 24.4,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 17267045787,
+"name": "Zwift - Pacer Group Ride: Rolling Highlands in Scotland with Diesel",
+"distance": 6719.9,
+"moving_time": "0:15:36",
+"type": "VirtualRide",
+"start_date": "2026-02-03 01:26:25+00:00",
+"start_date_local": "2026-02-03 09:26:25",
+"location_country": "Portcullis Buttress, \u5317\u827e\u5c14\u90e1, \u82cf\u683c\u5170;\u8607\u683c\u862d, \u82f1\u56fd;\u82f1\u570b",
+"summary_polyline": "slqrIj{}^Oj@GHQNG@S@i@I]As@F]Je@T]V[\\a@j@Ud@Uf@Oj@K~@AfBI\\]l@]`@c@Zc@P[BaAAaAMo@@KBKDINOb@ILIHMDK?KCKGSYIe@E}@O]SOs@QgBm@]Gi@E_ABeDCa@BOHONKVYvBKZ]j@sBzBwF~FqAzBgBvDa@l@g@^SFU@UCi@SQQQU]u@k@aCY{@_@q@QSSOUIUEW?m@JiAXWDY@WGWMWSSYQ]YiAOqAQwBQgAY}@m@wAcBgDk@aBa@mBMmAAg@@e@FeAt@oF\\wAJWTURIT@PDXVNXDNDb@A`@Ij@Ob@SXODYCWQOO_AsASQUGI?UHgAjAKDK@MCKIIMQe@a@sBOk@MOOIQDOP{@nBSTULW@UKc@i@cCgEc@_AQo@E[Au@?mAEo@Oa@_@a@a@Wa@Mm@EwA?SBGBgAr@]N]Di@Am@QcAk@_AQSIQOOUSi@Ks@?e@Be@Nq@Ze@pAeAv@cAb@[XKj@KrAI`@GPGNOLUHYHy@?y@G[IWKU]a@IYA_@Da@R{@JYNWRKRARBRJPNNRJXH^R`CPv@rAlDNLPDPCNIZ[bEkG`@_@ZIL?LDJHV^l@fAXVNFL?NCXO~@w@LCJ?LDHJj@rAHHHFJ?VCVIt@_@d@]zAwAv@i@f@QX?ZLNTXp@x@bCR`@XVFBR@PIPONWL]nA_Gf@gBZw@^k@`@_@`@St@ORMZ_@Te@T{@RoAHcAHkBJgAPo@JYVc@NQ`@Wb@M`@AXHVVNXx@bCJNJHN?LIJUVuBJ[JUNQNI`@INENMJQHUJq@HSLMLELCN@JFJLZv@JFZ?zAKd@NnAp@",
+"average_heartrate": 114.1,
+"average_speed": 7.179,
+"elevation_gain": 59.0,
+"source": "strava",
+"streak": 2
 }
 ]
