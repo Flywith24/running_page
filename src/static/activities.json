@@ -23550,5 +23550,21 @@
 "elevation_gain": 28.6,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 17290847580,
+"name": "Zwift - 15min varied tempo #2 on Douce France in France",
+"distance": 32722.7,
+"moving_time": "1:00:28",
+"type": "VirtualRide",
+"start_date": "2026-02-05 00:57:22+00:00",
+"start_date_local": "2026-02-05 08:57:22",
+"location_country": "Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd;\u6cd5\u570b",
+"summary_polyline": "vltcCihhu^xHxWcHjHg@vKsBMUnBgAd@CnCyDiBsAlBq@}@aAlAoABk@jDeA_AaAhAq@_AoAzAIsAyAWa@aCcCj@_CcEcErBDyBgC[RiBoBYIa@PuAeCB|@kACa@cC_BTg@dCNFiCpBG^mCyCo@Ac@|@eA_BoBNaDSaAaDmCkC_@oDIsC~@kCjC}BbEwAjEx@rJwB`FuBdAiEr@aDUcFuC}C{DSgAXsDhAiDzHeGzBeFJgBUaAgFmGCkAh@eC|@_AvENdDc@bAoAb@uCe@wCaC}DqE_@uF`CyB@kBeBoBiFOqDb@_CfC}BvCkAtBaDN}Cy@eDGsBw@o@iBuEq@QcBl@yBlC}IjAw@o@m@kB@{@n@qA}@qA{@Vk@lBuCtA{F`BsAQq@\\eEnMdApC@z@sApAs@~EyBtBNdBtBrFOjBiAl@qDmA_BBg@z@[zFeAVoDeAg@n@S|Bk@h@mAK}CmCo@?gJzN@fA`ErBn@z@}@zDrCnCUn@cB`AKj@bDvBM|AaB|@qIIyBt@cBrBuDhAk@rBuCp@QnFkFpBs@hAGvA|@|B~EvCC`Ep@bAzOnCdDrCdBh@tIxArKl@`E|DCjDf@|@`TVBfDuF`GYvGgAlDgA|@?vBh@^dRT`D|HjBz@n@nACdDiBrGRpAdBrA`BXtEoAfDRnBtAdAlCnBhBt@~AvDfDhAXfEiA|IYhMgD~LuGxC`AhCFt@QfAsA|AQ`D`AxGtDpJ@jCk@dO|BnHdCd@r@TjBbCLd@j@CjBkBdBLlAvD~AtBTdB`C`C{AjACpAyAfBBlAl@t@OvA}Cq@sDhBmATu@_@uBeAmAcGhAw@WS_ANgCrC}DQyBjD_AD{CcD}ByJgNeBuHgDsB_DmEsF_Fg@mAFgNlDaElAsDX_DIsHu@}DiHaNJcAhF_H}BeJmAAgFbFk@xKYV{A_@SjBiAh@DdCcE_BeAfBkAs@q@fAuAFc@dDqA{@y@hAu@_AiA|ASM?kAwA[_@{B_Cn@wB}Dg@GkAjA}Ad@@_C}BSLoBuB_@^gAKa@gC?|@}A_CwAAq@rCBFeCpBIb@gC}Cy@z@}AaBiCLyDqEuD{HSoClAuB~BiEnJv@|HQ|BmApC}AlAaGjAkBC}FwCsDkEO_C~@wFdB}BbGiErBsFBqA_@kAwEoFGsA`@sBnAuAtEPbDg@z@eAd@}B[aDgCoEyEa@sF`CyB?}BcC}AqEMgDf@gCfCyBnCeAtBuCRmDi@}B",
+"average_heartrate": 137.3,
+"average_speed": 9.019,
+"elevation_gain": 216.0,
+"source": "strava",
+"streak": 4
 }
 ]
