@@ -23582,5 +23582,21 @@
 "elevation_gain": 60.0,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 17301926814,
+"name": "Zwift - Free Ride Sandwich on R.G.V. in France",
+"distance": 29010.8,
+"moving_time": "0:53:32",
+"type": "VirtualRide",
+"start_date": "2026-02-06 01:05:20+00:00",
+"start_date_local": "2026-02-06 09:05:20",
+"location_country": "Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd;\u6cd5\u570b",
+"summary_polyline": "fltcCwihu^xC`LbDrJzCxLQdAwEtFMhAzGzLr@jCTbCBzH[nBaBnEsCrCG`Oh@hA~HnHvA~BfDtBz@|Eb@rApJxMrD~CQzBcDt@FlCkChDUlBLzAh@b@dAAxDiAp@Rl@|@ZdCcBlAWl@l@fCGdAuAzBcFk@gAtA{ALaBpAk@KcAoB{Ce@wCsAAwAhB{AAiBg@m@_CG[wB}@}@oGsBqO_CiCj@mJAsGoDiDeAcBPkAvAm@LcCIyB{@{@A_I|EaN~DmCf@wAQuEb@sCbA{AGgEuDy@aBuBqBcAkC{AcAqD]oFnAgAWaBiAWwBbB_FJqDy@_B_Bm@wDuIoQGk@W?aCx@i@l@gAf@{BVsGvFaGDsBOu@q@SwRG]m@PoBQiAcE}DgJe@wHkAgDy@kDyCuOkCu@gAB}D{EuC}@uBDyAp@gApFuBLkFzCy@FiAZa@jDcAlByBtBs@xIF~A_ARw@Gq@_DmBNo@rBcBSy@{BwA@g@x@iBEaAe@k@cEuBKw@jJgOp@H|ChC~@Jr@g@VcCl@q@zCfAjAQ^w@BcEd@_AxAEfDjAtAc@Vk@@mAyB{FOsAZu@|AaAp@yExAaBAy@iAgC`EoMj@_@dBLnF}AxCwAd@eBh@]p@NXp@Cd@m@v@?x@r@tBfAl@|IuAlBgCzBi@|AjCXrA|@z@@vAx@dD@jAUlByAvBmDbBiC~Bc@pCRjD`BpEdAxAv@^~BAhF_ChETv@r@pAlCd@vC_@hCcArAiDb@mEOy@l@e@rAU`BRtA~DbEh@hAD|@YvBmAjCaHjFoAhBc@tAc@lG~DlFnEdCnB`@lG}@rBiAlAqBf@_CA}Aw@wF\\kBbDuGnAaB~AmA|Bs@bH`@bD`Cd@nAQ|C~AxBy@v@Cl@|Cr@a@bCoAOa@XGdCuBQc@XFr@|BpAw@x@Ah@d@N`BQBf@Yx@^ZpABS|AP^vBLE|Bp@CpBaBf@GdCfEf@CpAk@`@~BzAXG`ANNrAyAv@|@n@cATEv@`AZa@^wCrA@t@eAd@v@V?dAiBxCdBn@EEeCjAm@NgBvA^\\Wh@wKpFkFd@I\\VjBvGFhAcFnGQfAlHjNr@fEHzG[fDiAjDkDvDK~Nj@nAzFhFrC|DfDtBn@~ARhC^lAvJ~MjDfCDzAUv@aDt@JdCsCxDMtCRv@~@XdEkAt@@bAhA^~ASdAiBpAn@rDqArCo@PqAk@iBEmAxAkAB}@r@",
+"average_heartrate": 136.5,
+"average_speed": 9.032,
+"elevation_gain": 132.0,
+"source": "strava",
+"streak": 5
 }
 ]
