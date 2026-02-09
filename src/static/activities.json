@@ -23646,5 +23646,21 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 17335145577,
+"name": "Zwift - Anaerobic Capacity Hills #1 on Loop de Loop in Watopia",
+"distance": 30108.5,
+"moving_time": "1:00:22",
+"type": "VirtualRide",
+"start_date": "2026-02-09 00:51:53+00:00",
+"start_date_local": "2026-02-09 08:51:53",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "|r_fAup~y^fAjBvC|BvMfFdEtJjBrAtCi@AiA|@aAyBsACoBuAw@LkAx@o@v@?|@bA^bBzCzA|CqC{BeBa@_AEgB|@c@xBI|Ad@fFvJfA{@jKmGrDbFr@UtAkEr@s@rE~DfABVq@e@kC~Bq@\\aAScAsBoCg@{DwEw@uIXaA|@sBnHi@RmAUg@^JxA~A`Af@nBiGxDk@~@w@c@iDuHeBaAkCBsAv@^jCfCtBsChCuCsAYyAcAoAiBRi@fB~A~@BrBtBhA_AbAD~@sCj@{AkAmCgHeA}AoKwDqD}BqAaB{A}EFgDtAeBjFmDn@kA]aA_CaBKy@nCg@pE?Xh@a@vAm@F_@i@HiHt@mAh@r@rBfItAj@b@sAcCuJ?oAvGeAzGsFtBaAzLZhC~At@lDWdAmDzEHzIW`AeFw@yEdEqQ~Bk@w@AiArAoDoAwAaCcJo@a@u@jAItHt@p@j@U^}Am@m@wId@@hAbCfBTjAqI|Gk@vCl@|DfBbDbFlDfKrD`ElJbBzA~Ce@?iA~@aAyBwA@_B_BkAh@aBbBKt@bAZ~AbARbAfAdD{BFm@wBsAi@yABmA`A_@vBIzAf@|DdIv@p@|LkIj@TrClEv@a@vBsFfA^xC`DdA?Ts@g@eCbCy@X{@ScAqBmCc@wDgAk@eCSgJZ{@t@qBnHg@XuAUe@b@BhAdBlAb@vB_GnDs@`Aw@m@eDkHeBcAmCBqAp@d@~C~B~As@lAkBjAiC}AWuA{@iAqBLc@x@?t@xAx@?jBvBtA}@z@?fAmCb@cBoA}DqJwKaEqDyB}AwBsAiEFoDhJuIQ{@kCuBIs@tDk@pDBVn@c@tAu@?U_@F_Hb@uAr@VbCbJfAd@`@WHy@aCqJCuApGaAhH_GhBy@vHBjD`@dBpAt@jDUhAkDtEI~KiFu@cFhEmQzBg@y@?gAlAwDsA_BuBiIe@k@o@^Ux@GhHr@p@v@g@R{Aa@[}I\\IfAnCtBLlAaIhGw@nCf@xDnB|DhFnDbKpDdExJbBnAvCg@BsAz@w@wBqAAmB}AeAl@cB|AIx@hAXxAlCzAfDeC?c@qC_CS{A`@q@bCWnB`@jErIx@h@~@gAzJaG`EdFh@]vAoEl@k@dAb@pCzC|@H^y@e@gC`Cw@VoAcC_EW}Ci@q@yEg@aI\\}@~@mBfHw@VeAUc@\\BlAdBnA`@zByHnFiB}C",
+"average_heartrate": 131.8,
+"average_speed": 8.313,
+"elevation_gain": 352.0,
+"source": "strava",
+"streak": 1
 }
 ]
