@@ -23694,5 +23694,21 @@
 "elevation_gain": 15.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17345994768,
+"name": "Zwift - Zone 2 #1 on Hilltop Hustle in Watopia",
+"distance": 20197.2,
+"moving_time": "1:00:15",
+"type": "VirtualRide",
+"start_date": "2026-02-10 00:55:14+00:00",
+"start_date_local": "2026-02-10 08:55:14",
+"location_country": "Temuo, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "`vofA{~az^_F?a@OGS?mIEWOSWKwB?WSO_ICyDB[`@W|AF^I`@e@n@MJIT}@E}@a@uASWq@YGM?g@b@mCDu@OiBg@cBg@g@cCoAgAy@o@u@oAmB_@Y{@CaE~@aABoAYgDsAeAKaC?aAk@e@G_@V?RFPLH`FKdAH~DzAnATrAIzCw@d@Eb@FZVtAxBf@h@hAx@`CnA`@`@d@rARnBKzA[dB?v@JNp@ZJLd@xABx@Ot@MJq@L_@d@_@DsAGa@NORCXRtNNXLDtB@PBTZBzIR`@b@H~FCNMDU@cDPUNAXLrGdGNZD`@Ql@[N{FjAs@f@_@HMEm@q@q@I_@Hm@p@a@FczA?_@Cg@SwCaC}@Mk@R]h@Mt@O`CUx@c@^k@Ho@SQm@Gw@DyBMq@WYm@M_AJ[b@Kz@DbCOx@k@Rs@IMQKk@CsCI{@Wi@k@Mu@JYd@K~@A`CIz@YNi@CQSKo@AyCKeA[c@o@Kg@JW^E~@RtCGXWNc@G_AeAcASwJE[HKXNh@h@Jj@Qf@o@ZMhFDbANlAlA\\DZMN[QkD@c@La@^Od@?\\RThAF`EN`@`@Pb@CXYFe@ByCRgA^Ub@Ab@LP`@HjA?rBDd@N`@^Rb@Bb@IV]HkAEqBFe@P_@`@Qd@?b@HVZHb@@xDLb@XV`@Hb@C^MT[VcAZkDP]XS`@G|@VtC~Bx@NzyAAr@J`@d@j@Pl@Kn@q@h@Kp@g@tGyAV]De@Gc@U]cHmGa@@SZA|CK^ODiF?g@IKQCiJ_@_@eCCSQScNDq@h@WfADf@Eh@k@f@INKRw@Aw@_@wAS]{@c@CODq@\\{BD}@UyBi@wA][{BkAmA{@g@i@}AaCa@U{@AiDz@qAH}@QeE_BiAKuB@aAm@i@EQHIP?RHPNFlEKfABrAZfCfA|@PpAGdDy@d@E`@FZTrAvBp@v@fAt@jB~@j@b@f@rAVvBE|@]~BEn@NZl@XRX`@pA@r@Eb@S^q@Ne@f@}B?WLMXNfORZND|B?XXDvI@TLPf@JrEBh@ENU@OBwCL[\\CbHlGPZBl@I\\UReGnAkAp@]Ii@m@m@K]Hk@l@]Jwz@?",
+"average_heartrate": 129.9,
+"average_speed": 5.587,
+"elevation_gain": 470.0,
+"source": "strava",
+"streak": 2
 }
 ]
