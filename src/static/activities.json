@@ -23710,5 +23710,21 @@
 "elevation_gain": 470.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 17357912271,
+"name": "Zwift - 3/3/2min VO2max on Going Coastal in Watopia",
+"distance": 26240.6,
+"moving_time": "0:49:19",
+"type": "VirtualRide",
+"start_date": "2026-02-11 01:02:39+00:00",
+"start_date_local": "2026-02-11 09:02:39",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "pr`fAsdez^JeBS_Bk@aAgC}BOk@|BcCKwCxI{T\\iEQmA_@i@gFcBkA}@}@oBEiBxFcMxAwExCs@tBr@bA?bAo@`B{CnCCrB{@j@{A@sBuCgEMq@p@gAhBm@tAp@xE`IdAv@l@AbAy@xAwErAFrA|@VbACdDhC|AVbA_@|@_C~@a@`AAnKmApOBnC|DzETtAZTzFh@zL{CzAb@t@rDh@dNS`CkBbBS|@DtDh@pDp@~@fA`@nCGlAj@`El@zAjA\\nClAfAh@I\\c@xCaJjAeA`ALxAbAb@vCfFXlBrCjAV`BSjAy@d@iBUaCJw@vCgD~Au@|DXtFlCbFc@xAdAjBdCz@X`Aq@lA{Dt@aAbFe@tDyCzBLzCeAx@CtHfDzAPxAKz@i@j@iAb@gCZqFhAuBnC_BnBU~@XtCtBrAGt@iAdAmF~AqAf@yAdDwBrIWn@_@h@gBd@]rDlAx@CX]f@yC|@a@n@FJtBbAZ^f@p@DzDg@~CeCdAA~BfAz@?d@k@JiA`BaAbC^rBqA`AObAb@@tCvATbAi@vCoDlAq@`Bl@t@pBbAtAnC^jB~@l@p@?t@iB~@aAjBf@bGZv@pAb@dGL\\`@PdC|DP|AzBt@IvB_BlAF`Cx@b@r@JvBXr@hCT|@t@|@pDfCzFbBdGr@bAhAGf@g@He@uA}CFcBwBoAB}@p@y@pB}@dAIjAVZbAgBxFGxCz@zAvG|GxBbDTtACxE`@lAzBv@bIErGrBnHeAhDfElFjDd@|ALlBi@`FpAjAd@~B[hAqAr@}B@g@ZN`PZTtBA`@THlJZ`@zGAPY@gDf@YtHbHFt@Qb@{G~Ac@x@^n@fFfAn@f@Hb@a@lBXjFOz@_@b@iFRqChAkBxA_@`AIxCeBfCWnGqBjEs@tCw@p@yCD{@j@Gx@f@~DqAxC@lArAz@|Dh@h@h@Nt@UfBsBvDStD_BfAyBhCiCL{Cv@q@Wc@kBaA{@a@qAo@K{@f@iAzBu@n@kGf@aAn@CfAX`@lG~@t@f@b@dAT~HlAhBiA|LDn@h@vAq@dADr@fAl@hCcBb@E\\VV~A~AbBpBDZv@M|@gD`@kEt@Od@f@vCaD~Lo@`@_D`Au@nB_MpOiA`H{DvBo@bA{@dC}Ad@mAIwFVqBu@k@sB_@e@oAIwBV",
+"average_heartrate": 133.8,
+"average_speed": 8.868,
+"elevation_gain": 99.0,
+"source": "strava",
+"streak": 3
 }
 ]
