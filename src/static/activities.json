@@ -23790,5 +23790,21 @@
 "elevation_gain": 21.6,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 17379980851,
+"name": "Zwift - 6x2 VO2 Max on Big Flat 8 in Watopia",
+"distance": 35131.0,
+"moving_time": "1:02:47",
+"type": "VirtualRide",
+"start_date": "2026-02-13 00:55:43+00:00",
+"start_date_local": "2026-02-13 08:55:43",
+"location_country": null,
+"summary_polyline": "xr`fAieez^U{DcDgDUu@zBgCIeDtIkT^mEq@qBmH{CgA{BCmB~FaMrAqE`Ds@lBr@hAA|@k@|AyCtCGtBaAj@gBAaBeDkFp@uAhBm@tAp@xE|HpA|@nBeArAoE|B^x@pA@|DxCtBQbBaC|@e@~@?pKyAlRd@dBhDvDTvA`Ht@tL{C`ATh@v@n@lGRfL[pAcBtAQjBXbFn@vB|Av@jCIrGxA|AjA`@xCpAbAhAy@fD{JbB[rBtA`@pC`D@xAd@lAvB`@zCE`B_@`AuLzGe@r@[lCqBz@uA|Bx@dDbB`AHbB~@hBc@pBgBXM|@pB@Zb@_BfBmEvAk@jJlBdHzE`FQbHH`Dot@fRk@`@Kv@nBjG_@b@sLzC_Hf@{B{@cGiHwBq@cCDaEvBcCzFcAdAoXtEkDnBiBbD]tEpAxLeB\\]l@\\t@vBxAVx@{@rAuGxEe@fAGfBt@pD~A|CxEdDpK|D|E|K]f@{AyAuAc@oAZq@fAZpC`GnQeAxA]zAkBvBk@fCnBnFp@b@vAYz@iBpCo@`Al@j@|DIlDKZ_B\\OtBZx@jEpCjGmB^Z?f@mC\\o@t@|AAhEVnFgCpAyEhB}A`G_L|@uHk@aOt@cH~@iD|HqGvAQ~An@|@ARw@aAcA|BEf@m@[u@gBQcAiCJo@tBi@XaAYkAkBcCk@_E}Cq@gG\\{AONs@jLeAfAs@}@]sJnA{AUDw@h@e@lK}AlAs@}G_OUoCl@mAz@c@fBh@t@hAlCnJv@rAbICjBa@\\uAHoJfAkCfB_JH}Qs@w@}ABq\\dJ{Hz@sCw@wGwHyBm@oBHmE|BcC|FoAhAyVxDmDbBkBpBq@GeBcCOwCf@eCnDcI^oD?mDw@sGsBgCCiAeAuA[eCfDsL`@eE{AmDoD}@q@cAoB_Iv@uGkBuDI}@z@{@|CEXsErAw@dFzAf@j@BpBxBr@@n@cAzBr@fAtBPtEa@nCyCA}@{@yAGuAxCsCTqAIkBsByFoFmESgAfA{EtEqBx@wAJsAWqBgDsDW{@zBcCMoCzI_U^gEu@yBmH}C}@eBMcB~FwMxAyEvCq@vBt@hAAz@k@tAwChDOjB}@f@cBAgBcDiFfAgBnA[~@TvF~IhAv@jBy@|A{ElBVfAzA?zDzCrBGzAkCfAe@bAC`MsArPb@hBhDxDVxAvGt@|MyClAvAl@lG",
+"average_heartrate": 131.1,
+"average_speed": 9.326,
+"elevation_gain": 110.0,
+"source": "strava",
+"streak": 5
 }
 ]
