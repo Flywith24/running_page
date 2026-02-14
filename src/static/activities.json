@@ -23806,5 +23806,37 @@
 "elevation_gain": 110.0,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 17380673933,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3242.1,
+"moving_time": "0:40:18",
+"type": "Hike",
+"start_date": "2026-02-13 04:22:20+00:00",
+"start_date_local": "2026-02-13 12:22:20",
+"location_country": "\u6167\u5fe0\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "sdbsFahmeUEjBLvBD|@GxAE~FDN@l@RzDALG@EDmALeBCYDa@NgABiC?gAJcAGe@?iBDg@DeBEwAFo@AsAFoBIw@DgABu@GqABOEMMG]AqAGsACWIUAUBm@Am@@a@Ai@Bw@GeDIu@?WHeBAa@@m@Cs@?sBDqAJk@Ze@A@B@p@IzAKXIXOPCbDFxAAh@Ht@B\\ANER@|@Iz@At@D\\HPB~BGhCFfAFj@?t@G|AB`ACbAFDI@eADYJId@CLC@ESsAGuC",
+"average_heartrate": 93.3,
+"average_speed": 1.341,
+"elevation_gain": 18.8,
+"source": "strava",
+"streak": 5
+},
+{
+"run_id": 17382773675,
+"name": "\u5468\u4e94 10 \u516c\u91cc",
+"distance": 10157.5,
+"moving_time": "1:02:08",
+"type": "Run",
+"start_date": "2026-02-13 10:12:55+00:00",
+"start_date_local": "2026-02-13 18:12:55",
+"location_country": "\u6167\u5fe0\u8def, \u5c94\u9053\u53e3, \u5965\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100000, \u4e2d\u56fd",
+"summary_polyline": "qjbsF{rkeU_@f@oAtAqBfBmAx@cB~@k@`@QHOAIHKXAVDbHIXIPGFMD_BD}@AeBBwCFcAFcAAgFLK?KEa@Fe@@eAAsBNiBB{DPs@D]@mACYDqB?gBFk@C}@B{@AaAFw@@y@JsAB{@Am@ByBG}ADqACWGKI]i@s@aCe@kAIc@Gw@NwBEiBHaBFo@L{@J_@V[RKNAL?VHPRZp@RLL@REh@Yb@OJO@OIy@GQIM}@{DAYDg@GWQUyB{Aw@c@u@Wk@Oi@Gg@A_CBcBEiE@mACw@IWAw@Tk@^i@j@u@`A_@XWJWH[BYAYGQIo@c@q@_A_A_Bi@m@a@Qs@IO?o@NiAn@iAbAWFw@BSDEFILS|Ao@fCGh@k@hBw@xC]nBC\\@p@R`BKtA?p@NlCJt@XbCJfGEhEI`BGx@Y`BEf@At@@dALzAJn@Lf@Th@`@p@zBtCp@nAd@fAZpALbAHXDtAH`@Fp@TzAF\\ZbAz@dBnAbB^bAh@fAVTPH`AZv@FbA@h@Gd@Qd@Ub@YRQZa@^o@z@wBJYZsATq@j@aAp@w@R_@Lg@XkCNy@`@}A\\{@RYVUxAcAd@UbAYv@e@TUr@iAv@cAFQBSDeB?q@Cu@[mD?aADoA\\{Al@kBZeB\\s@RUTIZChEKnAGlAAzBIjFGnAGXIb@Gp@@n@Ev@Aj@JN@bCUb@Ax@BpACr@In@Bj@F`@?pCMhC]jE?tCKvBA~AEvA?rAQh@?FCDEDUI{CGyD@OBGr@c@lAy@dB{Ad@UROz@w@r@y@j@a@nA{AvAgAbAk@nAa@xA[vBWp@B~Cb@d@Ll@TJ@D?CIWIiA[e@I}BMeA?",
+"average_heartrate": 139.9,
+"average_speed": 2.725,
+"elevation_gain": 50.2,
+"source": "strava",
+"streak": 5
 }
 ]
