@@ -23838,5 +23838,21 @@
 "elevation_gain": 50.2,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 17406729812,
+"name": "Zwift - Active Recovery on Road to Sky in Watopia",
+"distance": 22405.1,
+"moving_time": "2:02:10",
+"type": "VirtualRide",
+"start_date": "2026-02-15 12:40:49+00:00",
+"start_date_local": "2026-02-15 20:40:49",
+"location_country": "Usili, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "vgefAkr}y^`BvBtApA|E~AvDxFjAx@fA\\zGt@pEB~Cm@zI}C~BQlB\\zCbAxBJxBI`@`@I`B^b@VBjBk@zC~@Dd@g@h@uCJUZCt@`@h@`DnBrAtBb@lAH`Am@|FXd@zA`Ab@dAHx@g@|ALxA_@d@gALeDaAYHwAbBAl@Xr@vBdB?j@\\dA]L_Aa@o@ZCd@n@vACRuAv@Ef@Jz@j@h@zBx@@pC`@xBb@p@vAz@j@n@zA|DzCfAlAdBdC\\zBn@lBw@dBBnAc@r@DfBj@\\jADbAz@|@`@FrAu@p@GbAHd@b@MbDqCtPqAbGCp@\\t@hDtDtEdGrAxCdDnCrAtD`@rCU@[gB{@cBuBgAaFaA_DeEeG_Fa@AId@dDnCX|@GRWGOy@QUyBy@}CgCYESNBf@p@^xApBbAh@^|@jAfAx@zBKLOEOkA_A{@{CwA[ASTQhCv@tEUzCRjC}@bEq@fHF^b@FVWHuBv@qCvEwBv@sAPLi@hAuClC]v@WxAEjD^vCm@fAi@RuASiBHiEq@SFGXtAj@bCxApBd@zAzAd@RnBI`@]b@_ARFuAxBeAf@cAN_@GgBuA{CQcDaAUHERPTzGfCzBdCr@^lFKf@QbA}@zAHKPkABw@nAo@^_AJ}Cz@wCc@cCwAcAeAm@HFh@`BbA~CjD~@l@rE^tC\\d@If@q@v@]l@}@RLgCpDmAl@qFBsBZmDo@g@LC^ZxARnIv@pAVr@`@fB@dASX]?iAy@]GyAVm@XmCdFe@dBkAjCuEjGOr@JZXB`AuAhDkBhGyBhAIpA~Bp@t@ALuAg@y@E{@HuAh@wA`AoDtDoAz@IXFPd@BnBsAxC?`Aj@rBjCdAt@rE`B`E|BdC`@vBHb@S^eAR@E|Co@~@wA|@cBl@oGz@M\\TXdHzBxGx@pCE~@WbA{@NHoE~DyEzAsG~@yGd@sBp@eGhAUr@h@t@rCu@x@GlBZnC@d@NNTTpAMpAoBdAw@`AsCp@mAQu@{@aB_HE_AR[zFaA|Bu@pGc@xHmAzDqAdEuD?]gCjAcCJoH{@aH{BSYXSlGy@pDmBj@w@LkCIa@]?]|@YTeCIcCc@gEcC}DsAoA_AmBcCwAq@kCBkBpA_@@A_@nAy@zDaEnBkA~@YbACzBf@A]m@q@cAsBYQsDz@",
+"average_heartrate": 111.7,
+"average_speed": 3.057,
+"elevation_gain": 1098.0,
+"source": "strava",
+"streak": 1
 }
 ]
