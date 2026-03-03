@@ -24094,5 +24094,21 @@
 "elevation_gain": 68.4,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17583012150,
+"name": "Zwift - 30/30 Anaerobic #1 on Loopin Lava in Watopia",
+"distance": 24661.9,
+"moving_time": "0:52:13",
+"type": "VirtualRide",
+"start_date": "2026-03-03 01:06:39+00:00",
+"start_date_local": "2026-03-03 09:06:39",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "zq_fAyr~y^nApC~BvBzCbB~GrBtAx@l@~@fDxIE`@WFiBeBuAWmAf@c@x@?j@ZbBvBdHfCjHI\\{@|@YzAmAfAgA~BA|@r@vAn@~Bd@j@hA@j@]l@}AbAChAk@^Hr@r@b@xDOnA@`B{AXSb@IvAPx@nCzBdA^|FoBn@b@DRKNoBP_A\\KRFVTHbASfDVvCUt@NXXtCdFCn@o@rAUxAFzAb@pBlB`EzE`Hz@xDVvD~@dBtIdI~@\\`CGfCaAfBgAp@AzBhJ|A|D`C|CpAt@nA\\|A?vAk@dFsF|FaEdAmAdAgCnAcIrAsDb@sBByBSu@k@q@{CeBwDi@sEEcH`@w@KSu@`@kCBkBSgBWm@_Ak@oCq@gHkCiBO}HpAiO{BkC@iD`@i@[sCyEg@_@cAIuBT}DWaAPI]d@WlC[fCo@xC_Bv@aCjBcBtAkBNwAK{BSq@kAgBmAaEo@m@sAk@{Fy@_Il@oBd@s@h@q@|AoAjASt@v@|Cn@lEn@lAd@XvABZOPaAVWnIeBXRVdAXV~A^nA@n@e@V_BG{B_A}AaAyBgDaBmAM}BBcCz@qBjBYt@GbAJtAh@lBn@pAr@j@lBv@zBNnBu@~AsCBaBw@mCuAcAkBM{AVq@j@e@dBDvAv@~A~@n@tAB`A]l@y@T}AKu@c@g@mAi@cAGo@RcAnAWWb@uA`Am@nBMpAVlAtAf@hCOlAgAnBwAx@iBFgDmAcAoA_AiDCkAPgAfCiC~Am@rAIdDXdBx@|@z@jBpECpBYlASPu@F}B_@a@a@YeAm@K}HbB]\\Oz@MJ{@Dw@U_A_Be@}Dq@wBEw@~AkBt@cB|As@jK{@bGdAbBlAnA`ElAhBXbCKjBk@`A{CpCu@~BqCzAcCl@{BT{@^KR^\\~@SrDXhBUbABh@XlB`Dp@|Aw@xBQhABvAZdBnBnEbFlH~@`ENfDbAlBhI|HbAb@dAFdAOfCaAhBiAf@A`@|@hBfIxBzElAzArAx@|Ad@pA?~Ag@fFwF|FaEpA_Bz@uBhAwHpBmGPcCUkA_AgAyA_AkBg@{F]mJ`@}@IWw@b@uC@sAQoBYq@aAm@gLyD}BQuHnAqO{BiC@cD`@i@YyCaF]WgAKaCTuDWaANE[d@W|FcA~CwA^i@l@oBlDkD^_BCgBQgAuAwB}@cDi@y@uAu@qCo@mBSiBL",
+"average_heartrate": 146.0,
+"average_speed": 7.872,
+"elevation_gain": 312.0,
+"source": "strava",
+"streak": 2
 }
 ]
