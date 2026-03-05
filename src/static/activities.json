@@ -24158,5 +24158,21 @@
 "elevation_gain": 154.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 17608331591,
+"name": "Zwift - EF Pro Cycling's Red Day Workout on Coast Crusher in Watopia",
+"distance": 23705.4,
+"moving_time": "0:45:12",
+"type": "VirtualRide",
+"start_date": "2026-03-05 01:11:30+00:00",
+"start_date_local": "2026-03-05 09:11:30",
+"location_country": "Usili, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "fhffAw||y^~FKbLsDjB[xAHdFxAnF@\\`@MzAZd@nCa@tCz@Fd@i@h@uCJU\\Cv@hF`EnCjHvAvAxAj@l@C|@sAImANg@r@Y|ALp@P^p@bAd@DhBd@d@pU|HbD[nCf@^rAzAp@VrCkAjAcAc@w@PY\\BrAOb@eBZ{BW{AXqC_BqDs@y@Z_@v@t@vD[nCFd@~@dAjAh@u@hCBd@nAtAnBd@lBxAz@C|BeAnAJr@]d@aAUwA|@qBq@sBXm@r@ObCVfAdBh@Tn@G`AgB`@FtBdB~Ds@`BbAhCl@ZnBv@VtFHfEUt@YpAmBnEgCbB]lD\\`DeAvEj@~BtA|Ik@f@Zr@`ClBr@jCH`Gg@`Ao@d@sBx@kAlDiBjAeH~LqOv@qBfEwAbDoMg@iCJc@vDs@~CQn@w@_@aBmBCwAqA]eB_@_@i@AoCdBaAo@G[v@qAAi@g@s@Ce@hAkMkAeBWwHa@iAk@i@cHoAQg@Hw@`A_@|DQlAYzBkDx@c@b@JZhA`A~@b@jB`A\\nCw@nCKjCuCpAy@Tu@@cCtBwDTmBQaAg@g@wEu@{@s@?}@pA_De@sDBaAr@e@vCE~@s@t@sClBeEZ}GfBaCLmDVm@fByAhCeArFSd@i@Pw@Y}F^aBIk@u@o@}EaAc@i@d@u@nGuAZw@M}@}H_H_@HM^?~CUVuGGOe@CsI[a@_CA]YKmOj@WnBAh@k@r@SVgAg@iCmAaAf@yFWyBk@uAyEuCuC{Dc@QiHdAaHwBqHHmBg@k@oA@kF_@_BeCkD}H}IFuC`BeFKmAs@a@aBC_C`A{@bA?fAvBhAKdBpAlCEj@_@`@a@Ne@Iq@eA{AyFqCmG{@kDu@m@yBI[S[}Cg@}@mAg@_CYm@PuAnAo@H}A}BwDMM}BYg@qAUyDBuAc@Yq@c@}FbAmBdB_A@u@k@w@_CiAgC_@_AqAk@eBq@k@s@Oq@PcErEeAh@iAUDcCQc@uAS}C`BeC]gBbAOrAm@b@oBc@i@e@iACo@TiCxB_Eb@cAw@{@SGqB{ACm@l@Y|B]d@o@@yBcAaAGa@Xe@`B_@^cBXeFA}DzBm@|AgBbBcAbF}@jAkAEkCsB_AWkBRqB~@gAdAi@hAs@|Ie@tAo@r@qAViBIcEqB",
+"average_heartrate": 131.3,
+"average_speed": 8.741,
+"elevation_gain": 110.0,
+"source": "strava",
+"streak": 4
 }
 ]
