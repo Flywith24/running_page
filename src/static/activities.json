@@ -24222,5 +24222,21 @@
 "elevation_gain": 52.6,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 17636143371,
+"name": "Zwift - Active Recovery on Navig8 in Watopia",
+"distance": 53445.3,
+"moving_time": "1:55:16",
+"type": "VirtualRide",
+"start_date": "2026-03-07 11:51:03+00:00",
+"start_date_local": "2026-03-07 19:51:03",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "rr`fAudez^QsEyDyE~BiCOuCtImTb@yE}@{BcHqCiAaFtI}SzCq@vDr@tCaEpGkAj@oEaDiFxCaCvJhLpB{@xAwEfDfAL|EfDnDcE|DoAb`@~FtInFh@xL}C`Bf@|AjTsC`Gn@tJpB|AdLrAbEbHhAc@~EoLdDpA`@vC~ER`EnDpDoAZcH|F}EdLhDfFc@~FdFbEkHpFo@jDqChI}@zHfDtDBhBoB~@sJlA{BpFuBpHfC`C}HnH_HfIQbCkDnFjA`C{Et@NrBvDnE]zDqCnFjAxCwDjCZdDaBnA`@?rClAZzHqGrEvFlHvCoD~EbAvH|It@n@hDnDH~A|B|DgB`E|@fA~EhEfA~I|VvAId@sAwA{CNyAsBeAAkA`DuBvCT{AfMjM`Pz@dKxLl@xGpBhHcAvKpJr@bEi@bFtBbFoBnBcD^LjOzD~@TbKhHDr@}E|H`HQdBwHnCxHdD?xJw@dBeFLuF~Co@fFcB|BYvGkDdJgG|A`@lFsAhF~GpBl@tA_D~M}EnEyG~@iF{GwDpEsItAJbBbHnAjAdBT|HlAfBgAfM?zFlAn@lDgB|@fCvAtAfBA`@`BeKpBZrDgDnMgEtAuNbSeA~G}DxBcB`EsIdAaA{@xBsNwA{G\\}A_FIsEiDdBaEy@eCvDe@\\kAsG_C{@iDh@aFnBkBrH|Bv@kCfAGpAnG{Df@i@fBqG{Ad@uDhCoC~@uDjD\\pAiAkAmCdAuH}G}AoDiE~CkJ_C_Er@oCWoHhCeBbAoC}@uFtC}AzDXl@sHzFs@fAcKxEV~C}DkAwCyCO_D_C}BPWkAfAwAa@oAkEGSgBrA{Bz@cIsAqBsEs@UwF|pASzBdAzLgEf@uAcIeIq@ZYdEaHWIqJuDo@SoNtGqD_@uCqAiAf@wFq@wD{K{JwHbA_HwBcLa@}@gKmM{OlB}JYwA_DSeDbCDjAlB|@GhBpArCeBtAaJ}VeEeAoAeFkE_AwDhB{A}BoDIu@kDwIq@{@uHdDeFmHuCwDsF{IjGiA]G}CuAU{C`BgC]eDzDeFmAyDpCsD^kCuDiAQyBvEmFiAqB`DmITiDrB_DhE{BjHsGmC_FnAsBbC{@tJcBhCyD?aImDkI`AwDxCqFt@qD~GgGgFiF`@_LgDoGbFmG`AaAhC|AfFOlEkMtH{@|DgEtD|@lDfD~Fc@zByBfApC`AkHpDm@xIlBpH|EnF?vLkv@~SzBhI`QiEnAj@D|CSlNkDfMg@`M_LZaGoOiBe@mBhBJ|CdHvNoMnCaA`BpOOsNlBQx@`LDtBbA",
+"average_heartrate": 116.9,
+"average_speed": 7.728,
+"elevation_gain": 377.0,
+"source": "strava",
+"streak": 6
 }
 ]
