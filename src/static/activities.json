@@ -24382,5 +24382,21 @@
 "elevation_gain": 19.8,
 "source": "strava",
 "streak": 10
+},
+{
+"run_id": 17692294071,
+"name": "Zwift - Zone 2 #1 on Jurassic Coast in Watopia",
+"distance": 31026.7,
+"moving_time": "1:00:38",
+"type": "VirtualRide",
+"start_date": "2026-03-12 00:50:18+00:00",
+"start_date_local": "2026-03-12 08:50:18",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "tw_fAwwbz^zAhDuAjITtAfBv@~A]bBZlAqBbB_AZZBhCtBuAr@?gAxCzA`C~@eD~AwA}@{A@yA{@eA`AgDpB]lAp@ZfBc@jBrApBn@[d@oC`Ba@|B{Bc@uAiC_A`@_CWsAmDoAtDmBPs@yDLYYPc@~D_@lCf@V`@QrAt@hAfDx@b@{@cCoCGk@`AMbAr@rAm@vA\\ZcBb@QxBjEvBs@xAzDhB|@z@|AxBBdDs@|@w@fC}E^qAeCsG}BwAqCh@yBc@qBRiAsA_D]^q@tE`@~FmAt@g@G}@oCm@kDtAaHaBOa@pDoBvCc@pBmCrD~@pCGtC{@nBcCdAYfCp@StGnBGtDaB`BrBJnAcAtAcEY]Zh@jHkAlDdAdDx@p@x@]MsCt@u@|AUtBhA^`AqA~@\\xBkA|BVp@`AFbA}BhBcAh@cCnEGz@g@PqCm@w@Jc@bBFrAzAtEiDD_CwB_Bc@{AHkAzDkCx@}DvLaHd@qAD{DlCi@nAcA\\aBKuDbEiEpEGrGxCfFc@tFdFjAm@`C{FfFk@pDyC`CLvEiApHfDrDBdAs@l@yA|@uJpBgClEkApElClA?`AqAbAgF|AoAx@kBlDsBjISpBaD`FlAd@a@b@wCr@a@z@DBhBnCvA~Dc@rDmCrFhAz@}B|A{@~B`@`EeBz@b@?tCdAZzAq@nDeEnAWfAn@jBzDvCh@~CzBGn@}Ar@kAzB`AnHnAd@nGPl@fDzDN|AzB|DkB`EfAfA|E`E~@~I~VnACl@wAuAsCBsBmBy@C}@hD_CjCH\\xAaBxEM~CnMdPPfHf@zAvBn@|HE|GrBnHaA~C~DnFlDt@lEi@bFlAdAf@hCU`AuAt@iDb@NjO\\f@zCVDzI`@p@xGEP_E`@[vH|GKhBsGtAe@p@\\v@pFjAl@n@]`CVlG{@jAeFNoF|Cm@`FiBlCUpGcDrIk@n@uDLm@j@`@tFsA|CA~@lA`AfEl@x@zAOdBwB|DY|D}ElEcH~@g@SeCwFq@OoDlEeHp@u@l@TdBvGdAlAdBX`IjAbBiAtMn@hBu@vAHp@nAj@lDgB|@hCzAtAdB?ZvAc@n@eJrA\\lD{CzLgExAiAfCgLrN}A|H{CvAqBnEsBx@wIF{Ak@_BaDuIj@qC{AsEg@cDfAiD_@{AVoH|F}@ZuMFgCfCwFdA{BvD?tE`EhCf@rB",
+"average_heartrate": 133.5,
+"average_speed": 8.529,
+"elevation_gain": 252.0,
+"source": "strava",
+"streak": 11
 }
 ]
