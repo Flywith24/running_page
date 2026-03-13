@@ -24414,5 +24414,21 @@
 "elevation_gain": 64.6,
 "source": "strava",
 "streak": 11
+},
+{
+"run_id": 17703694478,
+"name": "Zwift - Easy Hour on Mayan San Remo in Watopia",
+"distance": 26229.8,
+"moving_time": "1:00:17",
+"type": "VirtualRide",
+"start_date": "2026-03-13 00:53:03+00:00",
+"start_date_local": "2026-03-13 08:53:03",
+"location_country": "Usili, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "rjffAq||y^lEYtNgEbIbBnFBZd@MzA\\`@pCc@rC~@WdAiDXSdAdFdErCrHlAlAjCp@bAqAI_BTa@v@SdBP`CfBFbB^d@pU~HlDYjBTd@\\R`AzAj@^zBGp@}@|@qAc@u@RU^@`Bo@`@qALaBYkBXgC}AiDq@wAh@Ox@t@lDYzCr@dA~A|@u@|BFhAaAzBq@He@a@f@aB?g@qBeESqFg@Oa@T?|@[\\Rv@k@tAlAl@A`Bf@rAsAzGj@v@pAXFn@eBPsBiA}@cBEqBc@o@}@Ik@v@tChGU`AFnBdB|@v@@zAs@hD]rAFpAj@^hCfAdAtBu@dB@f@`@`AjC`Cb@fCUhAaBx@I~Ar@?pAPXjEtA|BaAvAsEcAuBkDyBMkBXyBtByCfF{@nAw@t@oAdNKv@YdAiBzEmC~A]~DZ`CaA~Ed@tC|AnIo@l@d@t@~BdBLf@m@tBqMIkBmA}D\\{AaAq@{C^cBcBqBeA~@cBf@_By@aCpDc@b@eAq@aAkFmAk@aBEeCn@kDjAuAbAAfCjBfCNZ[RmBh@Qp@J\\j@XpFqDPm@hBoFaA_@c@b@gDnCwCz@oDt@W|Bt@dAw@@e@_AeAGs@lAwGe@w@qCUwBy@eDeEDm@~AkBx@uEIiAuBaBt@gD]kCByC^cAdBWdAuCJmAmAyABiAtC_BrCh@j@Qb@y@]qCf@iBf@QvB^zAcA\\}Fd@}Bf@QrBp@~@KjBgAt@mBSuAy@kAaDQwC}B_B`@_@OUiAz@s@Jg@c@mAy@OeBl@e@]UmBnAuB|@_I[gA{@w@yBFwAw@Uy@BaE|pAOxBdAdBcAlAt@bG~APl@a@xBZvEYvAu@^kEDqChAcBpAc@z@OnDgBhCUnGqBbEs@tCy@n@wCFy@l@Gz@f@rDuAhD?x@pAbAjEn@p@vAQdByBdEQnDyEnEgCLuCt@s@Qi@sBy@s@k@yAq@Ew@h@yBfDuGh@{@p@L|ArGdAv@j@^z@TxHpAjBiApMl@|Bq@lAFl@dAn@rDiB`@`@LnAtA~ArBFf@tAo@z@{CL_E|@Gl@f@zBcDjMcEpA_A~BwLdOsArHwCnAcAlAu@jCqBv@oAIuB^uCMwAk@q@{Be@c@eBE_Gn@qC}AgFc@{BbAuD]cB\\}ElCoB|B_FXeGKkBrBmDv@",
+"average_heartrate": 120.3,
+"average_speed": 7.252,
+"elevation_gain": 234.0,
+"source": "strava",
+"streak": 12
 }
 ]
