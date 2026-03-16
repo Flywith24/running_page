@@ -24510,5 +24510,21 @@
 "elevation_gain": 47.0,
 "source": "strava",
 "streak": 14
+},
+{
+"run_id": 17737975453,
+"name": "Zwift - Zwift Pro Training Camp: Movistar | Carlos Verona on Downtown Eruption in Watopia",
+"distance": 19173.3,
+"moving_time": "0:44:48",
+"type": "VirtualRide",
+"start_date": "2026-03-16 01:06:33+00:00",
+"start_date_local": "2026-03-16 09:06:33",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "j``fAiu_z^b@aARCRPdCjJdAz@Pb@mAjCErAHbBaBr@c@x@MxDHbAZh@lA@hF_BbG_AjDWpBDtStEJJGdAJp@TX~@b@p@`BDNS\\qF`Du@`AO@i@m@iCiGu@aAs@]}@KgCRo@h@An@Hn@b@bA`B~@X\\c@x@sBxA[Gq@y@eAYYyAgAoAc@Ck@L[T[n@G`@FVxAx@EnAH^rB`AG\\u@j@Lp@GPeCl@kBJ}BoBsAS_AZ_@`@Qh@D`AXrAzFtPEf@cAhAQlA_BbB{@~BFt@n@lAv@nCd@\\|@Af@Wn@_BhAI~@i@h@Fp@t@\\pCBj@OtADjAMVeADSPSbBJ|@|ChCz@Xf@GfEcBd@BbAf@nAIzC}AdAoC~CwCb@cAFaBOqB{AeCiAwDk@o@wAo@iF{@yIj@}A`@w@b@y@bBwAvAKr@r@nCj@hEj@jAj@b@v@Jl@ETWRaA\\SzH_B\\LZhAPTzBd@r@@b@MT_@Nu@BqCgAqBy@mBeAu@_Bo@_BQiB@mAZcAf@kBfB[r@IdAHlAf@jBv@~Av@j@hBt@z@N~@A~@Sj@]bByCFo@Ew@WiA_@{@uAcAeBOeBXm@h@e@dBBvAf@hAdAbApAJpAa@j@w@TgA?w@[m@mAs@gAOu@L_AnASFOMBWn@{Ar@[rBKpAZj@d@^n@d@hCGt@qAbCe@b@q@TiBFgDmAcAqA_AiDCiAPeAZg@rBiBxAg@jAIdBBlAT|Av@z@x@l@dBn@`ANt@EjBWjAQPq@FyB[e@YWeAe@YoIdB[Z[hAkABu@]w@cBc@qDq@yBEi@Pg@rAsAl@yA|@i@hBa@vIg@zCd@~Bt@z@x@fAtDpAlBTlADpACv@Qr@yAdBcBvAu@~Bq@h@aBp@mAPaBq@aGlBgAa@mCcCEeAJeA\\U~@GJQLeEi@uDg@g@s@MkAj@aAFk@zAYTmAFc@c@q@kCm@gAIa@d@eBh@{@bA}@Z{A|@eAJc@UiAgEsLq@gCIwAf@}@bA[nATnBfB^KBq@}@iBsAaEeAgBkBgA_HsBsD}BiBwB{@aCWkAIqBb@_B~AyA`EmCx@kACg@S_@cCgBO_@H_@bC_@hECf@ZOnAQ\\]Hg@QGYHqHb@aAXEX`@~AzGb@hAl@^\\AVQLo@OkA",
+"average_heartrate": 139.3,
+"average_speed": 7.133,
+"elevation_gain": 266.0,
+"source": "strava",
+"streak": 15
 }
 ]
