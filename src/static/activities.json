@@ -24558,5 +24558,21 @@
 "elevation_gain": 15.6,
 "source": "strava",
 "streak": 15
+},
+{
+"run_id": 17749070074,
+"name": "Zwift - Lionel Sanders' Yellow Day Workout on Whole Lotta Lava in Watopia",
+"distance": 24719.2,
+"moving_time": "0:55:47",
+"type": "VirtualRide",
+"start_date": "2026-03-17 00:53:17+00:00",
+"start_date_local": "2026-03-17 08:53:17",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "vl`fAu`}y^`@fA@j@gAnA[zAoB`C_@fA?t@hB`Ff@f@|AO~@mBfAEz@g@pAl@j@pDK`EcBd@SnC`ElD`ADdFiBb@VFj@qC^q@b@@T`BCzDVzDqArAqA~@eEfByAzCyFHiBSi@yByBm@sCgBw@w@R}@jCqBdCmCe@}BxAoAk@w@_DlA}CzCoAxBRvB}BKs@uAmBeCFkBlAaAPoBGqBg@yADkB\\oB~@wAjA[~AeBlBg@jAMbAlBnFb@b@`BMv@iBpAMv@e@n@Jd@b@h@`EInDiBj@OjC|DlDjABpEeBjCn@jDuAf@g@n@wBtDuDVeA@aBUeBuAwBkA{DmBsAuGcAcIl@{Br@k@h@i@pAsApAOn@x@zCn@pEnA~AjBBx@gBfIcBZLr@bBvD`@h@e@TyAEaCcCyEeDaBiEIiC~@gBbB[t@A|CxA~D`DdB|BNlBo@bByCBaBq@cCsAiAeBS_BRw@f@i@`B@~An@xA~@x@jAHhAYt@{@VmACaA[g@uAq@aAIo@JaApA_@C?Sf@wAh@_@jBUjBZhApAh@|CKp@mAzBsAv@}BB_DoA_AqA}@kDAkATgAhCcCjDs@~CT~ChBtB|EApBWlAcA\\}B]g@]WgAk@OeIbBcAhBeBQeAeBe@_Ew@yCVu@tB}CpBaA`Ky@dGbAzAbAlA~D~AnCNpBOpBeEjEq@vByCbBcHrAYf@RPhAQpEVxBq@fBiAj@eAj@}CdByAdDgGHyA_@_AwBwBi@iCgBw@q@NeAtCsB`CkCg@iBvAo@Ck@_@{@_DdAyC~CwAzBPxB_CCc@cAcBw@_@mBPyC|AgBCaDm@wDj@yDbC]~A{A`BaA~BDp@fBvEp@j@pAMdAqB~@EdAk@pAr@f@tDItDQVsATSnCzCtCbA^pFiBtCl@hDsAl@q@j@oBvDyDVmCUwBsAwB{AoEeBcA}Dw@gBGwJ`AsAv@q@zAaBpBp@dDp@vEr@nA`A^jAI\\kAf@a@vH{AZLXfA\\\\`B\\tA?p@eAJ}CcCmFmBmAqBe@cCAiB`@wC~B_@p@GfCpAjElAfAtC~@fBEtAq@zAoCBkBm@wBmAiA}AUyBTcAhAYrB\\zAbArAnAX~A]p@u@ZcBYqAsBaAuADeApA]DVaBnAy@bCGzAr@t@xATtCaB|CqAl@wB?uCiAuAwBo@yD\\mBzBuBrAi@~AM`Ed@|BxAtBfFMxCq@v@gD]w@cBsAE",
+"average_heartrate": 122.6,
+"average_speed": 7.385,
+"elevation_gain": 316.0,
+"source": "strava",
+"streak": 16
 }
 ]
