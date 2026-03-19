@@ -24590,5 +24590,53 @@
 "elevation_gain": 11.7,
 "source": "strava",
 "streak": 16
+},
+{
+"run_id": 17761844270,
+"name": "Zwift - Fast pedaling on Downtown Eruption in Watopia",
+"distance": 26547.2,
+"moving_time": "1:00:41",
+"type": "VirtualRide",
+"start_date": "2026-03-18 01:00:45+00:00",
+"start_date_local": "2026-03-18 09:00:45",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "l``fAou_z^d@{@b@L`C`JzAdBoAtCBrD}An@c@r@OdEf@hBlA@dF_BbG}@bHSzS|EBzBbBhAj@dBoGfEu@|@k@i@_EkIcBk@mCN{@n@JzA^bA|BxA[p@_CbBkAaAcAUa@gBiAgAiALu@fAD|@rAn@AhBxBhACVy@n@H~@iF`A}BkBsAYiAVo@|@Cv@^lB|FhQkA|AQnAyBnC_@zBjBfFl@b@vASx@iBlAKv@e@rAl@l@vDK|DgBd@QlC|DnDdAF~EiBpAj@|@@bDuAb@g@n@uB`EkEN{AO}B}AsCsAiEuCwAuFo@aIl@iCbAw@dBsApAOn@bB`JvAnB`BBdAkBdIaBlApBpD`@j@a@X{AGcCeC{EaD}AgEKoC`AgBbB[r@CrC~AjEfDfBvBHhBm@fB_DAkBu@_CuAaAgBO{ATw@n@a@~A?xAj@nAfA`AlAHjA]l@s@XqA?y@a@o@oAq@oAIk@PcAnAYSb@wAf@c@jBYjBVlAnAl@|CIr@qA|BqAv@cBJ}CcAuAwAcA{DRkCzB}B~C{@pDPnDrBhBbEM`E}@l@_CWk@WYgAc@]kI~AkAnBoBWy@wA_BkJvCuEzB}@fJq@nGfAdBtAdArDpAnBNt@FnBQrAwDzDo@rBm@p@oDtAiCo@kFhB{@Y_D{CPgCrAMPa@HgEw@yDqAa@{@f@sAN{@hBcALi@[oBmGz@_CzAyARqAbAkAHi@iGaRQsBn@cA|@UdANtBlB`@ODc@yE}KiBgAwGoBwCaBmBeBmAiCq@kDTgCjAqApFuDj@aAWeAiCmBGo@jCi@|E@Rn@c@rAw@?Sa@HmHZ{@\\Qh@|@pBbIb@`@l@B`@c@?{@}B}ICyAvGeAjHaGfBw@bIHnCZ~@b@t@~@n@bD[hAaCfCa@`AD`JSbAk@D}D{@uEbEaNjBuF~Ae@l@QjB?xBZhAnAJnGiBfMoAtYjGz@s@xAaGj@}@lIe@bDPhAb@`@pDrBnCTnAYp@aC~@d@vBa@|@q@M}CcD{@Yq@j@uAnEg@\\sCmEq@YcKlGq@|@o@a@oCqGy@eAsBg@_CRs@n@HtAh@nAhB~@@l@aDvBcAgAw@Ka@aBu@cAs@M}@Xg@~@Al@vAx@FtBtBjA_A|@DdAaCf@y@Oq@s@aEyJcBeAyC{@",
+"average_heartrate": 128.2,
+"average_speed": 7.291,
+"elevation_gain": 326.0,
+"source": "strava",
+"streak": 17
+},
+{
+"run_id": 17762787970,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3520.1,
+"moving_time": "0:37:37",
+"type": "Hike",
+"start_date": "2026-03-18 04:15:21+00:00",
+"start_date_local": "2026-03-18 12:15:21",
+"location_country": "\u5b89\u7acb\u8def\u8f85\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100029, \u4e2d\u56fd",
+"summary_polyline": "_ebsF_hmeUDvBh@bJd@dEP|Cv@pIt@pJy@_G[aBoA}CCQ]kAkAS]AyANaD`@g@PgAHaAXeAFmAm@kAOuABq@Ig@Ds@EqAB_BCMLE@q@CeB?aAG{@@KEKMGQE_ACaCCQKWCQCoAB{BA_DIgA?iBCgA?gADu@HwDDUJWLEjDKJEROHCh@I\\AzBHdAAj@DnACl@J`AKp@Bp@EZDdBDv@A~A?|AHbDCd@Dl@C`@Bn@?DC@K@eABMHEb@BFEBG?}BCi@",
+"average_heartrate": 98.6,
+"average_speed": 1.56,
+"elevation_gain": 60.0,
+"source": "strava",
+"streak": 17
+},
+{
+"run_id": 17764780477,
+"name": "400*10 \u95f4\u6b47",
+"distance": 6914.0,
+"moving_time": "0:36:49",
+"type": "Run",
+"start_date": "2026-03-18 10:12:31+00:00",
+"start_date_local": "2026-03-18 18:12:31",
+"location_country": "\u5a18\u5a18\u575f, \u5965\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100120, \u4e2d\u56fd",
+"summary_polyline": "_lbsFyqkeU_@^u@l@_@b@}@z@s@j@gAj@eAVOJCDBBL?VErBo@ZOr@a@RQj@q@~BsDPQzAcAnBeBpAaAh@[j@Uj@Oj@?~ALr@NvAf@p@ZpEtCtBbATPR\\DDDA@MAOI[W?aAa@eFwCWMe@M}@MuBEi@@cDRc@CBHD@FMBBXApAKdB@dAHjBXx@R`@N`CpAzBz@j@ZF??CQ]yEmC_Ae@m@Ue@KmAOyCCuALs@LS?QLnC]tAGz@BpBVhBf@fBfAfBv@z@~@FFDAAECDQQMGsAc@s@[}BiA{@[s@QwAUkAK[@}@Js@BQ?YOOCGJKB?@LGdAMvBI`BBtAPtAZhAf@zAv@`Ab@l@t@NHT?FD@DoCgA_EuBi@Ss@Q{@MaAEaBDsANM?OFUEFIfBOnCEn@HpBd@j@TdCpAtB|@HFPXf@CE@MCkA]i@Uk@YuA{@k@Yo@QuBa@{@Ig@CaBAgADKCKIS\\fB[bAExA@tALt@P|Al@bCzAtAr@v@VH?DCMIu@Os@Yy@c@_BkAuAg@a@Io@IgCC",
+"average_heartrate": 163.5,
+"average_speed": 3.13,
+"elevation_gain": 27.6,
+"source": "strava",
+"streak": 17
 }
 ]
