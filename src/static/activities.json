@@ -24654,5 +24654,21 @@
 "elevation_gain": 59.2,
 "source": "strava",
 "streak": 18
+},
+{
+"run_id": 17786463801,
+"name": "Zwift - High Torque Hills on Figure 8 in Watopia",
+"distance": 32114.7,
+"moving_time": "1:00:56",
+"type": "VirtualRide",
+"start_date": "2026-03-20 00:52:57+00:00",
+"start_date_local": "2026-03-20 08:52:57",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "fc`fAke~y^{EyAgEsCwBqDm@_D@}Af@sAvG{Ex@gAQgAaCeBWk@Xc@fBc@kA{L?{A\\}BrBeDdDeBnEcApQoClAoAtBiFhCiBxC_@fCh@tAbAtEdGlCj@|H_Ax[{IdBMn@d@H~@UtQkBfIaAxBGtJMt@g@d@eKJw@mAqCsJg@y@cBy@mB~@c@vAVlBdHxN}@p@wKbBo@f@G|@nA`@tJqAfAPkAl@_O~AkB~Ia@v@e@RaYkGkDJmH`AaHlBq@IWu@HcFv@aArEmAhNoB~EgEtDz@z@QFyKd@eAdCqCR}@e@aDqBmBaEe@qHAgBx@cHvF{GhACtAdCzJKv@WLaAc@uC}Js@PYv@KxGHt@hANj@yAW{@eDGgEh@@dAzB~Ab@`Au@nAoFrDgAtASnBf@hDtAzClBjBjDlBfJ~ChAfBtBbG`ApAhAPrBa@RSGeAx@q@Wi@aBs@?iB}AcAn@cBt@Uf@Jx@lA^zA|@NbAdAfDyB@u@wBqAe@{ADiAz@]tBI`Bf@nE|Ij@XfAkAvJ}Fj@\\|AxCp@l@j@UvAsEh@m@bA\\vC~ChA@R}@a@_CvBm@`@gAUcAuBqC]oDuCw@eCCyC^yA]Hc@bMkAx@s@eAYmKrAg@GUa@Tu@p@_@nJsAtAm@Ag@iHiOE_B`A_B|AQvAlAzChKv@tAlJA|@W\\i@LwKxAaEhA_FVmCDmOSw@q@Y}BRi[zImHv@oCi@oE}FsAgA{Bm@sBFiBn@yAjAeC~FuAjA_SpC}GdCkAlAaAnB_@xB?xBvAjLzFVQ|Aq@^e@WEYH}Gb@mAXGX^`CbJh@b@n@CVc@@q@eCsJAeA~GkAlGmFlBaAnHAfEd@|AlAt@nCO`BcClCk@rAFrIQdAm@DqD}@}@`@eDdDcOrBsEvA_@d@WzB@lB\\lAtAF~FgBlMqArYlGdA{@tA{Fd@y@`DEnDa@zCNpAd@f@|D|BhDElAsBn@]^f@xBUt@s@C_DeDmA[k@r@sAhEk@VeCeEw@_@_KbGu@fAs@c@gCcG_AqAoBg@gCTm@h@H~Ab@bAtBnAGf@{CvBaAeAeAYSmAeAuAcBNg@x@Ep@zA~@C|ALZpBbA_A|@@hAyBd@_AOeA{AkBmFiAiByA}@{HaCiFwDkBqESsDjA{BtF{Dx@eAOcAiCmBOm@`CcAqAqN^{C~@mB~A_BdDsAzUqDvAeAhAkC",
+"average_heartrate": 136.9,
+"average_speed": 8.784,
+"elevation_gain": 258.0,
+"source": "strava",
+"streak": 19
 }
 ]
