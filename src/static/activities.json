@@ -24750,5 +24750,21 @@
 "elevation_gain": 61.0,
 "source": "strava",
 "streak": 21
+},
+{
+"run_id": 17823192454,
+"name": "Zwift - Le Col - Training With Legends - Fabian Cancellara - Cruise Control on Coastal Crown Loop in Watopia",
+"distance": 19938.2,
+"moving_time": "0:41:09",
+"type": "VirtualRide",
+"start_date": "2026-03-23 01:10:31+00:00",
+"start_date_local": "2026-03-23 09:10:31",
+"location_country": "Temuo, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "t{mfAgm~y^SXIn@D^TZxGdAt@n@Z~@PnHPh@|@~@iAvMD\\d@p@B^G`@m@n@Hn@\\b@j@JhCeBj@AVRD|@\\v@pAnAlB@Xj@Br@Q\\]N{CNaBf@eA@YVC`@d@|A?n@aD|Lg@\\{Cv@cA`CoLzN]t@WbDg@bBgBl@gA|@m@z@g@tBc@^aAZ}AEqB\\aACa@[Gi@jB_LJsAMwAiAqD\\}AQ[o@SgBb@s@Ao@a@s@cAsBiA@Wn@q@v@qBCc@s@iACWd@WjCKZWHm@Mg@a@WiDi@w@[k@eAQuAD{B\\oBt@qAz@a@p@HzBdBfCP^YXwBhACf@n@HrBZlBi@d@qBGg@JWvAQJmFaA[Y\\mDpCwCXsBh@gAj@O|Bt@r@YZo@Oc@w@{@Eo@PcBz@{CCs@m@_@cCOiBm@yAsAyA}BP_A~@s@Xo@t@oEOiAyAw@Ys@v@yC_@sCDmCXcAdBWfAeCLcBkAwAGk@Pe@|AeAv@Sr@BrAf@r@S`@}@[gA?}Ad@qA`@OvB^z@Wf@o@XiFh@oCn@MnBn@z@MlBmA^o@Ny@UuA{@iAeB@o@M{@c@_B{AaB^_@OUiAx@q@Lc@Ei@Ye@cAScBl@g@g@Q}ArAgCx@yF@}@e@oAs@k@m@I{ALkA}@Qk@FkElpAIX@z@p@j@PzAaATA`Ap@bFdA^TVp@a@hBZvEWfB{@b@oEHkCdAeBtA_@x@MhDqAzAWl@IvEObAsBfEm@hCq@n@iDHs@l@CfAf@dDuAjDB`A`Av@pEn@`@\\Tr@?t@Qv@uB|DC`COr@cBjAuBdCkCLwCv@m@Qq@}Bu@m@i@uAc@IcAj@kA|Bo@h@mAVcEPq@VQb@?z@X\\rGbAp@f@b@hATtHjAbBiAhM@`@h@x@Bb@Ib@m@v@H`@`@f@p@DfCgB`@@XTV`BrAxA\\N`AK\\JZ|@Mp@k@XqCNuAb@gA@]PIp@`@nABn@cDfMg@\\qBZk@Z}@zBaMrOq@nFWr@mBr@aAv@w@hAe@pBy@h@cAPcAIcC^k@Ca@YMg@nBqLHiAMuAiAoD\\aBSYm@SsBf@o@Ig@[q@aAkB}@MUHW",
+"average_heartrate": 141.1,
+"average_speed": 8.075,
+"elevation_gain": 239.0,
+"source": "strava",
+"streak": 22
 }
 ]
