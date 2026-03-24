@@ -24798,5 +24798,21 @@
 "elevation_gain": 17.4,
 "source": "strava",
 "streak": 22
+},
+{
+"run_id": 17835247185,
+"name": "Zwift - FTP Test [Standard] on Coastal Crown Loop in Watopia",
+"distance": 21059.4,
+"moving_time": "0:45:16",
+"type": "VirtualRide",
+"start_date": "2026-03-24 01:06:29+00:00",
+"start_date_local": "2026-03-24 09:06:29",
+"location_country": "Temuo, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "`|mfAmm~y^g@x@?f@Rb@~GjAn@h@^bATzHlAbBiAfMBh@j@lAMl@i@l@D\\b@n@f@JnCgBh@?TRXdBpAtAf@PrACZt@Al@k@f@yCL_Ex@Il@h@|BaDfMc@`@aDt@eAbCoL|N_@hA]nDWv@qBv@eAz@s@jAYxAm@n@qA\\sAGwB\\{@I[YEc@xBsNKwAmAwD\\}AS[o@QeBb@o@As@a@q@_AsBiAA[n@m@v@qB?c@u@kAA]`@SvCOV_@@g@Mc@g@YsE{@g@o@[{ABgCZoBp@sAbAi@n@F~BfBdCPZSb@cC`A@j@r@H|BVvAM\\[NoC?k@hBkFaAc@Y`@wDnCuCXqBf@cAr@OxBt@r@_@To@aAqAGi@J_B~@mDCs@o@_@aCOeBk@kAaAiBiCJaA`Au@Xq@t@kEMoAsAs@]k@t@cD]mCBuC\\gAdAAb@WlAmDA_AmA{ACc@N_@pCwA~@BpAf@n@U`@u@YeAAqAf@iB^MdC\\rAaAXkFh@qCp@MvBp@dAU~AgAj@qBSgAu@iA_DQ}C_C_B`@_@QSgAv@q@Ne@Gq@[_@{@Q_Bl@m@c@ScBpA_C|@kGC_A]{@u@o@k@K}ALmA{@Qm@DiEhpAKr@JrAx@l@Qr@q@zAt@zFxATv@_@~AXhFYvA_Ad@eED{CpA}ApA]~@IvCkBtCUjGsBhEs@tCu@l@gDFo@r@Ct@f@xDsAzC@dAbAz@jEj@j@d@Pr@ObB}BpEM`D{AhAeCpC}BH{Ct@s@Qg@oBcA_A[gAs@Qs@^{BnDqAXcEPs@VQ^Av@N^bA\\vEj@n@d@b@dAVzHlAbBiAvMFb@f@nAIb@i@h@@d@n@t@d@@dCeBb@AZTZhBjApA^PdAK\\JVn@Ct@e@`@oCLqBj@uAHOr@b@pABr@eDfMi@ZsB\\m@b@q@lBaMpOe@pDc@pB_C`AaA|@g@v@q@~BeBn@yAE_C\\}@QWa@t@wG`AgFK_BkA{DZcAA_@cAc@cBd@u@EaBcB}As@Uc@t@{@t@qBCg@q@aAC]f@WjCIZa@@w@_Au@oE{@o@uAM{AJuB^kBh@_AhAi@p@PrB~AfCP^YXwBr@If@PVd@FzBZbBg@b@qAE",
+"average_heartrate": 147.6,
+"average_speed": 7.754,
+"elevation_gain": 265.0,
+"source": "strava",
+"streak": 23
 }
 ]
