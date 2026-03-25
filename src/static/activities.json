@@ -24830,5 +24830,21 @@
 "elevation_gain": 9.2,
 "source": "strava",
 "streak": 23
+},
+{
+"run_id": 17848550405,
+"name": "Zwift - Garmin UNBOUND Gravel Training Plan | Dirty Teeth Drills on Volcano Climb in Watopia",
+"distance": 29823.8,
+"moving_time": "1:00:51",
+"type": "VirtualRide",
+"start_date": "2026-03-25 00:55:57+00:00",
+"start_date_local": "2026-03-25 08:55:57",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "bd`fAae~y^oF_B{EaDaBsCw@{DB_Bd@kAxG}Ex@cAQeAeCkBSk@V_@hBc@oAiOl@mDlBoC|GiClSwCzAsAjCaGtAeAlBm@zB?bBf@nAbAbEtFnAl@lAJdIcAz[}IxAGn@`@ClRoBfJaAbCIvJ[fAsB^mHC{@wAmCkJq@aAu@e@}@C_Ah@m@jAPlCbHzN}Av@oJtA{@p@Gn@^b@n@DvJoAhAReAh@qLdAKx@~AZbG]bDp@`@nDzB`DL~@]t@kB`@M~@`AfCjBTT\\Yn@}ACq@VH`@~@d@Ib@y@FkBq@qB\\_GzEw@lAcA|Ec@jEj@zOSbDs@nCw@R}@m@aBeBk@kCiBy@s@TaArCuB`CcCg@sBtAuAa@}@iDjAyCfDqAnBRxBcCoAkCw@WiBPwCzAyBEmCi@wDh@yDbC_@`ByAzAy@jBAfAjBfFh@^~AYx@gB`AChAk@dAj@l@`EIvDcB`@UnCdD`DvAV`FiBzAl@bACnDgBx@eC|CuCl@sADiBSiBwA_CiAwDm@q@}B{@uDk@eJj@}ClAs@|AcBrBdB|JbAxAtARp@Ul@yA`IcB\\H^pA\\XtB^nAMd@sADiCoCwFiD}AcEEeCz@aClCKvCzAnEjDjB~BJdBq@fBcDEsBq@kBqAaAgBQoB\\w@~@W|AFfA|@dBfAn@zAE~@k@d@eAH_B{@iAiBg@_AJaAlA_@@H}@h@}@fBe@jBJdAl@t@|ATbCuAtCoAx@cBLcDcAiAeAmA_ELsC`CeClCw@vDJdDbB~B|EClC]jAoALeBYg@]YiAk@OgIbBq@`Ba@HsAS}@qAm@qEs@cCBw@vAyAv@cBhDiArIe@|Ez@lBfAtAhExAfCH`Ee@hAeDzCy@dCeEjB_Cq@oFlBsAa@iCyBKg@RwBtAQNe@HoDg@uDyAy@_Ah@iAD_AlBuAPg@c@eB}EAo@\\eAzBqCTuAdA_BgGgRQuBh@_AdA[tAZ|A`Bb@GJ_@{CmIcAaBkBcAuGoBaEcC{AkBsAaEO_C`@cBrHwFh@w@UmAsCeCNc@~A[NUkA}KNsElBqDpDuBfEcAdRqC`AaAbC_GpAeApBs@xB?lBj@lA~@hExFpCt@bJkAj[uItBFV~@GvO_@|CyCvJUfLk@d@gAJ_IAq@iAeDqKsAmA{ADsAlBDlBpHzOuAr@_KzAq@h@Iv@^^n@DbKqA|@RwAn@_L`AOr@ZV",
+"average_heartrate": 130.3,
+"average_speed": 8.169,
+"elevation_gain": 232.0,
+"source": "strava",
+"streak": 24
 }
 ]
