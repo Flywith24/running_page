@@ -25022,5 +25022,53 @@
 "elevation_gain": 57.4,
 "source": "strava",
 "streak": 28
+},
+{
+"run_id": 17907858897,
+"name": "Zwift - Sweet Spot Pyramid - 50min on Flat Route in Watopia",
+"distance": 39282.4,
+"moving_time": "1:12:24",
+"type": "VirtualRide",
+"start_date": "2026-03-30 00:48:18+00:00",
+"start_date_local": "2026-03-30 08:48:18",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "hu_fAwm~y^uB}ESsDv@cBbIwGScAiCkBMm@bCeAoAsOx@qDzBmCjGyBjSyCrAiAjCgGdEqBzEf@xGxHrCv@~IiAj[wI|BND|Qe@hDqC`JCvI_@`BsK`@{@eAuC}J{@mAsBa@iBzBThC`HtNqAt@}JxAw@l@Gz@bA`@bKqAfAXyAj@wK~@Sr@dB^`F]`Er@`@lDjC|E[v@}Br@XjDeAJ_FaEeCvFi@`@uCqEm@UaMlIgFuJ_Bk@{BFiA`@EzAj@zAvBdBoC`CyCqA[{AgAoAoAFk@n@Q~@zAbADrBvBlA{@t@@jAuAb@_C]wFqLeJ}C}E}CkA_BmAsDOcCZwA`J}HOaAyCqCbCyAsA{MRaC|@aCjBoBhDwApV}DlAkAfC_G|DoBzBCpBn@rGtHrCr@tIeAf[wIhCL?lSoDtMEfJa@xAsK\\cAyAkCgJaAqAkB]iBtBPjC`HdOgM~B{@n@Iz@nAb@zJqAdANeAl@uLhAMj@`Bf@xG[nCn@`@lDjC~E[v@_Cp@b@`CSx@w@AaFcEs@p@}BfFiCeE{@a@uLlIwF}JiBg@qBLkAr@HxA\\~@~BjBuChCqCsAa@cBcAkAmAFs@|@G~@~AbACbBxBnA_AbAD~@uAb@aC_@gFeL{JkDmEqCoAaBoAuDQeCZyAbJeIWaAgCiBKo@`C}@qAsNd@gDhAyBhBwAzDuA`UkDjAgAlCgGbEqBnBCvBr@jGpHvCv@fJkAd[uI|ACf@d@ItRmDzMGfJ_@xAsK`@w@}@{CiK{@mA{B[_BzBThC~G|NqMdCs@l@Gx@jAb@dKqA|@V{NnBKj@~Af@dHYjCt@`@rDbChESz@_Cn@^xCQd@y@@cFeEs@n@}AxE_@NkCgE{@]aMhIcFuJ_Bi@}BDeAd@EzAj@xAvBbB_DjCgCwA_BkDoA@u@x@EjA|AfAC|AvBnA{@r@@lAuA`@_C]wFoLeJ_D}E}CyCqGOcCd@iBxIoHScAyCuCdCkAsA{MVwCv@mB|AgBnD_B~VcEjAmAfC}F|DoBzBApBn@nGtHnCr@|IeAl[yIdCT?dRsDtNCnI[jBqBb@mH@oEgMs@aAsBi@kBxBNfCbHfOkM`Cy@n@Gz@nA`@~JqA`ARwAp@aL~@Oh@jAh@rF]jEr@`@lDjC|EYv@}Bn@`@tCQd@gAEmCyCqA_@}CvGyCkE{@YyLjIuBcE",
+"average_heartrate": 138.6,
+"average_speed": 9.043,
+"elevation_gain": 231.0,
+"source": "strava",
+"streak": 29
+},
+{
+"run_id": 17909887735,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3463.9,
+"moving_time": "0:38:19",
+"type": "Hike",
+"start_date": "2026-03-30 04:21:33+00:00",
+"start_date_local": "2026-03-30 12:21:33",
+"location_country": "\u6167\u5fe0\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "iebsFohmeUPvDXxBRdC^rCZdBVtF^vDHvAVbBEYEeAE]c@cCYi@sAg@C@AP@AqBcAyAJwHxAyAN{Ai@eAQ_A?aCFq@DgB?iAAy@EmADqBQk@JMAIIGSG_@IwCQkACkABqGEc@Kg@CQF{A@}CFa@@_@CgA?{@Fw@HWDETGx@If@?nAELELMJC`ADxAOdAFbCFd@CXBZE^?^Dh@AbAFlBCp@DtAAxCBn@Ar@J`@?FCjAEbADBC@GIw@@QJK^OyAMKEGGEY@s@G_A?m@",
+"average_heartrate": 91.3,
+"average_speed": 1.507,
+"elevation_gain": 58.8,
+"source": "strava",
+"streak": 29
+},
+{
+"run_id": 17910582207,
+"name": "\u5468\u4e00 6 \u516c\u91cc",
+"distance": 6865.1,
+"moving_time": "0:38:10",
+"type": "Run",
+"start_date": "2026-03-30 10:12:24+00:00",
+"start_date_local": "2026-03-30 18:12:24",
+"location_country": "\u6167\u5fe0\u8def, \u5c94\u9053\u53e3, \u5965\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100000, \u4e2d\u56fd",
+"summary_polyline": "wjbsF}rkeUsCbDqA`Aa@TgAj@sAf@MLCH@DB@F?RIlByAhAeA~@aAx@o@~BkCbAy@rC_BXMj@MdCS`AElA?v@Jp@NhA\\jBz@lAz@rAl@|@TL??CKIiAU[I{@g@wAcA}@a@c@YQGk@Gi@?uCBk@DsB`@cAZ}A^WL{BxAUPk@l@q@^eCtCc@Zm@Xe@XqAfAGFELD@DC`AaA~@i@ZWfBmBnBqBb@i@hBaBPMb@QjAu@rBk@|AUhAIrABfANh@Nd@R|Az@n@Zt@`@dBp@`@TVDJEAGEA}@QuAe@}ByAq@W{AO}BKmAFuAN{Dx@iAn@oDpDuCxBkAn@qC~BORCLD?FId@q@`@e@zBkBROfBo@VORU|AuBb@c@x@m@dCcB~@]t@QvASp@AfCJt@Lf@NpAv@p@f@~@j@v@l@b@Rf@NXDDADCEGq@UoBy@oC}AmAWyAMmBC{BHgBRsA\\m@VyAv@k@h@s@~@g@b@c@l@[XkAp@sB|Ak@h@aAf@MJALH@LGvBmBbAg@TQfByBx@o@l@u@",
+"average_heartrate": 144.5,
+"average_speed": 2.998,
+"elevation_gain": 19.4,
+"source": "strava",
+"streak": 29
 }
 ]
