@@ -25070,5 +25070,37 @@
 "elevation_gain": 19.4,
 "source": "strava",
 "streak": 29
+},
+{
+"run_id": 17919800609,
+"name": "Zwift - Endurance #3 on Beach Island Loop in Watopia",
+"distance": 35576.6,
+"moving_time": "1:07:00",
+"type": "VirtualRide",
+"start_date": "2026-03-31 00:55:40+00:00",
+"start_date_local": "2026-03-31 08:55:40",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "vu_fAwl~y^bFdDvJlD~EbL_@d@yA{AwA_@sA\\k@jAZfC~FnQiAbB[zAsCtEtBxGh@X~@GpAwBnCq@fAl@j@zDIpDOZsAPWhChEvDz@B~EiBn@`@Cb@_Df@]b@LThGH`Ck@vBsAtA_FxBqBzEwIr@aCb@uFg@qOdB{KnH_HdB]pBp@|@ENs@iA}@hCM`@m@e@w@cCTaAWaFiEw@`@wApEg@d@sDcFcC|@w@gB}AgAAqA`@UlAXx@e@`CgKrNyAvAm@I]q@KcKrAoA]Hs@x@k@xJuApAq@mHePIeBdAeBnAQ~AlAdDzKt@hAhI?nBk@VmB@_IjA_DhB{I?mR}@i@yAJwZrIoJjAeCs@sGwH}Bq@eCH_E|BwBlFkAlAiXrEkDnBqBvDYfDrApMgB`@[f@Rp@hCjBNr@q@fAgHhFa@bAE|Av@xDzArCdFnDfKrD|E|K@^]NgBcB}AWmAf@a@`A\\fC~FtQgAvA[|AkBxBg@~BhBhFp@h@|AYv@gBhCo@nAt@f@rDIvDoBx@KtBZp@dEnCxGgBZz@cDh@_@^DTpHJfFkChAoEtBmB~FeLt@kHk@kOdBaLpH_HpB]jBp@|@IJo@gAcAfCI`@q@i@u@wBVcASoDoDaA_@m@b@{AxEe@\\mDcFiC|@q@eBaBeACuAd@StATn@c@|BeKlOaB`Ai@{@e@gKpAkA[N{@r@c@tJwAtAw@iHqOOgB`AiBnAYbBjAvEfN~H@zBi@ZkBBqIbAcCjB}IHoRi@m@_B?o[vIeJhAqCu@qGuHuBo@}BFgEzB{BpFmAlAiXtEmDrBkBpDWnEpA~KwBt@Kd@rCjCV`Aw@fA}GbFe@nACvAp@jDxAtCpFxD`KrD~EzK@`@]N}A}AaB_@}@Tu@hATbCbGzQgAbBUtA}BpCUzBdBvEl@j@pAO|@mBdCo@xAj@h@zDIxDeBb@UdCjDjDvATlFiBb@bA_Dd@]r@rGP~Bi@vBsAvA_FvBoBxEsIv@gCb@qFi@sOfBaLxHaH|AWlBp@`AGJw@gAy@dCKd@q@c@u@_CTaASmFoEo@\\yAxEo@`@gDaFmCx@m@_B_BcAGoA`@_@xAVn@a@`CgKfO_BdAk@K]q@G{KrAw@m@Vs@r@]pJuArAq@mHaPEqBdA}AhAQ|AhApDnLn@|@rJIjAq@PaLxC_Kb@_E@qOo@{@yA?",
+"average_heartrate": 130.7,
+"average_speed": 8.85,
+"elevation_gain": 135.0,
+"source": "strava",
+"streak": 30
+},
+{
+"run_id": 17921143800,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3213.3,
+"moving_time": "0:36:54",
+"type": "Hike",
+"start_date": "2026-03-31 04:30:23+00:00",
+"start_date_local": "2026-03-31 12:30:23",
+"location_country": "\u6167\u5fe0\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "ydbsFecmeUFvADfB?bAEjB@zBDbCA|@Dj@ADONQDu@FoB?k@NaBFmCBw@Lw@F[C_AQs@@aAJ]Ay@IO@]JOBq@E_BLwBFuAOc@Fo@@oAMICIIEOCUKkDEYIWCQAaADg@?c@CgDDy@CWO_ADwAE}CHoA@cD@GFININAbCC\\KXYLGbAGR@j@Jn@@p@Hv@It@Fl@Gj@PrAIl@AXEt@D~B@hBHpAA`AFv@A~@Ip@?dADn@@HE@K@qAGIY@MEIKQa@E]Dg@EMEsA",
+"average_heartrate": 99.2,
+"average_speed": 1.451,
+"elevation_gain": 14.0,
+"source": "strava",
+"streak": 30
 }
 ]
