@@ -25134,5 +25134,21 @@
 "elevation_gain": 32.4,
 "source": "strava",
 "streak": 31
+},
+{
+"run_id": 17945009124,
+"name": "Zwift - Tempo into VO2 Max #1 on Mighty Metropolitan in New York",
+"distance": 27968.0,
+"moving_time": "1:00:49",
+"type": "VirtualRide",
+"start_date": "2026-04-02 00:52:49+00:00",
+"start_date_local": "2026-04-02 08:52:49",
+"location_country": "East Drive, Manhattan, New York County, \u7ebd\u7ea6;\u7d10\u7d04, \u7ebd\u7ea6\u5dde;\u7d10\u7d04\u5dde, 10021, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "gd{wF`vmbMsGkBkSqPk@_Aq@uCEoAXeEe@{B{\\_UyBy@iGUgAXoBjA}AAuEwCsGyHs@OmEHmDy@_BaBcAqCg@a@kARa@z@Ed@LjAfAdCFf@SjAs@f@[AuDuDsEiCWaAB{A~AmGp@kAbEyAvEDf@q@vAeFn@_@z@NbHhF|HdFhC|BVj@Fv@aA|DI|@F\\b@n@hBhAp@v@DbAk@pBG|@Jh@b@p@rHbGzIvFlD~AfO~EfB~@|@`AZ|@FlAm@rG_@l@e@PsC_@m@Lk@tAM`AJ`ARX`C~AhBpCV`A?vB\\z@tAh@~Dh@nBMnBi@Xe@bCqKj@cB`BsAxBe@pEfAfFhCnLtHhJhHbCjCf@hBO`AaC~CWz@b@vBfAzDw@dGO~BFn@dAf@rD^lDiCvBSlAaBrAt@l@lAQbBgCxFk@nBApAf@pC?n@S^oAz@e@dA{@|CApB^x@r@r@`EzBlBRvAo@|B{DrGyUxEoLRgAEiAkAeBcEkCqA]aAB}AdCa@MaBuCc@Og@HaAv@iCpGk@r@_BFkEtCsEu@Sc@@k@dAgJQwAwA{EVeAhB}B\\y@B_AQs@mAmBeEqDqSkNkHmDsBg@qAEoBp@oAlAg@zAsBfJWz@_@\\sBd@_BDiMcCcFyBgEqCwXiSqDiD_D{BuAUcLx@_CA{Ac@uJoF}IaG[gAAg@r@kEz@eAtF{@j@HbAj@jAbBdBhGpC|Ab@j@vBtHj@jAdLxGh@r@bBfDlF`@x@\\hAtBpAlFbChDrBnApBf@lBMfEiArB`@bFjF|@hCb@b@r@NzDM`BdAlJxKnE|HnClChAVhHYvCf@fAg@|AaB|@iCKaFpA}HGsCa@k@oBOaBiA{@iAmAaDi@w@sDKwGgB_TcQm@qAg@eCAmAVkDOwA[u@wXcRuEgCaHa@mAVuBnAaBGsEyCyD}EaB{AkF@uDy@{A{AaAkCa@i@iA@s@lAHnBnAbDOjAUXs@RYIcDmDwEiCU}@@wA~AoGr@qAfEyAnEDh@q@~AkFh@[|@P~GhFpIrFzBtBX`A?r@cApDEx@j@dAtBtAh@t@@x@k@pBGz@Jl@d@p@pHbGpIlFtDfBdO|ElBbAv@x@\\~@HvAu@zG]d@a@JkC_@m@Fm@lAQ`BRz@~B~ArBxCXdADfC^p@lAb@hEj@vBObBk@|C_Mh@{AxAmApBg@|BZ|DzAhI|ElIzF",
+"average_heartrate": 129.6,
+"average_speed": 7.665,
+"elevation_gain": 429.0,
+"source": "strava",
+"streak": 32
 }
 ]
