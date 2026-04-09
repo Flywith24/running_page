@@ -25294,5 +25294,21 @@
 "elevation_gain": 64.4,
 "source": "strava",
 "streak": 37
+},
+{
+"run_id": 18021434645,
+"name": "Zwift - Sweet Spot 12 on Serpentine 8 in Watopia",
+"distance": 28332.1,
+"moving_time": "1:04:04",
+"type": "VirtualRide",
+"start_date": "2026-04-08 00:56:23+00:00",
+"start_date_local": "2026-04-08 08:56:23",
+"location_country": "Usili, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "hcffAo}|y^zJRrQwEfG~A~F@b@b@M`B`@b@bCe@`DbA_@fA_DNYfA|DzC|A~Bj@`Ck@hGtBhBj@tBi@fBNrAc@h@cAJkDaAoBrB^~AnBxAb@rBiCDMb@r@lBuAx@I|@b@hApCfAf@tG`DnCrAtDbDpAtAhBbB@`@aDqCiGl@aAjAd@H~BjArBhB`ApBc@iCwBrAwGi@yAB{AoAu@XaCt@qBj@XVxFhBtDk@pBp@z@v@QdAmB~GnDpDkAlB@z@uAQ_Bz@gBq@{Bz@u@hCJ~BbCr@Mz@aBvClB~Ds@fFlBTv@q@jDaH`BaChDGlFfDpBdApBuAjEcBz@sEiA[wBcBm@}@JoA~AmCPeB]oBsDqB?kBt@}@}@c@oC{Ak@{FPsBx@uFiAkAaBaDiA}AaEuC_Cq@cHwCoA]sA`BaBo@cCj@WlAb@X_@e@yBuBcBSuA|AaB`EbA`B_AQqAd@sCm@{AmBwARqBhAc@nEbB`AmAAoBn@e@pCVhBvAd@nC|R|GpBf@pC]|BZh@tAbBz@ZzBcA`BiCMS~BoAj@sFF_IqCqAb@U`At@|CUtDlCpBo@zE{@lByAUf@kCmByDW{FaAEc@jBRh@m@nApA~@C|Ah@nAsA~GfCtBeB^qBgAeAmBOeC{A[c@dArCrFU`BVdBtBr@nBy@`GSnAd@`@jCbAdA|Es@rBtDfBZtCSvAiBj@C~Al@b@zBxChAfAEzA{@rA_FmAoB_DmBDqE~BqDlHkBb@eABgCaGkCsDt@cDqBiBpB{BaC{CO}@|@p@`C{@|ATzA]x@kCXwDbA{GcEp@mDsCgCVcDo@eEnAy@rDt@jC|AbHQn@a@N_CfCN|@{@Q{D{Am@aAeByGBoU_Ia@iCmCiB}CB]h@F`B{@fA}F}Aw@nCzCvDc@nCNvAqAv@eEcAcBdBFrA`CrB^tBmCFj@jCmAp@QbAX`ArCfAj@vGfDzCrAvDlDtAjA`BdBC^iDqCwFh@gAjAb@J`CbAjBtBjAlBe@iCuBrAsGg@aEmAs@l@eAS{@l@kBr@TRpFlB~Dk@lBl@|@x@ObAmBjHnDbDkAjBD`AqAQaB|@mBo@gC`Ak@`CLvB`Cr@EtAeBbCjBzDu@|FfC_@~D{BhAwDd@_CnDEbFjDtBbApBwAjEqAt@mADyCoAYuBgBm@yCrB}D@cC_E_CIkBv@aA_Au@_DgCg@qAb@",
+"average_heartrate": 126.0,
+"average_speed": 7.37,
+"elevation_gain": 261.0,
+"source": "strava",
+"streak": 38
 }
 ]
