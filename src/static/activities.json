@@ -25502,5 +25502,21 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18099058653,
+"name": "Zwift - Zone 2 #1 on Watopia's Waistband in Watopia",
+"distance": 33800.9,
+"moving_time": "1:00:39",
+"type": "VirtualRide",
+"start_date": "2026-04-14 00:54:35+00:00",
+"start_date_local": "2026-04-14 08:54:35",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "fo_fAo`cz^w@_Ev@cGwBgFx@eAxC@\\qE`@u@xBA~DlBPfCzBv@cA`Dz@jAfIYhCuC@s@aAgBIgA|C}CTeBOgBoBgFkFkEU{AnAuEbEaB~@}AE_EuDeEKu@xBuBGgDfIqSj@wEMoAo@}@gFcBaAw@y@eBMaB~FqMtAyE~Cu@nBr@jA?|@m@vAuCbDMtBgAd@cBGgB}CaF\\aAtA{@|@Av@d@~EfI~@v@|@C|@u@vAwEvAJvAdAH~ElCxAVdAUr@wBt@s@nACdLqAzRdEpFTvAZRzFj@zL}C~Ah@v@tE`@hLOlCmBjBSx@NjFr@bDhB|@hCInGxA|AnA`@xCzA|@`A_A~CoJ|Ac@zBtAb@rCfFVtB`ELzC_@`BcMhHa@t@SbCsBz@wAvBb@hCf@x@jA\\PzBz@tA[rBoB`@Ox@zBHTb@qBlB}DnAi@zIjBfH`F|FUtGTtCwk@vNiGlBoAdAHfArBtFxOcEfAAp@p@MrRqD`NKhKkA`AeJDy@iAqCsJo@cAsBq@eBvAStAVtAbHbOkAj@cKzAw@l@Gx@hAb@~JqAdAT}An@sK~@Ul@xAf@~G[nCl@d@tDvBvCN|@Uv@yBl@Kh@fAzCfBPTj@c@b@_CJ@b@`Ad@Ul@uCo@uB\\kHvGmBbLf@~Os@~GcGlLoBbBiArEgE~B{HFOY`@W~Ce@@o@iAa@iFjBwEaDDmCzA]Pc@BuE[_Cm@y@q@QsCr@m@~Am@Xs@@e@c@iBgGx@{B~A_BTuAz@_AJq@kEeMoAaGb@_A|@_@zARnBfBd@UEm@uEoKgKyDiDsBoByBuAeEKeC\\uAlHuFp@iAU}@wCoCVc@bBWH]qAkLb@{FyByC_@mCp@yDzCuGl@eIy@eIsBoCEkA}@cA_@_CLsAzCyJV}EyAoCcDu@u@cAsB}Ht@iHuB}Et@aAxC@d@aFtAu@lFbB\\f@@jB|Bv@B`@cA~BPt@l@`@|HYjCoCDu@aAoBIiAxCwCVwAKkBoBqFqFqESoAnA{E~D_B`AuAN{AQkBcEuF~BkCQgCtIwTb@kEo@}BoH}C}@gBOgB`GyMpAoE~Cw@xBt@bACv@c@~A_DvCItB_Al@mBEcB_DgFlAgBlAW`A\\tF|I~@l@x@Gv@u@xAwErAHrA~@LbFlC~AX~@[~@oBn@s@dAEvKoAzS~DbFp@pBbGh@`LuClA@dAhBf@pG",
+"average_heartrate": 129.0,
+"average_speed": 9.289,
+"elevation_gain": 108.0,
+"source": "strava",
+"streak": 2
 }
 ]
