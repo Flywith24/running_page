@@ -25454,5 +25454,53 @@
 "elevation_gain": 16.6,
 "source": "strava",
 "streak": 41
+},
+{
+"run_id": 18087433485,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3508.3,
+"moving_time": "0:37:27",
+"type": "Hike",
+"start_date": "2026-04-13 04:18:31+00:00",
+"start_date_local": "2026-04-13 12:18:31",
+"location_country": "\u6167\u5fe0\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "odbsFm`meU?nGF~AH`E}ClB{If@k@AuABmDAgDH[FoAAaA@wAEmBBo@CeA@SGQWG]EyCQuABkD@k@C_CC_@QeAHsA@uBCs@JiF@MLSNIh@I~B?JETSHAzBLzABd@IZOn@BdAATJ\\@`BKf@Fz@Al@DnDBd@DpA@jBIv@BH@?AEAz@ClAJFCBI?s@DMLG`@?DAFGBOBa@@sACYOs@Ce@",
+"average_heartrate": 93.2,
+"average_speed": 1.561,
+"elevation_gain": 59.0,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 18089559037,
+"name": "\u5468\u4e00 7 \u516c\u91cc",
+"distance": 7243.1,
+"moving_time": "0:38:01",
+"type": "Run",
+"start_date": "2026-04-13 10:12:17+00:00",
+"start_date_local": "2026-04-13 18:12:17",
+"location_country": "\u6167\u5fe0\u8def, \u5c94\u9053\u53e3, \u5965\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100000, \u4e2d\u56fd",
+"summary_polyline": "qjbsFkskeUWRg@VSNw@z@[Z}A`Ba@\\}BzAOP@FF?FE|DaDfBoBrBcChAeA^Un@[nAq@|@Yz@Qn@IbBMlBHdALfAVr@XlC`B|Ap@|@XN?@ECE]OWQiAW{@]OIc@c@SK_@Mm@OuAQ{@CaA?gAOeBC]ByAb@}Ax@oAh@a@^k@t@cD`Dy@f@u@n@q@ZmBrAMLCH@DB@HAv@g@`A_@~@u@hC}CdAcAb@k@~@}@bAu@bCkAPEf@Gl@Mj@G`AEz@?x@FhDb@VJd@V^ZpAv@j@d@zAh@PBJA?EECo@M}@]i@SyBgAiA_@g@a@OEm@Gm@Bm@Co@S_@EO?a@F_AP}Cx@}Ax@a@ZiCbCsAxAkDrCsBtAMN@DHEzBeBj@_@fB_BzAgBf@_@lAoAtAkAvAyA\\Wn@]`@Q^Mh@Ad@Dn@PfBh@~AZf@Px@b@p@b@f@d@LHrA^~Aj@XDDGOKsBo@[OaAs@WK]UkAe@YIeAOoBEm@DqAP_APyA^e@Pm@^wAjAoAd@uAdAw@TMFQNgAnAuAnAq@h@k@ZSZENBBD?HEpAkA|AiA|@gA\\]z@iAv@}@`Ag@f@]t@[hAs@|@UzAo@z@QLGBICA]Jg@HQHYX]P",
+"average_heartrate": 150.6,
+"average_speed": 3.175,
+"elevation_gain": 13.0,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 18091262748,
+"name": "\u508d\u665a\u884c\u8d70",
+"distance": 812.7,
+"moving_time": "0:10:22",
+"type": "Hike",
+"start_date": "2026-04-13 11:03:52+00:00",
+"start_date_local": "2026-04-13 19:03:52",
+"location_country": "\u6167\u5fe0\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "ydbsF}`meUCmI",
+"average_heartrate": 105.7,
+"average_speed": 1.307,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 1
 }
 ]
