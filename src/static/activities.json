@@ -25582,5 +25582,21 @@
 "elevation_gain": 22.8,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 18139834746,
+"name": "Zwift - Easy Hour on Mayan 8 in Watopia",
+"distance": 26787.6,
+"moving_time": "1:00:56",
+"type": "VirtualRide",
+"start_date": "2026-04-17 00:54:53+00:00",
+"start_date_local": "2026-04-17 08:54:53",
+"location_country": "Temuo, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "hgnfAa~}y^LxChA~AiAlMn@pBu@rAB`@jAx@lCeBj@Az@hCzArAfB?XxAg@l@}CPaEz@Il@f@|BaDhMmE~Au@pBcMvOaAtGwDvBu@dAa@lBs@j@yCN_C\\{BKcBk@o@wBe@g@}AIeGp@uC}AcFc@cCbAuD]_BZgFvCcAbBm@TkNNaAxA}@h@kF|@yB|C]bCLjB`DpBnAtBwAnE_C`AyDsAQY@mAyAu@eA?uAfBsCPgB_@eAsCq@_@eB@qBp@w@w@a@oCwAm@mAKmA`@iBAoBv@sBo@SoBTmAuC_Gb@w@`AHZj@DpB`AdB`ChAbAE\\]Og@uA[e@y@tAmGi@_B?cBkAk@n@qAUs@\\e@Cq@\\Wh@TRxFnB|Dk@tAHx@f@Xl@KpAsBlAx@vAVxB|AhDkA~AFl@a@`@_AUwA|@mBq@qBVm@p@ObCPfAdBt@Zj@O~@aBrClB~Du@`BbAjCn@TdBv@^fMKv@]|@_BbFqC~A[pD\\hCcAzEb@pC|AtIo@f@XjAvCt@Lv@YfC}NG{AoA_E\\}A_Ao@}C^eBeBmBaAC[t@w@r@qBy@cCtDc@^iAs@}@_FaAg@_AUiBj@gFr@kA`A_@zCnBlCR^S^aCjABd@v@`@lEc@j@}CBc@dBwFcA[]b@kDhCoC`AyDx@SzBr@n@]Vo@cAwAGq@jA_GAu@iDm@kBm@wDeEHeA`BsBp@gEKeA{A{@Yq@v@uC]oC@oCXiAnBa@bAsCJiAoA}AFmAvC{AdCj@r@Od@y@]mCd@mBl@SrB^|AcAXmFj@qCn@IpBn@z@OrBwAd@cBWwAw@cAwCM_D}B}A^]MWiAfA{Aa@mAaAQ{Al@g@[YkBpA{B|@aIoAuBsCAgAw@U}@D}DzpAKtBdAdBcA~Ax@hFjA^n@_@fBXbFU`BcAh@_EDkCbAmBxAa@~@MbDgBdC[~GoBbEu@vC}@j@_DDk@j@E|@f@lDsAfDA|@dA`AtEr@t@|AS`ByBdEOjDcFtE}BFwCv@u@Sa@gBeAcAa@oAq@K}@l@oB`DwGj@aAp@Et@Xl@tGdApAbBV`IlAhBiAlMn@pBs@rAFn@hAn@lDiB`@^TzAtAzA~BPPzAm@f@sIdAMj@d@lCcDdMgEtA}@|B{LhOiAdH{DvBwAtDcBr@sEX",
+"average_heartrate": 116.3,
+"average_speed": 7.327,
+"elevation_gain": 253.0,
+"source": "strava",
+"streak": 1
 }
 ]
