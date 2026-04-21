@@ -25694,5 +25694,21 @@
 "elevation_gain": 61.4,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 18191888544,
+"name": "Zwift - Recovery Spin on Triple Twist in Watopia",
+"distance": 24073.7,
+"moving_time": "0:48:38",
+"type": "VirtualRide",
+"start_date": "2026-04-21 00:59:16+00:00",
+"start_date_local": "2026-04-21 08:59:16",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "bw_fAok~y^fEdCvH`Cz@l@x@tAzCvI[RgBcByAY}Ap@YrAb@vB|BjHdBpEl@t@`@FnBs@jCWlCh@|BDx@U~AgAxAQv@TfAdB?j@_BfBiCK{Bv@m@f@u@`BM`A\\bBj@fArAZtAmAf@K~Ah@d@EnB}B~@qCj@UbBr@p@tC`CbCPbAQ~@wCrFqBfBo@fDoA`CLfAtCzE`A^|Cc@zC@nNvB~HoArAFlMdE|@j@\\jAHvBg@nE^r@nOWnD^nBt@rBjBRt@BbAg@tCwA~DwA~IkB`DkGnE_GdGyB`@sAUsAm@uAsAgB}CaAuCkBiIUMq@HcBdA_DhAkB?gAk@aDiDaEyD_@gASsD}@qD}EeHkBcE_@gBE{AVuAj@mABs@cD{FoA[gCTkDWsAPK[b@WvC_@LUEYc@e@a@?yFjB{@]oCaCIu@JwARUtAUNoDa@{Dy@eAc@GmAj@eAFo@~Am@XcAE]k@i@wBu@{A@s@~@wBtAqARsA|@_AJq@yEiNq@eCOwAl@kA|@YjAR`B~Ah@P|BQvBq@IaAx@m@B_@sBcAEsByAy@@g@b@{@|@Yd@Jv@bA\\~A`ARv@~@VF`C_Bb@aA_C_Be@yA@cAnAi@~BAx@Vj@j@|C|Gp@v@XCj@{@vJgGn@NlBlDj@d@n@[tAkEl@q@jAf@rC|Cr@Db@y@g@gC`Cu@Xm@S}AsBoCOiCQg@gAg@mCQqE^sBIs@Pi@z@{AhGq@j@}UuFoBUeG\\iFv@qF`BeAGYkABiCNsAj@m@zFyAfMeB|@g@rBcCn@[pDz@|@SJaAGkIb@kAvCqDDmAWuAeAeBaBu@aE[aG?qBz@gHzFyGjA@tAbCjJGz@UR]?i@e@uBgIe@w@_@De@v@MnHPv@v@JTQ^iBc@a@aE?wC^Sd@Nh@jClBP|@u@`AcHfF_@bAClBfApElBpCrErClInCn@d@t@lAzC|HBh@a@HyA{AyA_@s@Ji@`@[l@Ar@fCfJlBfFr@lAj@LbBo@hC[jDl@nB@|@YnA_AfBUp@PhAfBAr@gBfBwBSyBr@q@d@}@jBKv@PrAn@tArAd@xAiAb@OlBh@b@GrBiC|@kC\\M|@Np@f@p@tC`CdCLbAQ|@}CtFiB|Ao@bDqAlCPjAfChEn@d@",
+"average_heartrate": 121.5,
+"average_speed": 8.25,
+"elevation_gain": 201.0,
+"source": "strava",
+"streak": 5
 }
 ]
