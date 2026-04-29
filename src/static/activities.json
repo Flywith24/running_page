@@ -25921,7 +25921,7 @@
 },
 {
 "run_id": 18300484201,
-"name": "Tuesday Night Ride \u2013 Long Beach",
+"name": "MyWhoosh-\u6bcf\u65e5\u4e00\u8d5b\uff08\u7b2c\u56db\uff09",
 "distance": 28499.9,
 "moving_time": "0:49:49",
 "type": "VirtualRide",
@@ -25932,6 +25932,22 @@
 "average_heartrate": 157.8,
 "average_speed": 9.535,
 "elevation_gain": 231.6,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 18300521977,
+"name": "MyWhoosh - Al Qudra",
+"distance": 2469.3,
+"moving_time": "0:05:23",
+"type": "VirtualRide",
+"start_date": "2026-04-29 01:50:22+00:00",
+"start_date_local": "2026-04-29 09:50:22",
+"location_country": "\u063a\u062f\u064a\u0631 \u0628\u0631\u0627\u0634\u064a, \u8fea\u62dc\u914b\u957f\u56fd, \u963f\u62c9\u4f2f\u806f\u5408\u5927\u516c\u570b;\u963f\u62c9\u4f2f\u806f\u5408\u914b\u9577\u570b",
+"summary_polyline": "}qmvC{fppIS}BYaFs@eRMyBQyAwA}Iw@oG_@wBo@aCkCoHI[A[BMTe@rBgDRWXUTUFOHs@Ba@DeDTkD^{H?cADOHMXUh@Sn@?lAHjAI",
+"average_heartrate": 139.2,
+"average_speed": 7.645,
+"elevation_gain": 6.8,
 "source": "strava",
 "streak": 3
 }
