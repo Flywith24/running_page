@@ -25998,5 +25998,21 @@
 "elevation_gain": 28.4,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 18313963925,
+"name": "MyWhoosh - Heian Samurai Circuit",
+"distance": 14271.8,
+"moving_time": "0:30:44",
+"type": "VirtualRide",
+"start_date": "2026-04-30 01:22:32+00:00",
+"start_date_local": "2026-04-30 09:22:32",
+"location_country": "\u5e83\u6cb3\u539f, \u5de6\u4eac\u533a, \u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, \u65e5\u672c",
+"summary_polyline": "ukdvEstu{XBQ?c@Ss@IKIO_BmBIMIIy@eAaBkBu@Yg@Bk@Xw@hA}A~B_AnAOVIZ?h@D^JZ^n@dBvBDHt@~@^n@r@|A\\dAF\\LzA@tBK~@Mp@]fAe@z@BRxGfHZTj@FxLGNEvF?\\Ij@Ub@a@rHcLCOiE{F[q@I[Ey@Di@H[j@}ANg@LgAB_BDmUDiAJo@LYfCkDFMCOyAmBIEa@m@QQWa@IEcAuASQu@QWAmG@cDD[L_@d@[f@}E~GM^C`@?t@D`@L\\fGjI`@ZTLJ@d@Ab@Ol@i@f@Mz@Hh@ZVZTn@Hf@A|@Gb@Q^_ArAu@z@gDzEqCfDI@KHg@Ng@?e@O_@Wa@q@Og@C[Bs@Pk@Xc@Ja@Aq@COM[QYcAoAIGcCsCKSq@w@k@Si@EMBc@RSVeBlCe@p@QPIPGFQZKFMZCN?b@Db@Tp@fEpF~@pBRl@Rn@Hr@Dx@?rBIx@UhAM^k@lA?Nv@~@`@^JNn@r@LHrA|Ad@`@j@ZnB@~AANCpFANEzF?~@Yr@o@JSj@u@|AcCpCeE@MGSKIgBaC[g@]_@c@q@Wy@Eo@Dm@F[r@mBH]L_ABqBDkUHqAF_@L]jBaC\\i@DMGOy@cAIQ]]GM]]Q[]]GOaAkAWOa@KWA_LD_@D[PKJcGtIMZG`@?t@Db@J`@zApBFL^^fCpD\\Vb@Nf@Af@Sb@c@LG\\Gz@Hh@Z^h@N`@Ff@A|@CNKb@S`@cFtGaAxAyBjCq@Z[D[?g@Oa@Y[e@KYI]Aa@Dk@J[^u@H_@?_@Om@Wg@IGw@eA]]IMIIcC{CYWi@S_@CYDc@VeFpHI\\?b@Fb@H^^j@HFxAlBFJPPj@|@FB|@jBXv@Nj@Hr@Dt@@lBCb@Gb@UdAe@nAIHIR?NfBrBJFp@r@JNHFb@j@LFn@r@\\T^D~DANCfFALEdG?`@I\\OZUVYzCqEvA_CJIf@u@BMGQq@y@y@kAm@u@}@uAQi@E_@A_@J}@J_@j@wALq@Fq@B{ADuUHqAFa@N[|ByCN[ES}AmBaC}Ck@q@KEo@MWA_G@OB{C@g@TuGhJMp@?n@Dr@Th@HHFLbDfEp@`At@x@F?",
+"average_heartrate": 110.7,
+"average_speed": 7.74,
+"elevation_gain": 32.4,
+"source": "strava",
+"streak": 4
 }
 ]
