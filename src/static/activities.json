@@ -26542,5 +26542,21 @@
 "elevation_gain": 1040.0,
 "source": "strava",
 "streak": 20
+},
+{
+"run_id": 18549949619,
+"name": "MyWhoosh - Recovery Ride 40min",
+"distance": 16422.2,
+"moving_time": "0:40:17",
+"type": "VirtualRide",
+"start_date": "2026-05-18 01:06:01+00:00",
+"start_date_local": "2026-05-18 09:06:01",
+"location_country": "410, Khamtoe Lam SE, Chang Jiji, Chang\u683c\u7a9d, \u5ef7\u5e03, Thimphu Dzongkhag, \u5ef7\u5e03\u5b97, 11001, \u4e0d\u4e39",
+"summary_polyline": "_grfDeudbPPj@Xb@f@ZVJ`@Dj@?b@Gd@UPOT_@Rs@@wDH}@L]t@YlR?LATWN@TVvC?j@Gv@Yh@m@LYLe@D_@Au@Ea@Mc@g@u@y@g@c@IoDEcA[g@]c@w@Ik@A]FiAPk@NW^a@d@Wj@KpGELDTRNARUjL@jAKh@Od@]R[Rm@Fs@As@Ea@Qm@e@o@g@YgAO}F?YAWKGYCaDEOWOeGCe@JIHEZAzCITKDcJ?w@Us@q@Se@Mk@ImBSw@e@o@YOYIu@IuJAq@Hi@Va@`@Yd@Qh@Gj@Dhe@@VPRBHCLOPCJ?bJJbAVp@b@d@l@X`AFr@Kd@W\\_@Rk@Fa@?wCDcAJ_@HKZQl@ExQ?LCFMJGNBRTbD?v@MXOj@i@LYPo@D]As@Q_ASc@UYs@c@k@M{CAy@Oy@c@g@u@I[Gk@?k@Fm@Xw@RWb@]v@Wl@EdFAN@TTL@TSLCfL@z@Gv@UXSTWTk@Js@@c@Cs@W}@]e@e@YgAUiG?e@IMSEmDEMYOeGC[DIFMXA|CGZIFWBeICg@I[OYSY[Se@Mm@EsAKw@M]QWo@a@[Ku@EoJAo@Hg@Va@\\Wb@Wt@El@Dxd@?ZT^?LGJIDCL?vIF`ATv@Z`@b@X^Lz@Dp@Kl@_@Za@L[Fo@?yCBq@Ro@XQl@I~Q?LCFMLGLBHLJFbD?j@KZMl@g@Ve@Le@DgAGo@Me@g@u@s@c@m@MyCAy@O{@e@e@u@Mi@Ek@HiAXw@r@s@XOZGz@GbFALBTTLATSLAhL@|@Iv@Yj@k@N]H_@DeAI_ASm@]e@q@_@gAM{F?e@IMSEoDQUMEgGCYDKFKXA`DIXKDuI@i@I[Os@o@Ug@Mk@EqAKy@[u@USYMYKu@GwJAa@Dk@Te@^[f@Sh@Gl@Ble@@VPNBJALUZ?~IF~@Xx@V\\\\Vl@Pp@Bn@Ij@YZ]Rg@Fm@?wCBu@H_@FMZSl@IbR?VULCTVN@zC?l@Kf@U`@a@Ve@Ls@Bk@Aa@UcAe@q@_@Y[Mm@K_DCo@Mg@UQQ_@i@Og@E[BkAXgAf@o@d@Wj@OtGELDTRLARUlL@^Az@Mt@a@TWVq@Hs@@w@QaA",
+"average_heartrate": 108.4,
+"average_speed": 6.794,
+"elevation_gain": 71.8,
+"source": "strava",
+"streak": 1
 }
 ]
