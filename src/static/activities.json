@@ -26670,5 +26670,21 @@
 "elevation_gain": 10.8,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 18589861934,
+"name": "MyWhoosh - VO2max 5x4min",
+"distance": 31402.3,
+"moving_time": "0:59:43",
+"type": "VirtualRide",
+"start_date": "2026-05-21 01:01:34+00:00",
+"start_date_local": "2026-05-21 09:01:34",
+"location_country": "19, August De Feyterstraat, Ternat, Halle-Vilvoorde, Vlaams-Brabant, \u5f17\u62c9\u8292\u5927\u5340, 1740, \u6bd4\u5229\u65f6;\u6bd4\u5229\u6642",
+"summary_polyline": "wvmuHyunX?xi@IxAUrAYt@c@j@e@\\w@Ve^@KJAdc@EfAM`ASd@U^u@b@k@Fms@D{AGm@Oy@e@oS}O_AaA_@u@Oi@U}AGkDCsdAGcBY}@[[[Mo@GeGAi@Oa@e@g@cBQ}@S}B?{ALgBd@mCXo@XSv@MnKC|@Qj@[b@o@Rg@Lk@LcB?kAFcBPaBNk@^w@Z[l@[|@OtL@^B\\Nd@p@`KnQj@b@|@Njd@?rAK\\OZ]bHkMp@eAh@i@\\U~@YzREb@J`@TZb@Tl@PpAFtA@puAArCEz@Mv@Qp@g@~@_@^a@Tw@P{]?IV?pb@Cz@OtAe@`Aa@Zs@Pet@FgBMi@Si@]iQ_NmAcAq@q@U_@a@kASyAEuBEcfAEyAOu@KU_@_@QIu@IiGAc@M_@a@Um@YoA[mBEy@@uBLuAb@gCVk@`@Wv@KlKEt@Mn@_@Z_@Vi@Nq@LqAHeETmBPo@Xg@\\_@r@]t@KhL?d@Bb@PrAvBlIbOr@h@hAPbd@AhAIj@YT]`DuFpByDv@oAb@i@f@_@fA[rRCj@NZP`@l@Pd@PxAD|A@rxACx@OtASr@Wl@_@b@_@ZiAZ{]?IV?vc@OvASp@Yh@a@XkANms@DmAGy@S[SsTyPo@u@g@eAWwAKkCEmfAE}AMk@Qa@YW]M{@GoF?]E[QW]Y}@]{ASgBAoBFsA\\gCRq@Zg@`@Sd@G|KEdA[n@k@Vk@XmAHuAFmDTmBRo@Xg@\\]`@Sr@Ot@EnK@v@Nj@r@zJhQn@j@d@Lv@Dhc@AhAGd@M^_@dI{Nr@{@v@g@xAUvPAj@Dv@`@^l@T|@Hl@F|A@vuAAlCM|AS|@i@dAs@l@y@V_^BQFArc@KvAMt@Yl@ONs@^y@Deq@DwCIe@Ku@c@}RoO_Ay@_@e@a@eAOs@Ku@EkBEwfAEuA[gAo@g@aAM_G?g@Q_@e@Us@c@oBOmAC{@?qAHoAPmATkALa@^c@d@MfLGr@Kp@[^c@Xm@Pw@LoA@}BHeBJ{@Ru@N_@TYj@g@r@Sr@GtK@~@Nh@n@hJlPp@|@d@TjAJjQA",
+"average_heartrate": 143.0,
+"average_speed": 8.764,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 4
 }
 ]
