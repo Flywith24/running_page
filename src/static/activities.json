@@ -26622,5 +26622,53 @@
 "elevation_gain": 56.8,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18576426577,
+"name": "MyWhoosh - Z2 Ride 75min",
+"distance": 36264.8,
+"moving_time": "1:15:13",
+"type": "VirtualRide",
+"start_date": "2026-05-20 00:56:20+00:00",
+"start_date_local": "2026-05-20 08:56:20",
+"location_country": "19, August De Feyterstraat, Ternat, Halle-Vilvoorde, Vlaams-Brabant, \u5f17\u62c9\u8292\u5927\u5340, 1740, \u6bd4\u5229\u65f6;\u6bd4\u5229\u6642",
+"summary_polyline": "wvmuHmunX?di@KpBYpAi@bAc@d@k@Ti@J}]BGR?`c@QvBg@jAi@`@_ALos@DwAGm@Ow@e@uScPg@e@a@o@c@sAQ_BGuCC{dAG}AMi@Sa@i@]y@KmGAi@WW_@e@eB]mBGeA?_BFeA\\cCT}@T_@f@Wh@EvKEj@Kr@a@h@}@V{@Hk@N_GXmBXw@b@g@h@[x@QtLAz@Lf@d@jK~Qt@j@hALze@Gh@Sb@g@rHaNx@eAt@g@vAYxPAdANr@h@Zr@Jf@H~@DxA@luAAfCKxAe@~Ai@x@q@d@i@Lm^FGR?fc@K|AW|@U`@YVw@Tkt@FuAGw@Ue@[mS{O_A}@W_@a@oASwAEqBEmfAEwA]kAUWg@QqHGi@QUYa@eAYqAW_CAqBXyCf@wBVYXMt@IhKEj@It@_@j@w@\\mALwA@eCFaAH_AP{@Zs@b@e@f@Yv@O~LAz@Rb@j@bKrQp@f@`APdd@AvAMXM`@g@~GeMl@_Ap@q@vAi@~RCdAb@T\\Zx@L`AFnB@txAGvAO|@i@vAy@z@oA^{]BGP?hc@KzAMj@_@t@g@^iANms@DeAEu@Oi@YgTqPcAkAa@eAYgBEmBEkfAEyAIi@Qc@s@i@y@IaG?i@O_@i@Yw@YqASuAEcA?}AL{AXmB`@kAXWj@MfAAsAFlLMf@Gr@[j@q@R_@Pw@LwA@gCFcAHaAT}@\\s@d@e@h@Wx@MtL?t@Nl@t@zJhQn@h@bAPdd@?rAKf@W`@i@xG}Lt@gA|@u@nA_@vR@x@Z`@j@Vv@NvABbA@lS?zdAQ~BSx@[p@UZo@f@aATy]?KN?lc@K|AU|@U^e@`@iAPgt@BqAKiAk@}SiP{@_Ak@yAO_AKiCEkfAIuB[w@u@e@iHIw@Sa@k@Wy@m@mDCiCDcAj@iDNe@V[fAWvKEfAYp@q@d@kAP{AHiEPiBJe@Zo@j@o@v@Yv@IfL?x@Pv@hAlJpPp@l@x@Nrd@?tAMXM`@g@rGsLz@uAhA_ArA[tOCnBJb@V^f@P`@RlAFhB@|uACjCMxA]nA_@n@s@n@y@Tc^@KJAlc@QxBi@jAi@^aALqu@?q@Kk@YiL{I",
+"average_heartrate": 121.3,
+"average_speed": 8.036,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 18577235574,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3524.5,
+"moving_time": "0:38:40",
+"type": "Hike",
+"start_date": "2026-05-20 04:14:10+00:00",
+"start_date_local": "2026-05-20 12:14:10",
+"location_country": "\u6167\u5fe0\u8def, \u6167\u5fe0\u5bfa, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "qdbsFcameUBVB`DCjAAvGFzA?x@y@Lg@?_AFu@@mBJU?EIIAi@Bs@?}AL{@@c@Ce@@MCWD_@CoADm@Fy@?[Dk@?q@D]CeB@_BEaA@mAGe@@OCMIEQ?w@EsA@u@GYKODaCAuBIiB?{@McAFoABoBA{@B}@C}BBq@L[DEJCx@Cn@Dt@AXGVWREbBCl@B",
+"average_heartrate": 90.8,
+"average_speed": 1.519,
+"elevation_gain": 59.2,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 18579864105,
+"name": "\u5468\u4e09\u6709\u6c27\u8dd1",
+"distance": 6187.1,
+"moving_time": "0:39:34",
+"type": "Run",
+"start_date": "2026-05-20 10:12:27+00:00",
+"start_date_local": "2026-05-20 18:12:27",
+"location_country": "\u6167\u5fe0\u8def, \u5c94\u9053\u53e3, \u5965\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100120, \u4e2d\u56fd",
+"summary_polyline": "ojbsF_skeUKVIHk@\\]\\s@^k@l@c@VkA~@_@d@}An@GHBHD@REb@Op@q@p@g@b@_@X_@b@_AXc@dCuCn@o@b@MzASjACt@KdCcBl@AZEn@EV?f@JnA^d@?v@DRD\\PNJdAfAx@n@j@p@^`@\\LB?DEEIYGMEiAqAq@Y_@[]c@MEyDi@{As@O?a@DMBMHm@QUA[J_Ad@o@H[Ls@f@q@Hm@TKHUZk@fAs@f@]d@MJq@Xs@f@{@lAYX_B`AaA\\SNEJ@DF@RMp@k@b@c@f@[t@qAl@u@tC{ALQZe@ROj@WHGVa@`@_@n@u@TO^Id@GvAEZD`B\\L@x@O|AOVAZD`@FZN|@|@pAh@`A\\l@Zx@RN@HEAG]Ka@Ue@a@KG_B]mAg@q@]o@Q_CUwA?w@DgAIS@{BfA_ANUFq@h@_@Zg@p@{@z@_Ah@w@nAq@\\IHsAtBa@f@QL}@ZIJALFABE^y@T]`DqCROJCb@Ur@YRMVe@n@wA\\e@t@a@j@c@nAy@VMTIr@K~@Ah@M`BGV?xAN^Lh@FNBj@\\v@Xv@^r@f@RL|Af@`@RL@HC?ECCaBWeAi@][q@_AWQUKyBCc@KSC_ADe@E]A}CDy@HUF",
+"average_heartrate": 140.5,
+"average_speed": 2.606,
+"elevation_gain": 10.8,
+"source": "strava",
+"streak": 3
 }
 ]
