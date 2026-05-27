@@ -26782,5 +26782,37 @@
 "elevation_gain": 13.8,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18655793331,
+"name": "MyWhoosh - Threshold 3x15min",
+"distance": 43774.0,
+"moving_time": "1:21:20",
+"type": "VirtualRide",
+"start_date": "2026-05-26 00:52:45+00:00",
+"start_date_local": "2026-05-26 08:52:45",
+"location_country": "Loma de Simon, Santa Cruz de Mompox, Isla de Momp\u00f3s, Bol\u00edvar, RAP Caribe, 132560, \u54e5\u4f26\u6bd4\u4e9a",
+"summary_polyline": "}{gw@pareMNe@@{@?ob@Ce@KUUMaAIkaA?k@WIKK_@Gm@@aOHKvL?\\BZNFJD^DfJFZh@Pd^ALDHZ@zGA^I\\IJ]F_E?_@N{AtA_@HuTB]IsAoAYQqKAKFGl@?zIBl@DLJH^Dxl@CnAJRVB\\B|OB~@F^J\\Xh@lEdFd@[~IsHv@u@NWD[@y@?mb@C]K[KI_@Gq@Cy`A?SA_@SU_@Iu@?gOLKpL?b@BZTH^DlJ@PHLr@L`^?HJBd@@|FAb@Gb@KLOFsE?c@TeAfAOHe@FoTB_@MmAkA]QkKAMFGb@?fJFt@JJ`@Fjl@CvAFNHFNDb@BxOHxARn@^l@|DpEN?zKiJVWN]DoA?gb@A_@K]g@So@CcaA?QA_@SKMOa@Ew@@kNBQ~LCb@DNFHNFb@DlJDPLHb@Hr]AXDHZ@xFA|@GZGLYJgE?m@XiAfA]LwTBOA[OaAaAc@WiKCKBGLE\\?nJFj@HHZH`m@CjAFRTFj@BtOFtARn@\\j@dExENCrJgIbAcAH]BiA?_b@Em@EMII]M}@Cy`A?c@KMKS]Ic@Ag@@kNFOvLA`@BNFJLJ^DlJ@RJJ`@Lh^?NFD^@jGA^Ib@KLOFmE?c@RcAbA_@RQBwTBa@MmAkA_@QcKEODGNC`@?bJHr@LJ`@Dtl@Cr@B`@JHLDN@`@BlOFvARp@RZfEbFNBvKcJj@s@H_A?kc@C]O[]Kq@EcaA?_@GWQUi@Gm@@}NDKrDClG?ZBXPJj@B`JF\\JFj@Jx]AJBHJ@\\@`GAl@I\\IJ[FyDAQB]RiAhAm@NmTBa@I{AuAa@M{JAOFG`@AhJDt@JJ`@Htl@CvAJP\\Bb@B~OBr@H`@L^\\j@fE|ELG`KqId@e@RYF]@_@?ac@Eo@EMKI]Ko@CkaA?c@MKMQ_@Iw@@}NHMdM?`@JJLJ^DrJDPLH`@J`^ANHF^@rGGr@IPa@JcE?c@TgAfAOHe@FuTB_@QoAmA_@MyJCODINAPAxJBb@FL`@L`m@CfAFNHHLD`@BrO@v@Jt@`@~@jEdFN?vKeJf@o@Hc@?w@?kb@C_@IW]O{@GqaAAYKSUKWGk@?aO@MJGbL?dANPj@@NBhJNPVJt^@JFDV@rF",
+"average_heartrate": 159.5,
+"average_speed": 8.97,
+"elevation_gain": 73.0,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 18656489380,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 2566.0,
+"moving_time": "0:26:52",
+"type": "Hike",
+"start_date": "2026-05-26 04:30:11+00:00",
+"start_date_local": "2026-05-26 12:30:11",
+"location_country": "\u5317\u8fb0\u4e1c\u8def, \u5927\u5c6f\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "azbsFijleUACgNd@oBGuCBcAw@?iAc@mTA}AJsAGyDDuAJWHCH@pAAfB]XOLEVBr@ZRFb@@`@?",
+"average_heartrate": 101.8,
+"average_speed": 1.592,
+"elevation_gain": 52.8,
+"source": "strava",
+"streak": 2
 }
 ]
