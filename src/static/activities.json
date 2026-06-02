@@ -27006,5 +27006,21 @@
 "elevation_gain": 48.8,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 18750112050,
+"name": "MyWhoosh - Sweet Spot 2x15min | MyWhoosh %FTP",
+"distance": 41495.8,
+"moving_time": "1:20:18",
+"type": "VirtualRide",
+"start_date": "2026-06-02 00:56:39+00:00",
+"start_date_local": "2026-06-02 08:56:39",
+"location_country": "Loma de Simon, Santa Cruz de Mompox, Isla de Momp\u00f3s, Bol\u00edvar, RAP Caribe, 132560, \u54e5\u4f26\u6bd4\u4e9a",
+"summary_polyline": "a|gw@tareMPc@BcA?ob@Cc@IUIGWIq@EmaA?]IWSM[I}@@uNDMpDCfH@XNLX@NDpJBLFJLFZD`^ALDHZ@dGAl@G\\EL[LyDAS@_@PiAjAMHa@FyTB[MoAmAYOmKCKFELC^@nJB^DJLF\\Drl@CnAFTTD^B`P@p@Hn@Rh@Zf@~DvENAtKcJ^a@LYD[?w@?mb@C_@EMKK[Ko@EaaA?c@IOGMMOa@Gs@@}NJKvL?b@DLFJLFd@DdJ@PHLNF`@Dt]APBFN@P@xFAr@Gb@ILa@H}D?QDm@d@w@t@OHQByTBQC]U_A_A]QaJEq@DILCb@?|IDr@HL`@Hvl@Ct@B`@FJHDPBb@BrO@t@Fb@Rn@^l@zDpEN@|CmCvFuEb@e@J[D_@?m@?gb@Em@GMKIm@K_@AmaA?a@OKMQa@Ec@?gODO|LC^BLFPTDZFvJNPVJp^@JFFX@tGGv@GLIH]DqDAO@_@RgAdAYPOB_UB[KiAgAc@WeKEMDGHCZApJDh@DJJFZDrl@CtAFLLFLBb@BtO@r@Db@J^Zl@dE`FLFZSnCcCdGcFHIN]D]?m@?qb@Gk@SWm@I_@AmaAAa@OKMOa@Ec@?mOHKlM?^NHLFb@DhJBPJH`@Lz]AP@JJBb@@fGAb@M^KLQB_E?QB_@Tw@x@]Rc@FqTBm@Y}@_A[Q{IEs@BKHGb@@~J@PFN^L`m@Ct@B^HJJFb@BbPBt@D`@Tr@^h@zDpEN?tKcJ`@e@L[BoA?gb@Cc@KUUK_AIkaA?MC[OQWMm@?sOBMLCjD?dG?ZBXLLXB`@BbJDLVN\\Dx]ALBFJBN@dGC|@KZYNO?yD?a@NiAhA]PsHF}K?g@Y_A_Ae@S}JCKDIHCZ?bKD\\HHZH~l@CjAFJFHJFl@BhO@|@Hl@Pf@Xd@|DvEJFd@[fC{B`G_FXa@FW@aA?mb@Iq@QQg@Ii@AeaA?a@MSYK[E_@?eOBOLEvL?\\DLDNZD\\BhJBLXP\\D`^?JFD\\@vGC^IZIJMFkE?m@XkAfAOHOBaUBg@UkAkAYKqICw@BIJEZAlJDj@DLJFZDzl@Cv@BZHHFDLB\\B|O@h@Dj@Nf@Vb@hDdE\\^JD~KiJb@g@HUBeA?oP?gQEc@KSIGWGo@CqY?",
+"average_heartrate": 149.3,
+"average_speed": 8.613,
+"elevation_gain": 72.8,
+"source": "strava",
+"streak": 9
 }
 ]
