@@ -27009,7 +27009,7 @@
 },
 {
 "run_id": 18750112050,
-"name": "MyWhoosh - Sweet Spot 2x15min | MyWhoosh %FTP",
+"name": "MyWhoosh - Sweet Spot 2x15min",
 "distance": 41495.8,
 "moving_time": "1:20:18",
 "type": "VirtualRide",
@@ -27020,6 +27020,22 @@
 "average_heartrate": 149.3,
 "average_speed": 8.613,
 "elevation_gain": 72.8,
+"source": "strava",
+"streak": 9
+},
+{
+"run_id": 18751196118,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3562.9,
+"moving_time": "0:37:39",
+"type": "Hike",
+"start_date": "2026-06-02 04:16:35+00:00",
+"start_date_local": "2026-06-02 12:16:35",
+"location_country": "\u6167\u5fe0\u8def, \u6167\u5fe0\u5bfa, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "sdbsFuxleUHTGjD?vABl@SxAGFmNl@qCDkCAqINsA@e@HiAMwAIe@?MEMQGYGiDEWI]Ek@JiAGmB@wCCk@Mu@Ae@DaACyBJsAAqBDw@Ve@DELE`B@`@A^I`@YPCrC@",
+"average_heartrate": 97.8,
+"average_speed": 1.577,
+"elevation_gain": 52.2,
 "source": "strava",
 "streak": 9
 }
