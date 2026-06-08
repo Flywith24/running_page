@@ -27182,5 +27182,21 @@
 "elevation_gain": 16.4,
 "source": "strava",
 "streak": 13
+},
+{
+"run_id": 18831642556,
+"name": "MyWhoosh - Recovery Ride 50min",
+"distance": 23642.6,
+"moving_time": "0:50:17",
+"type": "VirtualRide",
+"start_date": "2026-06-08 01:11:28+00:00",
+"start_date_local": "2026-06-08 09:11:28",
+"location_country": "14, Spoorwegstraat, Sint-Michiels, \u5e03\u9c81\u65e5, Brugge, West-Vlaanderen, \u5f17\u62c9\u8292\u5927\u5340, 8200, \u6bd4\u5229\u65f6;\u6bd4\u5229\u6642",
+"summary_polyline": "_}lwHitsRRQ^UXGT@LBTPPZL^z@zCtAtF~Ix^Ff@Bj@Eh@Sv@SZa@b@qj@fd@m@l@Q\\Md@e@bDkE|[OrAEj@?h@Dj@RpAJd@dElPLb@R\\VTLDZDZAf@QVOtP{MnB{AjDsCdBiAf@Wh@KZAh@FXHf@Vb@^VZ\\j@Zr@Tx@Jf@LvABvAInBYfBMd@[t@SZWVgk@ve@aAr@YN[H[?OCYQKK[s@uEsRMg@KIg@\\yIlHs@h@[JO@[A[KYSKMUa@Og@yDeQQg@Sa@YUg@UkUkIYQKMSc@Mg@kMcj@q@gDEeABeAJyA\\{Cv@cGtIan@`AgGPaAXy@HKLILA\\@\\HzCfAjJlDd@\\R^Jh@Dl@AdAEl@wCb[CbA?dABj@XjBx@tDbDpMFRL?lAcA~JyIb@e@HQNg@RwAzA{L~A{LXcCTuAFSR_@VWvXwUrQgOJIZMZCNBLFJJT\\dApDpLff@Jj@Dl@IdAGRS`@o@r@mj@dd@c@b@KLYv@YjBg@nD{@|G}A`Le@nDGbA@n@Dj@N~@lEjQNf@R^VX\\JZ@LA\\KZOxZiV|AaAZM\\Eh@AZFZJf@Vf@b@TZT\\d@fALf@P~@Fj@DdAA|AMxAUrAOf@[r@WZ{i@td@gBvAg@X]J[B[GWUKMQa@mFmTO?_KnIe@\\[N[B_@CME[QW[Yu@cE}QOe@U]YUi@SkUkIYUIMIQU{@oHi[uAkGq@oCu@eDMaACm@?m@FeATeCt@eGhJwp@lAqHT{@V[ZIZBbFfB~HxCXPJLR`@Jh@Bl@E|AqC`ZKlB?~@LfBN|@x@rDbDxMHLLAlM}KVWR]Ry@Hk@jF{a@Rq@^e@lk@af@d@WXEL@XJVXFN\\fAf@fBlLre@PnABj@K|@O`@SZa@`@gi@dc@y@p@_@b@Q^Ov@{@~FaA|H}BzPEpA",
+"average_heartrate": 110.5,
+"average_speed": 7.836,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 1
 }
 ]
