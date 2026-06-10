@@ -27230,5 +27230,53 @@
 "elevation_gain": 10.4,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18844980376,
+"name": "MyWhoosh - Sweet Spot 3x12min",
+"distance": 44561.0,
+"moving_time": "1:26:19",
+"type": "VirtualRide",
+"start_date": "2026-06-09 00:55:07+00:00",
+"start_date_local": "2026-06-09 08:55:07",
+"location_country": "Loma de Simon, Santa Cruz de Mompox, Isla de Momp\u00f3s, Bol\u00edvar, RAP Caribe, 132560, \u54e5\u4f26\u6bd4\u4e9a",
+"summary_polyline": "}{gw@nareMJYDm@?eQ?_QEo@MSo@Oe@AiaA?i@UQ[Ky@@kOJGvL?ZBXNLh@DhJFZh@Pn^?HJBZ@`GAl@G\\GJ[JiE?_@PkAjA[NO@qTB]E{AwAYMeKEKDIJE\\@xJB\\FLh@Jjl@Cn@@j@HRVB\\BzO@n@Hl@Pj@PXxDvEVRLEnK_Jf@k@H[BeA?qb@C_@OY[K_AEcaA?a@MMMO]Gc@?sOHKNA~L?\\NHNF`@DpJFNLH`@Fv]AP@HJBb@@tFAr@K`@]P{DASBQFsArAa@NaUDa@KyAuA_@KkJC_@FENC`@@zJJ`@`@H`m@Cr@B^JN\\@`@BzOBr@F^L`@d@t@hD`EXRrK_Jl@o@J]B}@?yb@Kq@_@Q_AGmaAA[KSYK[E[?qOFKfMAd@LNXDZBlJDLVNZDz]ANBFN@P@bGAr@K^MLOB}DASBQHeAdA_@Tc@FuTB_@QkAkA]O_KCODILCb@@|JJ^^J~l@CrAJPXBb@BjOFxAPp@PZpElFLALKdKuI`@e@L[DkA?ib@A]K]g@So@CyaAC_@SIOQq@?yOLKrL?`@BNFJLH^DvJFP\\Lf^@XFDH@Z@tFAx@Qf@YHoE@]ReAfA[NgUD[GuAqAe@SaKAKDEJEZ@hKHXf@Lnl@CrAFXTD`@B~OHxARl@^j@lDdEXRlLwJRYJ_@@{@?qb@C]I[KI]Io@CkaA?a@MMMO_@Gc@?eO@QNGpL?p@JHLH`@DtJDN\\Nd^@^HD`@@rFAt@Gb@KJ_@H}D?QDiAbAk@`@yHFmK?a@KyAsA_@M}JAOFG^?nKBPHJ`@Htl@CtAFTZB`@BxOFtAVt@V`@|DvEHFLCTQxJoI\\[R_@Dc@?o@?kb@Cc@KUUK}@I{aACe@[M[Go@?cODKLCfD?lG?j@JNZD\\BbJJZXJb^@\\FFX@`GCz@IZIJMFgE?QB]PiAjA]JmKD{H?e@YaA_Ae@S}JCMDGJE\\@bKF\\JHZDrl@Cl@@j@HJFDLDZBbPB|@FZNj@PXzDvETPLATQjK_JX_@FWB_A?wb@Ec@MUIEe@Ig@AsaACYOSUM{@@qOHGvL?h@FRRHh@BnJNPXJh^?L@LV@pHOr@WNiE?OB[PcAfAi@PsTB[E",
+"average_heartrate": 138.0,
+"average_speed": 8.604,
+"elevation_gain": 73.2,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 18846059008,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3454.5,
+"moving_time": "0:36:42",
+"type": "Hike",
+"start_date": "2026-06-09 04:17:31+00:00",
+"start_date_local": "2026-06-09 12:17:31",
+"location_country": "\u6167\u5fe0\u8def, \u6167\u5fe0\u5bfa, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "qdbsFacmeUD~DGvEDxGAnAkEFoDR{AAeEB_BKe@F{@Fc@?s@D}@?}CJg@CiB@w@G{AAMCKIEGEc@CgDMs@AW@k@?_DC}@@{@SaCDmA?aAEaAHuAAiAHgA@o@FOPKjAEdBMPEPKJCp@?XEhAB",
+"average_heartrate": 100.6,
+"average_speed": 1.569,
+"elevation_gain": 55.4,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 18849229220,
+"name": "\u508d\u665a\u884c\u8d70",
+"distance": 2834.8,
+"moving_time": "0:32:58",
+"type": "Hike",
+"start_date": "2026-06-09 11:04:23+00:00",
+"start_date_local": "2026-06-09 19:04:23",
+"location_country": "\u5b89\u6167\u6865\u5317, \u5b89\u7acb\u8def, \u6167\u5fe0\u5bfa, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "wdbsFs|leUFrB@xHHxA?`@B?CAMBIXI`BF|@BtAJhA@x@BHF@FA`Ag@x@Qt@GZ?`@G~AMVB\\Cd@?hBNbAZf@FZH\\DZNn@Pn@VXHVBPCBUIwABmACi@AsBCOEGmA@_CR{@AoDQyALo@Lu@BuAKaA@{@Eo@@E{A@u@KcCCgADeEGaF?uA",
+"average_heartrate": 95.0,
+"average_speed": 1.433,
+"elevation_gain": 51.2,
+"source": "strava",
+"streak": 2
 }
 ]
