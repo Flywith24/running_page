@@ -27326,5 +27326,21 @@
 "elevation_gain": 13.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 18872834708,
+"name": "MyWhoosh - VO2max 5x4min",
+"distance": 38730.1,
+"moving_time": "1:15:42",
+"type": "VirtualRide",
+"start_date": "2026-06-11 00:56:47+00:00",
+"start_date_local": "2026-06-11 08:56:47",
+"location_country": "Forest Route 7N27, Calaveras County, \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde;\u52a0\u5229\u798f\u5c3c\u4e9e\u5dde, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "q}tiFxap}U?~BXfA\\^zKfGz@Sl@cC`@o@z@OxKhCjYCjAPxBlAbATfP@x@UHan@I{AcAiA}[{SSYFy@lDwLe@w@yAeAw@S{E^wDc@eCmAo@@{BbBqLbLu@~Ai@zBCnATfAzAdBtNjIRZ?x@y@hCi@RoE{B}@HaGzQiIsEcECSp@AhAVbAt@rABfDSvDw@rAIpBJv@Z~@b@^tHpEdBl@r@c@z@yC`A]zLjCfXElAN`EdB`P@h@A^YBwn@IeAi@o@_]yTKUDm@hDaLDWMg@qByA{@UwE`@iEm@oCgAoChB}KjKyA~C_@hCV`BfAtArObJJbA_@|Ag@bA[DsE{BaAPyFrQmIsEeDM_@ROf@AfAJl@z@xAHdAMnGu@tAM`A?xAVpAbA`AlGtDxB|@n@[~@aDj@]b@?nLjClXEbB\\bDvA`P@n@CXWBsn@OsAi^cV?_AhD_LD_@Wk@gBqAu@QeD^iBEaDi@wBcAe@FgBrAwL`LuA`DWvBXrBhAlAnObJJn@Y|A]|@q@ZyDuBw@Ia@VqFlQc@GkHeEsCOs@NQh@@|A`AnBJbAMrGMf@e@l@QpA@lAXtA\\b@dI|EfBl@l@_@`A_DdA[bLhCzXChANfEdBxO@hAUFeo@OgAa^{UIaAhD}KDo@GSsB_Bs@ScD^gBEkC]wCoAkB~@oMtLqAjCc@jCVtBdAnArOdJJbAg@nBe@r@g@@mDsBu@IYLqFfQSRmIwEyD?Sh@CpAXfAp@hAD|@MhGG`@m@x@OdABhBXbA`IdFdCdAx@m@t@oC~@]hLhCbYClAPfCrA`ANnO@dAUHeo@OgAc^{UK]Bc@jDgLDc@M]aDkBkD^gBE}Cg@mCgAaC~A_MlLiAvCYtBNvAv@lAbPrJR\\?b@g@vB[j@k@JkDqBk@Mk@L_GxQqIuE{D?W~@@dAdA|BHbAOxGs@nAQtADxAX~@\\b@fGtD~CtAp@_@~@}ChA]bLhC~XClAPlCtAt@L~O@z@UH}n@KkAk^gV?cAfDyKDa@Ka@aBmAcA_@gD^iBEgC]{CqAgAd@iNjMgAxBp@{A_AtBe@tCVdBz@jA~OnJJdAa@`Bc@v@g@HoDuBqA?a@x@sEpOSRmIwE{D?Qj@CnARz@v@tAD|@MlGu@rAM~@CrAb@hB~IvFbBl@j@WfAiDbAYdLhC~XCbB\\vCtAlPBx@KP]AeH",
+"average_heartrate": 148.0,
+"average_speed": 8.527,
+"elevation_gain": 46.2,
+"source": "strava",
+"streak": 4
 }
 ]
