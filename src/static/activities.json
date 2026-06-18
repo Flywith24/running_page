@@ -27534,5 +27534,21 @@
 "elevation_gain": 17.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18966040730,
+"name": "MyWhoosh - VO2max 5x4min",
+"distance": 36060.2,
+"moving_time": "1:15:19",
+"type": "VirtualRide",
+"start_date": "2026-06-18 00:52:23+00:00",
+"start_date_local": "2026-06-18 08:52:23",
+"location_country": "410, Khamtoe Lam SE, Chang Jiji, Chang\u683c\u7a9d, \u5ef7\u5e03, Thimphu Dzongkhag, \u5ef7\u5e03\u5b97, 11001, \u4e0d\u4e39",
+"summary_polyline": "_grfDaudbPhBrBzCYx@gBHkFt@u@~REb@YhEXrA_@jAaCSiCcB}AiEMmBw@u@}Bf@qClCkAdHT`O[~As@n@cCUwBqAoAwJ_@IoDYg@oHBc@~EyI@}BmAw@eFuAuAwLMmAXaAfA]vABne@T|@U^?dJ^pBxAdAbB?vAeAXsGp@gAfSGh@Y`EXvBaAj@}C{@aCcBq@oEOcByAOsCtA}BnB]~EAh@Zj@YlMArB}@j@sBWaCeAgAyJ_@SaEY[gH?U\\Q`EaJByBoAu@aF_AiAgMY_Bb@aApASrADtd@V|@Wn@?tI\\xBzAfAhB?lA_AXkAD}Ep@y@jSEd@Y|DXbCoA^sC{@}BsAm@cFW_ByAMiCfAyBpBg@tFA\\XhO[jB_Ad@gC[qBcBmAwIOQwDe@k@gHJc@zEsI@eCwAu@gFeAcAmOBaA~@a@`BBne@Vz@W\\?`Jd@`CrA|@fB?nA}@XkAD_Fr@y@hSEb@Y|DXzBaAj@}Cu@yByAu@eFWaB{AG}CpAmBnB]fGVtO_@dBeA^gC_@mBsAaAgJWc@}EyHFa@zEuI@aCuAm@oEcAwAqMYwA`@y@bAYvABfe@Vx@Wl@?tI^xB|AhAzA?pAw@^yADyEz@{@bSC^YzDXzB}@n@{CaAiCoAk@}ESaBwASeC~@{BhBm@fXEvBgA`@}BUiBgAiAyJ]QuD_@k@cH@i@bFyI@eCwAs@gF}@aAuO@aA~@a@`BBne@Tp@Uj@?`JZnB`BlAlBEfA_A\\}Gp@aAtT]hDV~Bu@t@{Cy@kCuAq@_FSaBwAO{ClAuBrB_@pGVzN[dBq@p@oCUkBqAqAsJYc@}EoH?Wr@?rCW\\wIAyBoAs@_FoAqAgO@mAtAY|ADzd@V~@W`@?dJf@|BlAx@nB?fAy@\\qAD{Ef@u@tSKd@Y`EXvBcAh@{C}@aC}Aq@mEOiByAQgCbA{BbCk@nGVzN[lB{@h@uCYcBaAcA}J_@Q{D[c@iHDi@~E{I?yBkAs@cFqAuAcMOwAd@y@fAWtAD|d@Tx@Uh@?|I^zBrAdAvBCbAw@ZmADyEn@}@tTa@|DXxBcAh@sC}@iC}Aq@wEQ_BwAM{CrAuBlB]hFA^XbO[nA_@|@yADuBk@eBeBw@aIKS{DYa@mHBi@~E{I?kA_@y@eA]oDg@kA",
+"average_heartrate": 144.8,
+"average_speed": 7.98,
+"elevation_gain": 143.2,
+"source": "strava",
+"streak": 3
 }
 ]
