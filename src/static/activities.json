@@ -27489,7 +27489,7 @@
 },
 {
 "run_id": 18952174823,
-"name": "MyWhoosh - Z2 Ride 70min | MyWhoosh %FTP",
+"name": "MyWhoosh - Z2 Ride 70min",
 "distance": 33199.1,
 "moving_time": "1:10:11",
 "type": "VirtualRide",
@@ -27500,6 +27500,38 @@
 "average_heartrate": 118.3,
 "average_speed": 7.884,
 "elevation_gain": 54.6,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 18953388664,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3150.9,
+"moving_time": "0:32:57",
+"type": "Hike",
+"start_date": "2026-06-17 04:20:14+00:00",
+"start_date_local": "2026-06-17 12:20:14",
+"location_country": "\u6167\u5fe0\u8def, \u6167\u5fe0\u5bfa, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "odbsFyyleU?vAB|@AjBHrDAHSFi@?}@JmADaAHoA@qAHc@?k@DuC?Q@EAOBi@?{BCcDHaBHyADk@?cACmAKo@?]IMMGSCoDEWKe@GaADaA@sFCe@Ko@BiBEeBBkA?s@Fu@@iBNYNGz@ElBBLCVSZEdAA`@E`@D",
+"average_heartrate": 93.7,
+"average_speed": 1.594,
+"elevation_gain": 9.6,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 18955892791,
+"name": "\u5468\u4e09\u4e03\u516c\u91cc\u6709\u6c27",
+"distance": 7033.3,
+"moving_time": "0:41:12",
+"type": "Run",
+"start_date": "2026-06-17 10:12:36+00:00",
+"start_date_local": "2026-06-17 18:12:36",
+"location_country": "\u5a18\u5a18\u575f, \u5965\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100120, \u4e2d\u56fd",
+"summary_polyline": "qkbsFurkeUa@^o@x@}A~AkClBkAp@IJCD@BF?XStAmAb@Sp@e@d@QLI`AiAn@}@\\]RYp@u@d@a@dBeA|@c@vAe@jAW|@IfAA`AHlDv@v@X~B~ApAp@~@\\HA@CAESMqAa@i@a@yDkBs@UqAWqBHuBRaA@}@HcBT]N_Az@s@d@aAbAm@\\mA`Bu@n@k@\\y@x@sBxAIJAJF@NEh@c@b@SfAoAd@]~A{A^Uz@aAh@s@zAsAn@a@v@q@dA]rAI`@?t@Oh@G|@@nAJlB\\pA`@VLp@f@lBhA^Xt@RH@HE?EEC}@Ws@[k@UgBgAqAi@kAQi@Mc@?s@EgABy@KO?_AVs@BMDc@Va@F[LaBdAa@Zi@j@aBfAoAbBy@x@aBlAi@Zk@^YZ?LDApA_AvAoAp@Wn@w@r@c@h@o@h@c@dA{Aj@i@nAw@b@UnAc@v@Sx@I~@QnAEVDZNx@@lATb@L`@Xx@Zf@\\bB|@zAj@L@DA?CEG{@[q@I[Iq@_@iAi@q@Us@a@w@Ug@Gk@OcA?_@CY@aE`@k@NWJw@l@kAl@eAhA}@v@y@`AeAz@w@|@WNo@Ry@x@_An@GFAJDAHEnBuAfA{@x@c@h@g@l@g@jAcB",
+"average_heartrate": 146.4,
+"average_speed": 2.845,
+"elevation_gain": 17.0,
 "source": "strava",
 "streak": 2
 }
