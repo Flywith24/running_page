@@ -27806,5 +27806,37 @@
 "elevation_gain": 54.2,
 "source": "strava",
 "streak": 10
+},
+{
+"run_id": 19122952794,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3566.6,
+"moving_time": "0:38:26",
+"type": "Hike",
+"start_date": "2026-06-30 04:19:42+00:00",
+"start_date_local": "2026-06-30 12:19:42",
+"location_country": "\u5b89\u7acb\u8def\u8f85\u8def, \u6167\u5fe0\u5bfa, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100029, \u4e2d\u56fd",
+"summary_polyline": "wdbsFq`meUDdBBTQbGN|@AhAJ~CCEkANe@EaA@_@Bg@JeELy@?m@DqAG}@BA??C?BK@}DAkBFwA?_CGQ@QJ]?o@CiA@iAIMOIc@CaABs@Am@CUKg@?yEA}CSuADiACiANwCIiCB]Pk@LI~@EhA?f@K\\ULEtAAhAF",
+"average_heartrate": 83.0,
+"average_speed": 1.547,
+"elevation_gain": 51.6,
+"source": "strava",
+"streak": 11
+},
+{
+"run_id": 19131791633,
+"name": "MyWhoosh - Z2 Endurance Ride 70min",
+"distance": 23121.9,
+"moving_time": "0:46:36",
+"type": "VirtualRide",
+"start_date": "2026-07-01 01:11:06+00:00",
+"start_date_local": "2026-07-01 09:11:06",
+"location_country": "14, Spoorwegstraat, Sint-Michiels, \u5e03\u9c81\u65e5, Brugge, West-Vlaanderen, \u5f17\u62c9\u8292\u5927\u5340, 8200, \u6bd4\u5229\u65f6;\u6bd4\u5229\u6642",
+"summary_polyline": "i}lwHatsR^[VOTIXAJBTLTXN^z@zCfLbe@VdB@h@Ej@Mb@Q^m@l@_j@xc@c@^_@f@Ob@ER{@vFoBlOkApIOlB@`AL~@Jf@nElQPb@R\\XRLDZBZCZKXQfZ{U~@o@f@YZMZGZAj@DZHf@VVTd@f@h@|@f@~AN~@JpB?l@GzAYjBUx@Sb@U\\WVel@pf@y@f@[J_@?[IYWSc@Og@eAsEu@uCwA_GESKOMDaLjJ]L]BOA]I[UW]Qg@}DkQY}@U][U[MkUkI[QMMSe@W}@aBmH{Ik_@m@yCIm@CiADgAHgAXkC~@gHpFo`@z@}FFm@p@oEz@cFLk@T_@LINCNA\\FrCbAhKzDXTJNPd@Hl@@n@EfAGdAkCpXI~A?fABl@RxA`@jBlAfFvBrILFhMwKd@g@Ta@Lk@NeApAmK|AwLd@yDNeANg@HQb@e@v\\gYjMqKh@Y\\CNBLFXZPd@n@zBxJv`@fAvEJfA@VGn@Qf@U`@e@f@mj@bd@e@d@U^GRSbAs@bFcAbIwAhKe@vDEhAL|AJj@pErQZv@JLZRND\\@NCj@QXS`ZwUdAs@h@Yn@M\\Al@FZL\\Pf@b@b@j@T`@Zx@Nh@NbAFn@DfA?p@Cn@KfAObAW|@Ub@U^g@b@ek@ve@i@`@]P[J_@?[IYYSa@Oi@q@sCqCeLU_AIQMDMHuK~I[N]B_@C[O[YIOKQOi@yDiQISn@jCo@mC]q@g@]iUkIk@WKKWa@s@uCuLah@e@eCEq@?o@PoCb@yDjDiW~Foa@n@uDPg@JOLKNCLA^FpDpApI`DZLZTJNPf@HfA?n@En@e@lFqBtSEfA?hAPrBr@jDzC~L^rAJF|AqAtJoIXYTc@FSPeA|Eg`@PaANg@JMb@e@bLqJ~]gZ\\Q\\E^FJJJLTb@n@|BnLxe@T`AFn@@n@In@Of@W^YXmk@de@",
+"average_heartrate": 121.3,
+"average_speed": 8.27,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 12
 }
 ]
