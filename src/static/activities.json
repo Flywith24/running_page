@@ -28174,5 +28174,53 @@
 "elevation_gain": 13.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 19302935671,
+"name": "Mywhoosh-Sweet Spot 3x15min",
+"distance": 45025.8,
+"moving_time": "1:25:26",
+"type": "VirtualRide",
+"start_date": "2026-07-14 00:43:49+00:00",
+"start_date_local": "2026-07-14 08:43:49",
+"location_country": "Loma de Simon, Santa Cruz de Mompox, Isla de Momp\u00f3s, RAP Caribe, 132560, \u54e5\u4f26\u6bd4\u4e9a",
+"summary_polyline": "a|gw@tareMPg@BaA?ob@Ee@KUs@Qg@AoaACg@[M[Go@?cODKLCvL?h@JNZD\\B`JH\\XJd^@\\FFZ@`GC|@KZYNiE?_@N_A~@g@ZsHF_L?g@YaAaAYOoKAKFE\\?fKDZHJ\\Fzl@Cj@@j@HNVB\\BvOFzAHZ^r@fEbFL@JE~JsIh@g@Pc@DmA?gb@A]K]KI]Im@CsaAAk@]Oc@Ea@?iOFMbMA`@FTXFb@DnJFN^Lx^@HL@P@fGCt@K^]N}DASD_@Tw@v@]Tc@FsGBaL?_@QkAkA_@O}JCODILCb@@zJJ`@^Jtl@CtAFVVD`@BpOHdBLb@Zj@dE~EN@JInK}I^e@J]B}@?sb@C]I[[O}@GoaAAa@OKMOc@Ea@?mOJK`M?f@LNXDZBbJFZXLl^@XHD\\@bGCv@KZYNM?sDAOB]Po@p@s@f@mUD[KgAgAc@W}IEu@DIHCZ?fKH^\\Lzl@CtAFTXDb@BnOBfAF`@L`@Zh@`EzENDfLuJTWJ_@BkA?kb@Ik@USmAKaaA?o@YQ]Ie@?sOHMzD?zF?`@BNFJLH^DnJBPHJ`@L|]AN@LJB^@tGC`@O^_@HmEB]Tw@v@]Tc@FmTB_@KmAkA[SmKCMHG^?fKH^LF`@Dll@CpAFTXDb@BlOHdBJ`@Zj@hE`FL@xKgJX[P]DoA?ib@Iu@SQeAKoaA?[KSOM[Im@?eODONCjL?`@BNFJLHb@DhJ@NVV^D|]ANFF`@@`GCp@K`@a@NwDAUDSHcBzAa@D{GBkK?_@G_ByA[KkJCc@HENCb@@rJH`@^L~l@CtAJJHHr@BvOHvARl@\\j@`EvENApKaJ^a@LWFqA?mb@Ca@M[a@Oq@CoaA?_@MKMO[Ia@?wOHMzL?p@NJNFb@BjJDLHH^L~]AL@LJB^@zFAr@K^OLSByDASDa@Vu@v@k@XiUDYKyAsAYMiK?KJE`@@jKLXZHbm@ChAFTTFj@BzOJxAPh@Zd@hD`E^Z~KiJb@g@FUDmA?ib@Eg@OWy@Q]?eaA?q@_@MYGm@?_O@OJG`M?\\FLJLj@DpJBJVPZD|]ALBHJ@P@`HC\\K\\_@NaE?SDaBzA]JaUDYG}AwAWKuGA",
+"average_heartrate": 148.6,
+"average_speed": 8.784,
+"elevation_gain": 73.8,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 19304146258,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3345.1,
+"moving_time": "0:26:15",
+"type": "Hike",
+"start_date": "2026-07-14 04:18:33+00:00",
+"start_date_local": "2026-07-14 12:18:33",
+"location_country": "\u6167\u5fe0\u8def, \u6167\u5fe0\u5bfa, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "_ebsF_emeUAbBIpCMjAj@lACzIH`@?X]Jw@Fa@@a@AkIXi@JcACcADiRqh@ZH^BhCEz@Br@Hv@A~ADxCAdAHtCEp@B~@Nx@Fb@Er@Mh@??Bf@@x@?HEFQC@EEAk@EoB?kC",
+"average_heartrate": 101.2,
+"average_speed": 2.124,
+"elevation_gain": 48.0,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 19307944089,
+"name": "\u508d\u665a\u884c\u8d70",
+"distance": 2003.9,
+"moving_time": "0:19:59",
+"type": "Hike",
+"start_date": "2026-07-14 11:09:49+00:00",
+"start_date_local": "2026-07-14 19:09:49",
+"location_country": "\u6167\u5fe0\u8def, \u6167\u5fe0\u5bfa, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "cebsFehmeUFjEH`AFhCOh@CnC@dBFxBLhBH@fBGjCEd@En@AlAKr@?~AQt@AZD\\InAIR?^Bv@CHEDG@IO_GFiAE_ADU@OGw@@a@Ci@Ee@Ic@u@eBQQYGw@?i@A{@BiAGQGIIEUCoAGsACIOSGOEO@US_@WKeAMO?a@DaAGo@B",
+"average_heartrate": 92.7,
+"average_speed": 1.671,
+"elevation_gain": 51.6,
+"source": "strava",
+"streak": 3
 }
 ]
