@@ -28353,7 +28353,7 @@
 },
 {
 "run_id": 19369955348,
-"name": "\u6668\u95f4\u9a91\u884c",
+"name": "\u6298\u53e0\u8f66\u6e05\u6cb3\u5237\u5708\uff083 \u5708\uff09+ \u53bb\u7a0b",
 "distance": 62848.5,
 "moving_time": "1:58:03",
 "type": "Ride",
@@ -28364,6 +28364,22 @@
 "average_heartrate": 133.8,
 "average_speed": 8.873,
 "elevation_gain": 92.0,
+"source": "strava",
+"streak": 8
+},
+{
+"run_id": 19370482843,
+"name": "\u6298\u53e0\u8f66\u6e05\u6cb3\u5c0f\u8def\u63a2\u7d22+\u56de\u7a0b",
+"distance": 17254.0,
+"moving_time": "0:52:19",
+"type": "Ride",
+"start_date": "2026-07-19 01:31:05+00:00",
+"start_date_local": "2026-07-19 09:31:05",
+"location_country": "\u6e05\u6cb3\u6ee8\u6c34\u6162\u884c\u7eff\u9053, \u5317\u4e03\u5bb6\u9547, \u660c\u5e73\u533a, \u5317\u4eac\u5e02, 100012, \u4e2d\u56fd",
+"summary_polyline": "e}psFknweUy@L}AOoA?oAR[@c@EKIOCcBKe@BmBIcA?WD[I[Ra@D_@C}@Wm@GiA@m@HaCK}@@ICUQ{A]a@Gs@SUAYJa@?KBi@OW_@[MKKKe@S]e@[m@U]SGSEs@CCQEMYYIgAmAuAuB{@gA}@yBk@cBeBkG[}CIc@Qq@a@}GMyAGyA_@}D@m@OkEJsELyBAGAAC?W`IQhBB~@AdA?LDB?FE~@Z|CLb@^x@H^TbFF`AP`A^vCN~@zAxFTv@hArCR`@n@t@fA~A`AhAT`@BRCd@U`B@RDDLHhBn@tExAF?AIBAX?\\KPAPB\\P\\B~A\\NFJHLDvA?bBLx@Ih@Aj@@LB`AZVB`@Eb@SXBTCjABfBJt@?~AD\\Lj@BP?z@M|@Ef@@v@Dd@F~@Mt@D`@DbBED@@BE\\FF|@Fn@A|AIzCIDABE{@DIAACHKPEf@?`AKL@NFNPVJhDp@PJ@I[GKG`@UHDrA^`@PrAv@fDdCr@v@~@lArAnBdA|Bx@rBb@`Bp@zC^jCLzATlDHdDAj@DtAAtABlCBxAJlD@xCExFIbA@b@HLAC?SAhCI|@FrE?l@EHBJAdABz@ARGXCDIBCBAb@BxAAVAvD@pSBt@PnBBv@CtEBfFDdAj@jIFlCKYE[@[A[u@oICkC@CFC~C?NBDD@JNvBJdAd@rFVfBt@fEj@jCr@hCf@|Av@vBh@lAzCzFfCvD`BtBBH?TJVZXNJ\\NTDtBBdBLv@NhBp@fCtApAx@l@\\fFlDfHpEdEtCTXl@j@tAbBl@dAjAnCpAlDl@nA`BdEXl@R\\z@jATRv@h@`@VpAd@xBTTXF\\HJPFTC`@]h@]hDaBjCgAlAq@r@YrBaAd@OhCm@x@MhAKrC]vAIdC_@xBo@jAm@tAiAvAcAt@a@dA_@~Cm@`Gs@PIHCvAWfDWz@Kv@?~@FjABhB?xECnJLbCNfBXlCXl@BfEDhBAvBDnMCnINpCZvAVlEh@v@Fx@PxBRjBZnGz@bE^pDF|@?hCIpA?hBELGZ@z@SlCUzAYv@G\\AbBSrBMzCYrASt@EfHo@bAGTEJLDLCf@?tAHzCBhFL|J@vDJvGAnAHfBCn@G|DTDj@BDTDt@FXd@@^Hf@@v@Jp@Bt@C^EZ@xBAzC@^BPD`@@xCE`DD",
+"average_heartrate": 125.7,
+"average_speed": 5.497,
+"elevation_gain": 51.0,
 "source": "strava",
 "streak": 8
 }
