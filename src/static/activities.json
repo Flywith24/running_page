@@ -28414,5 +28414,21 @@
 "elevation_gain": 17.4,
 "source": "strava",
 "streak": 9
+},
+{
+"run_id": 19396970107,
+"name": "MyWhoosh - Z2 Ride 80min + Cadence",
+"distance": 39066.4,
+"moving_time": "1:20:13",
+"type": "VirtualRide",
+"start_date": "2026-07-21 00:53:28+00:00",
+"start_date_local": "2026-07-21 08:53:28",
+"location_country": "134, Dufourstrasse, Seefeld, Kreis 8, \u8607\u9ece\u4e16, Bezirk Z\u00fcrich, \u8607\u9ece\u4e16\u5dde, 8008, \u745e\u58eb",
+"summary_polyline": "oq``Heves@oBc@mHo@OCCQVkJCcJSaFg@{GH_@ROjC_@Xk@LaVIwCjG{C`FeGjA_AnFsBbAo@l@{@jAmFxE}FXLhGdPjC~DpBlBxBrAjCdAzM`D|FnBpDlBtBvB~AzDb@rB`@bDLrC?nUeSJsALeA`@cAlAc@vBC`YIf@cY@qE\\cB~@mH~LiDuEs@uAg@cBgByJkAqB_BeAgBm@}JkAVaLCuFWsHe@eGRo@tCc@Xs@LkUGmD|FkCfHcIfIqDt@uAbAsEzE}FLD\\t@vDhKjAfCxBdDzBvBdBdAnCfAhM|CnGpBzDtBpBpBbBdEn@dDRlBL~C?~TYJwR@eCh@gAlA]lAK~@GtYcZD}D^cBfAqGzK[XoE}Gs@kC}AoIw@iB{AmAcC}@{JeATkLEsHQyEi@}GRm@tCe@Xq@LmUIiDzFkCvAwAvCyD`A{@jGcCx@i@t@yAn@kDZw@rEgFVZhG`PbCtDrBnB|AbAtClAvNlDhGtBrCzAzB|BbBbE^dBb@jDLvCAnUcSFsCj@iAnAc@|BC~XKd@eZB_E`@qAv@mH`M{CcE}@aBm@sBaB_Ja@iAa@k@_BkAsBs@}JkATyI?aHOeGq@gIFc@RWfC]\\k@PiVIwC|FkCnFqG`Ay@|F{BfAu@j@eAlAgFhDgEt@i@`HdQbBlCjCjCpBpAjCdA|MbDfGpBpDnBpBrB|ArDl@nC\\xCJdC?tUySLeCl@q@p@]r@YhBCtYaZJ{D\\eB`AkH|LgDsE{@cBgCgMWw@o@{@mA_AuBw@aKeAGQX}KEcHUaGe@cGPo@rCe@\\k@LeVIuCzFmChHeIhIqDt@wAh@wCb@kApEkFVRfEfLrAvCbClDrBhBnBlAfC`AzLtCrHdCrC|AzBzBbBdEn@bDRlBL|C@|TYNaSBeCj@o@p@]r@YfBC~XKb@oY@qEb@qAr@kH`MQ?kE{Gs@iCuAyH_@oAk@{@qAaAsBw@kKqATwI?_HOeGo@yIVk@dC[^e@ReVGgDzFiCzE{FxAsA`G{BfAy@f@gAh@yCb@kAlEiFXNhEhLrAxCbBfCnClCxBrAxBx@jNhDjGtBbDfBlBtBbBbEbApGJ|C@zTYNcSBeCn@iAzA]tBGvYcZDsD\\aBx@sHdMwEcHa@sAmBeK_@aAs@_AuA_AgBm@}JeAGQX}KEmHYaHc@sED_@PUfC_@VOLa@L}UEgDzFeC|G}HnIuDj@{@`AqE`@_AhE{ETT~EtM|AzC|CtDzCtB",
+"average_heartrate": 133.5,
+"average_speed": 8.117,
+"elevation_gain": 95.6,
+"source": "strava",
+"streak": 10
 }
 ]
