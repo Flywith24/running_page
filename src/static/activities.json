@@ -28686,5 +28686,37 @@
 "elevation_gain": 48.2,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 19536839780,
+"name": "MyWhoosh - Optional Recovery Spin 40min",
+"distance": 17092.8,
+"moving_time": "0:40:20",
+"type": "VirtualRide",
+"start_date": "2026-07-31 01:00:26+00:00",
+"start_date_local": "2026-07-31 09:00:26",
+"location_country": "Forest Route 7N27, Calaveras County, \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde;\u52a0\u5229\u798f\u5c3c\u4e9e\u5dde, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "q}tiFxap}UEf@BbAN`AXj@ZXtCbB`@Rx@h@fCtAf@Fb@SVk@VoAVo@VSXG\\?f@HtBl@`AHzBr@z@RpU@lBEpAP~@b@\\Vr@Xr@LzO@r@GLMDS?WA{d@BsGCk@Ke@W[YUi@WuByAgLmHWSgAo@UUgDqBk@a@a@_@I_@B_@xAuEtAyE@QCWIMwB{Ai@Ow@?qB^{@?m@E_BSeAUa@Qk@c@WK[CYH}@l@cErDwAtA}AtAeBbBe@x@k@xAQv@KlA?\\Jz@Tf@n@t@pAz@vL~GTRL^?RGb@[nA_@t@WJM?e@K{AgAo@]e@Mg@DKFQVwAhFeC~HOVUCuA}@eFsCu@?mBII@UPMd@Aj@Dt@Rp@l@~@DLBZ?rCO|CGXY^IDKVGZEx@@x@D\\V~@X^`Af@tCdBtA|@`Ah@f@P\\?XIHIN_@^cB\\k@JKZG\\?dATbAZxB\\`Ct@d@DtT?~@E`A?`ANpAn@NLp@Xb@JlPBr@GLMDSA}V@SJO`J?NB~B@vEA~@MZMv@m@j@Up@GtDKzAK`ASp@UxA}@rCeCtBqBFKVOj@m@pAq@z@QpAAl@HfAj@D?TTZNt@f@VJ`@Tn@Pj@JtD?jFz@pA@xAWp@[r@g@xBeCv@s@~@i@f@OhAKdA?~@JxBb@j@Dx@?|@OlAg@j@c@f@g@x@mAd@_Bp@gEj@qCj@yAd@w@z@_A`NiMNIzA{A`Ak@NEt@Ab@JZX`@p@Rv@Lx@Dv@Af@Ir@Kl@K^g@pAwBtDmA|BwA~Be@~@c@lAYtAEj@?`AT|CDhAGzAGl@S|@u@jBk@~@mBpCm@bA]v@[nAK`A@vADj@PbAX|@xApCRf@`@xAHr@LxBTtKLz@HX\\h@x@hABXArD?fFBhBJJlI?\\BJLFd@?vDBZHXNRv@h@jAn@`@LVKLKb@cAPo@\\u@LIPEXHZ\\|AzCNLXFRELILSxDaKNURITAfAj@pAI\\TLRFj@?dI@pAFHJ@dI?ZDLJDLBT`@pH@\\Ax@If@IRW\\w@t@uA~AOZKj@Kz@AlESnBSjAIdA@d@RhAXz@JRNHrADvG?JDDN?lIBbDTdC\\fBLv@PrCH^NRZLXERMT_@Ji@FcA?wC",
+"average_heartrate": 114.7,
+"average_speed": 7.063,
+"elevation_gain": 90.4,
+"source": "strava",
+"streak": 6
+},
+{
+"run_id": 19537877798,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3297.6,
+"moving_time": "0:36:55",
+"type": "Hike",
+"start_date": "2026-07-31 04:14:47+00:00",
+"start_date_local": "2026-07-31 12:14:47",
+"location_country": "\u6167\u5fe0\u8def, \u6167\u5fe0\u5bfa, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "cebsF}gmeUBrCNdAFx@ClA@lBEzJ@xAAj@GTGCMUi@oBcCoMq@eBQOOEO@OFQNOTSd@It@B`AJ~@XjA\\`AXzAE~BIJQNoAh@i@Js@BMDe@Xi@FWEOIW]MYc@CaD@mBJcAAmAJaDUiALiAVi@AMIEMGc@MaCIeE@e@As@?kEAe@Mq@?k@B_AEeBBg@@gDHgALa@NGdAG|ACTGRQJGh@EfDL~@A`@Bd@?LCHGJ@`A?l@DbBAp@HzBCbADp@Ap@FrAE`AN`@BBEHC~@Gn@BB[G{@ByAEiB@m@",
+"average_heartrate": 90.4,
+"average_speed": 1.489,
+"elevation_gain": 54.4,
+"source": "strava",
+"streak": 6
 }
 ]
