@@ -28910,5 +28910,21 @@
 "elevation_gain": 10.2,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19689366266,
+"name": "MyWhoosh - Easy Z2 Ride 60min",
+"distance": 28463.4,
+"moving_time": "1:00:18",
+"type": "VirtualRide",
+"start_date": "2026-08-11 00:41:38+00:00",
+"start_date_local": "2026-08-11 08:41:38",
+"location_country": "Loma de Simon, Santa Cruz de Mompox, Isla de Momp\u00f3s, RAP Caribe, 132560, \u54e5\u4f26\u6bd4\u4e9a",
+"summary_polyline": "{{gw@nareMJ[Bo@?kc@Im@QQgAKuaAA[KSWK[Ei@?gOFI|LAf@FRRHh@BfJJVVJp^@LBFHBZ@xGKv@UP{EB[PeAdAi@TyTBg@OgAeAc@WiKAKFELC^@jJ@\\PXZDxl@CjAFVRFl@BtOHxAVt@d@p@tDhELAtKeJj@u@FoACqc@S_@qAOmaAA]MUWO}@CsO_RGwBMcCi@sDqA_Dw@eCa@aFo@eDq@eBe@cE}AqBiAqAaAeBaBcAkA}AkCgCaGeA}Ay@s@kE{CcG_GoEmDfA|@aAw@{DaD{@}@mAcBsB{DiAgB}AkB_KuKyAqB{@{Ae@uA]gBImA?mAXyB`BcGp@sD\\eCHiBEoAMwAaAuGIkAAgBNyA`@eBx@{A|GsG`CeCzB{Cr@}APy@H{@LsHN{B^gCbAkFYOwPuDwDkAuBgAqAeAkA_BUg@Sy@EoAB}@L{@\\iAf@aAh@k@z@q@r@]j@Qz@Il@@j@J~@h@rBzBz@n@t@ZvAL|@Gh@M~@i@j@_ATi@Ry@J{@DkA?qDSoIQcBm@qAiAqAaCgBiA]o@EkCLm@?m@IuBiA]c@KYMuBAcBL_EN{BPoARu@^o@h@a@`Be@bBI~@Fl@LdAf@z@r@j@~@b@jCZp@hAdAxCzBn@^d@Lh@Dz@IjCw@tAOdAB~B^~@@|@Mh@W|@}ALk@Bm@Im@Wi@w@q@sA_@gBCwCL}@K_A[iAu@_@u@Ic@?g@RcAl@y@b@UtBi@dAKzHBlELdAJzBl@jChBTVNZJj@NzDPn@`@h@vBxAz@\\`AVdEr@tA`@hAd@x@t@h@z@dCdGALKHaGxBs@b@aF~DoBnAkBx@eARk@BgBEk@Ii@W_@]]k@mBaEi@}@yAyAuBoA{@Mm@Fg@Rc@Zc@p@[bAG`AD~JL`AjAjCXjADjAMnAi@nA_A~@q@`@w@VyBTw@Tq@d@s@hA}@hCm@dC{CpMu@vDa@vCG~@KtGIfBa@dBk@nAsAjBqBxBqIhI_@j@e@hAa@xBEfCL`BbAfHL|AA`BUfCu@hEuBdIMpAAlAJ|AXzAf@vAx@xArCpDbGnGvChD`AtA|BjEdA|AdC`CtI~GnGhGjFxDrAnBlBvEhAvBhB~BrBjB~CrBlCfAjCx@jE|@rEj@pCd@fDz@bFbBhBX",
+"average_heartrate": 119.2,
+"average_speed": 7.867,
+"elevation_gain": 89.4,
+"source": "strava",
+"streak": 2
 }
 ]
