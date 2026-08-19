@@ -29038,5 +29038,53 @@
 "elevation_gain": 15.4,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19787603154,
+"name": "MyWhoosh - Sweet Spot 3x10min",
+"distance": 28753.5,
+"moving_time": "1:10:11",
+"type": "VirtualRide",
+"start_date": "2026-08-18 00:39:53+00:00",
+"start_date_local": "2026-08-18 08:39:53",
+"location_country": "Staubstrasse, Wollishofen, Kreis 2, \u8607\u9ece\u4e16, Bezirk Z\u00fcrich, \u8607\u9ece\u4e16\u5dde, 8038, \u745e\u58eb",
+"summary_polyline": "yo~_H}kas@InBHlAnAtFPrAB`NBRLFjHB|Gz@fCFtB[vG_DfCg@xw@EbHi@~A_@bAk@bAmAn@mB\\iDA}EQeCUoAo@yBmB}Ea@gBM}A@kGdAgLFgE[aD_BgIe@gDI}C\\cKMcCi@iBq@oA{@_AiAc@w^AeCXcAl@a@j@g@vBEpY?TKJ{YB_E\\}@^a@b@iHxLqEsG{@yCiBqJs@mAoAaA}CeAeLgAeCc@}@RuBdBW@}D_NYwBi@qIg@kCWQW\\_DtJk@x@eA~@_J`FmGnCkD~BuCz@sBbAgC`CwCN[a@uByLk@aCa@s@}CyAa@q@Gc@Fe@x@}B`@aBJoCCeAi@uAiC}B_@o@G]B{MQ{BcEkUcBuHmCcJuAkDgAyBsCaEqAiA_BcAoDgAeBKk@R[r@gAjFGdA?~Ck@hF[bAYT]C_@u@_CsPm@qA_BcB_OkM{F{FwA_AwA[gNWuAViMjEoAr@uC`CgAh@uFjBsGdDaF`BmK~A_JlCoEz@gY~BeMfB{BBgCg@q@s@iAIeIeEgAw@iF{E]w@AwAUkBkA{DsAcCsEgGgD}F[{@?o@v@k@|Da@rCJj@[Zo@BeAKy@mBaEm@oB[iCCsBRmCp@uDjAyEdAeCrAcB~@o@vJcEdG_DlAqAfEcGlA}@jBk@PQ@]gByIkHuRo@}Bk@yD[iGwAuKQq@i@}@}BgCk@{A@y@Pq@lEyIIu@kBmCAQrCyFlAcD?WqCwBuA_BwCsFuEiHoCeHwGyJ{@wAQs@?g@Rk@dD}DFg@s@iBWeASiB?cALWpA_Ad@q@x@wBTaAnAwLDgCKuAg@gBq@qAkK_OcBwAuHgEcCcCGi@RwAj@kAt@}@`A_@`@Fr@v@^DhBeArAAfBy@v@EnAVhCtAvGzAtL?p@[|@kCTYREp@XvAlBfALvCcAzEaDVg@`@aB\\c@tB_@jEeCzDmAhBwCXSz@DlAdA\\FxBMxAd@`BJlCa@hBXb@Mv@_AhAuBlAcBzDwDtA{@p@s@vBeDbCqFXGlFd@dBC~GiA^KX[VyAdAyP?m@a@qDFk@X[^Ap@t@hHpShHhGvA`Ex@HXZ`C|Hj@tDL`CK|@NfAAvBFpAj@`DdAxDn@~ClA~JIfANZLv@\\~N@nK\\zAtD~J\\|A@xFnAtIl@zNnAxJzAzGnC|HrAxH`@^fCG|@f@l@pAhAnDlCnD^pBDzC",
+"average_heartrate": 149.4,
+"average_speed": 6.828,
+"elevation_gain": 472.8,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 19794955707,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 2973.0,
+"moving_time": "0:31:53",
+"type": "Hike",
+"start_date": "2026-08-18 04:20:52+00:00",
+"start_date_local": "2026-08-18 12:20:52",
+"location_country": "\u6167\u5fe0\u8def, \u6167\u5fe0\u5bfa, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "qdbsFy{leUA`FNvGCLMHe@DiC?iALeA@gBF{BDcAEo@HCA?BaCE}@F[Ay@FgA?qAFwD?_DE[CKOCSAgAGsBMu@ASEqDB_EQyABaAAoDDi@AkCFs@Na@NGn@I`@Cr@?d@CPCRKRCdB@tDCfA@@GR?n@?p@FrBAzBFZCn@DrAAlDJjD@HEFMEWAY@m@EiAAyB",
+"average_heartrate": 98.4,
+"average_speed": 1.554,
+"elevation_gain": 8.6,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 19794955798,
+"name": "\u508d\u665a\u884c\u8d70",
+"distance": 2274.2,
+"moving_time": "0:22:50",
+"type": "Hike",
+"start_date": "2026-08-18 10:54:48+00:00",
+"start_date_local": "2026-08-18 18:54:48",
+"location_country": "\u5b89\u7acb\u8def\u8f85\u8def, \u6167\u5fe0\u5bfa, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100029, \u4e2d\u56fd",
+"summary_polyline": "eebsF_hmeUB~AVbABZGvFIj@AX@hBDvAAhA@p@FbAFNJBd@?|@Cj@?zFKx@GVK\\C`AM|@Eh@Bx@G~A?NCHGFM@i@M{EA{@Bo@E}DKgAESKSE[GQc@_@e@Ki@C]Ge@?m@KgABUCEMGi@S[Mc@OoAC_AESKSMISEaAEk@Gm@OM?a@H",
+"average_heartrate": 87.5,
+"average_speed": 1.66,
+"elevation_gain": 48.0,
+"source": "strava",
+"streak": 2
 }
 ]
