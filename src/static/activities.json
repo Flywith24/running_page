@@ -29230,5 +29230,37 @@
 "elevation_gain": 21.0,
 "source": "strava",
 "streak": 7
+},
+{
+"run_id": 19874589767,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3446.1,
+"moving_time": "0:41:18",
+"type": "Hike",
+"start_date": "2026-08-24 04:18:17+00:00",
+"start_date_local": "2026-08-24 12:18:17",
+"location_country": "\u6167\u5fe0\u8def, \u6167\u5fe0\u5bfa, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "ycbsFidmeUElDBpAJf@t@~AT|@R|ABrAGp@Qr@Uf@aAzAOn@KTI?KQg@cByAeGe@{A[sBOu@Se@S[_@[WE_@BIDADA`BHpBDJN~@Xn@V|@Nx@B\\Gp@Af@EPIJs@^c@Lc@Fw@@k@\\WFYB[IQKe@a@COe@Aq@BkCGw@JeB@qAB}AL}@Eq@?yAESEMEOMGKG_@?o@@]DW?KIk@Sy@Ce@@qBE_CB{@KaDB{@@_BBy@EgDBi@Ac@DM\\SRC`EALCRKZCn@Ol@C|ED@?AFJ@~@Cz@?x@EdBBj@AZDlAEjBLvBD\\Aj@B?CHI?BC@b@Nf@?VE`@K@A?MGAAEEk@@u@AaF",
+"average_heartrate": 83.3,
+"average_speed": 1.391,
+"elevation_gain": 50.8,
+"source": "strava",
+"streak": 8
+},
+{
+"run_id": 19876023948,
+"name": "\u5468\u4e00\u516d\u516c\u91cc",
+"distance": 6201.2,
+"moving_time": "0:36:05",
+"type": "Run",
+"start_date": "2026-08-24 10:10:35+00:00",
+"start_date_local": "2026-08-24 18:10:35",
+"location_country": "\u5a18\u5a18\u575f, \u5965\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100120, \u4e2d\u56fd",
+"summary_polyline": "ykbsFcrkeUWNIHOV_@d@]n@QRa@XmAh@}@t@{@d@YVCF?HJCj@a@n@o@jAq@NMpAyB`@m@\\]n@_@j@eAV[r@e@b@Qx@Uz@Ol@W\\In@Gn@BpA[t@GjBNfAPl@Ff@V~@x@VNfAd@bAj@`Ab@LBFCCCSEOKkAoAmAc@m@K}@c@aBg@eCUYAm@Fc@BgAPqAJk@Nm@Fa@XqA^yAt@ONm@~@w@z@[b@c@b@cAl@sCdCSJi@LGZ@\\LGRYl@g@d@i@VW^Sr@U|A{@n@kANQ^SNOp@iAj@o@Xi@^a@RO\\Oh@Of@QhCKpBSpAANB^LhAp@fAbAJFTBr@?L@n@\\jAh@fA\\JBFAGGo@KuAc@w@c@s@i@u@a@g@S]KoAMi@Ak@KeAF{@?YBUF{@`@SFu@Fk@Bs@Lc@P{@f@UPuAzAaA~@k@r@OLm@V]PuAzAy@l@i@VIJ?HFAf@YvAk@NMTa@NSRKh@Sd@Sl@w@l@c@b@o@Vc@XYd@s@\\_@h@]p@W^Yj@i@VKvAKfAPhCATBbA^`A@t@FTFf@b@LFx@NPFPLx@dA\\VLDR@JCBECGKGe@K{@Km@QWQs@w@gAm@yB_@_@Ke@S_@@i@GO?c@Ly@Xc@J[C{@MMF[X",
+"average_heartrate": 150.7,
+"average_speed": 2.864,
+"elevation_gain": 18.2,
+"source": "strava",
+"streak": 8
 }
 ]
