@@ -29262,5 +29262,53 @@
 "elevation_gain": 18.2,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 19886585335,
+"name": "MyWhoosh - Sweet Spot 3x12min",
+"distance": 26325.3,
+"moving_time": "0:51:52",
+"type": "VirtualRide",
+"start_date": "2026-08-25 00:47:39+00:00",
+"start_date_local": "2026-08-25 08:47:39",
+"location_country": "Conexi\u00f3n Vial Aburr\u00e1 - Oriente, Comuna 9 - Buenos Aires, \u9ea6\u5fb7\u6797, Medell\u00edn, Valle de Aburr\u00e1, Antioquia, RAP del Agua y la Monta\u00f1a, 050001, \u54e5\u4f26\u6bd4\u4e9a",
+"summary_polyline": "sc_e@lgclM@bGXx@p@NnQBdAd@Zn@Hj@QfAs@v@kARaC?]LQ\\A`COx@W\\_AV}@Kg@m@Ky@AmCW{@o@c@_@Ga@Ds@^a@t@GjA?hHH`@XV`CH`P@ta@Ml@c@Z_AAy@Um@w@e@qDOi@Qk@q@SyAJgAj@cAt@U~BKZSTk@@ef@Ei@MMuCMiCJQj@IvEWx@i@n@mB|@cK~CaE|AaCb@oBDoB]e@e@Qg@Ag@Ji@Ze@t@Y`EY~AYbHkCvEK|AQn@k@D_@G[c@]mAM_NBaAZyBrBm@PuKBw@Fa@PSp@CvE@|PBr@N\\`ARdQBf@L`@\\Vf@Hl@M~@u@|@qATaC@a@RKf@?nBIl@Wd@y@ZmAMc@k@Ky@AsCWu@a@]k@M}@Pg@`@Wz@EbIHx@XZ`CJhn@CjCEh@]Zm@Hm@Iy@Wc@iAc@yCGc@Og@i@WaA@qAb@oAnAe@xBKd@i@Hy@Cwe@GUg@MwDGy@D]TKpF]`Ao@p@mAj@kQ~F{Bf@kCHgB]s@}@AqAXk@j@]pGo@vHqCnGSr@Mp@o@?q@e@a@qAO_NB}@XsCbC}MJm@\\Mv@CdE@hQNbAz@XvQD~@d@Zp@Fl@]rAq@j@mDJq@JS\\KpDa@p@s@PcAIk@o@I_AAoCe@_Ae@Ya@EcAXc@f@O|@CpHJ`Af@XlBFx_@?pQGx@a@Xk@Hm@Iy@Ua@m@]wDOa@Mo@u@SaADoAf@mAz@[lCQ`@o@HkACud@Se@_FMgARI`@I|EUp@{@~@eNpEyEhBmARkCHiB]c@a@Uk@HqA`@g@l@W`Gi@dIuCbGOt@On@s@Gu@k@[eAK_M?qATkC~Bk@NoKByATUp@E~B?lSPvA~@XrQDfAp@Th@Dl@[jAo@j@aAPaC?c@PQ`@?nBM~@[d@y@R{@Gi@g@Ou@?uC]eAcAe@mARc@b@S`AAnIRr@`@NxSFb`@Gz@Ol@y@HoAc@eAiA_@}BCu@Mu@}@SkAJqAf@aAbA[rA?l@Mf@aA?if@Me@_DSeCJQ^AfDIhAWn@c@f@yAv@cK~CiE~AqCj@sBDuASe@Ua@o@CmARk@XUxA_@tCM~Bi@",
+"average_heartrate": 146.3,
+"average_speed": 8.459,
+"elevation_gain": 137.8,
+"source": "strava",
+"streak": 9
+},
+{
+"run_id": 19888011295,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 3389.9,
+"moving_time": "0:39:21",
+"type": "Hike",
+"start_date": "2026-08-25 04:16:05+00:00",
+"start_date_local": "2026-08-25 12:16:05",
+"location_country": "\u6167\u5fe0\u8def, \u6167\u5fe0\u5bfa, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "qdbsFssleUH|DG`@SRWJ_@HkCLyANw@Ti@JsABSHYT_@JW?UGMISW[WAEOAc@BYAk@Dg@C]BUCS?mAHi@AyAFcBMwBFmAGi@DYYEOCSKwDKeA?eCAkCCkAKmABcBGkCJ{@@eAF{BFUJITGhAE`BQ`CO~BDl@CxAJJCAB@Cn@?`AEl@DzBBfABpB?hA@tAO^Ab@Fv@PFAJGb@Bd@CZGGcA?aB@cA",
+"average_heartrate": 91.5,
+"average_speed": 1.436,
+"elevation_gain": 52.0,
+"source": "strava",
+"streak": 9
+},
+{
+"run_id": 19891002788,
+"name": "\u508d\u665a\u884c\u8d70",
+"distance": 3512.0,
+"moving_time": "0:42:39",
+"type": "Hike",
+"start_date": "2026-08-25 10:20:25+00:00",
+"start_date_local": "2026-08-25 18:20:25",
+"location_country": "\u6167\u5fe0\u8def, \u6167\u5fe0\u5bfa, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "cebsF{gmeU?rBGjBJtA@lAF|@BnEGdBHbADbAAd@Qx@C\\Ft@AhAHjDN~@VbANNL?v@W\\I`AMjAI|@AlAHxAV`Bd@`@TbBnAxBbAG?QEgAe@y@S]MQOk@m@mAc@KOGEeBGc@E[GU?aBFuBTu@TW@UF{C~ASRa@r@OR{@p@gAfAiBbBsAdAq@\\m@d@OHFKrB{AdA_AjCkB\\e@v@y@\\s@PWbBeAv@]NWTw@BIEESq@S[E[H{FPmABe@GyBKi@A}ACa@Bg@EGCe@Bo@EY@EA}@@GCODQAKBWASDOEO?OCIFM?I?IGOFg@CC@GEM@WEQFSIm@@OCO",
+"average_heartrate": 85.6,
+"average_speed": 1.372,
+"elevation_gain": 61.8,
+"source": "strava",
+"streak": 9
 }
 ]
