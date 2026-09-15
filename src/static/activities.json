@@ -29790,5 +29790,53 @@
 "elevation_gain": 177.0,
 "source": "strava",
 "streak": 7
+},
+{
+"run_id": 20166150351,
+"name": "\u5348\u95f4\u884c\u8d70",
+"distance": 2688.8,
+"moving_time": "0:30:23",
+"type": "Hike",
+"start_date": "2026-09-14 04:27:30+00:00",
+"start_date_local": "2026-09-14 12:27:30",
+"location_country": "\u6167\u5fe0\u8def, \u6167\u5fe0\u5bfa, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "gqbsFmjleUo@H_@CQDWBaCCOB?ACBACMEW?qBB]Bu@Aq@FSDi@AgABaAEe@@]A]@q@C]Dw@AgAEIEIIIU?gCEaAOg@@]EaCE_@F_A?cAFi@WcB@c@D_@@aACiAGgA@g@F[DuACi@@]NUJCb@BzAG^DVAPIPQNI^E\\B`A?fBJj@GlABBA?E@@@An@F`DAlADrAA~@BbBAzBNb@AXEZB@BA?HA?A@BVEtA?BABUABA_@Im@B]Cs@?}ABi@",
+"average_heartrate": 84.3,
+"average_speed": 1.475,
+"elevation_gain": 26.4,
+"source": "strava",
+"streak": 8
+},
+{
+"run_id": 20168700245,
+"name": "\u5468\u4e00\u516d\u516c\u91cc\u6709\u6c27",
+"distance": 5943.1,
+"moving_time": "0:37:53",
+"type": "Run",
+"start_date": "2026-09-14 10:09:50+00:00",
+"start_date_local": "2026-09-14 18:09:50",
+"location_country": "\u5a18\u5a18\u575f, \u5965\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100011, \u4e2d\u56fd",
+"summary_polyline": "gkbsFqrkeUk@v@aD|CkAn@gAv@[P_@VAF@@HAt@u@~CcCrAoAlAmAbBkB|@u@fAo@b@SpAe@x@UjAKjBGv@DnAP~@VnAf@~@f@ZVxAv@bBl@N@EIw@Aq@QaAe@uCiBm@Uo@MeBIeB@mBFyARmBh@y@b@a@Xa@\\o@t@i@`AoBzAgAnAwErCEFADF@BAZ]tAeAnD_DlAiA`AmAlAgAjAu@v@c@v@Ul@Wj@MfBM`AEbAB~AVl@PfAb@p@\\fBlAj@XrAb@VDAEGES@o@Im@QoCaBu@a@_A_@UGqAI}CIm@BaBN_Ct@wBrA[V_BnBsBnBq@z@OJiBz@_BfAGFADF@FCz@w@pDwC`C}BfBsBr@k@t@e@jAk@pAc@p@O`CS|ABvANbAZvAj@pDvBl@T~@V?GIEg@Ai@IQGq@]{@k@eCuA{@YsDAoAFmARaAJ{@P",
+"average_heartrate": 131.1,
+"average_speed": 2.615,
+"elevation_gain": 43.4,
+"source": "strava",
+"streak": 8
+},
+{
+"run_id": 20178739411,
+"name": "MyWhoosh - Easy Z2 Ride 40min",
+"distance": 18895.8,
+"moving_time": "0:40:13",
+"type": "VirtualRide",
+"start_date": "2026-09-15 00:38:09+00:00",
+"start_date_local": "2026-09-15 08:38:09",
+"location_country": "\u0623\u0628\u0648 \u0642\u0652\u0631\u064e\u064a\u0652\u0646, \u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0638\u0641\u0631\u0629, \u963f\u5e03\u624e\u6bd4\u914b\u957f\u56fd;\u963f\u5e03\u9054\u6bd4\u914b\u9577\u570b, \u963f\u62c9\u4f2f\u806f\u5408\u5927\u516c\u570b;\u963f\u62c9\u4f2f\u806f\u5408\u914b\u9577\u570b",
+"summary_polyline": "epamCelqmIuC|Fq@Ly@_@Iu@pBiHDaDLy@Tc@^[p@U`AGr@NdDdBTd@Ah@c@h@mBz@uAfAqAvBkB|Dq@Nq@SSe@?]fBcGNgADuCd@oAtAk@~AFrDlBNV@j@Ud@eClAkA~@qAvBcBvDa@Tw@C_@[Gy@lBuGLeEd@oAvAm@dAAXHvDnBNh@Ij@]\\iCnAu@n@cA~A_CzEs@Lq@WQy@nB{GH{@BkCRw@Za@lAe@rA@zDnBPVBl@Qd@wCvAw@n@eA`BwBtEe@Vk@Ci@g@Cm@lBwGNkEb@gAb@[v@StABrDlBRTBn@Sf@mCpAeAx@eAdB}BvEYJk@Cc@[K[@_@nBwGJ}Dd@uAb@Yv@StAB|DvBLz@Sf@cChAeAv@gAbB{BxEe@T]?o@_@Km@fBgGPmABoCd@sAzAm@vADrDjBPZBj@Uf@uB`AsA~@gAbB{BxEe@Rk@Ea@]Ik@lBwGLmA@_CT{@PW|Am@tAHrDjBRh@El@SVsB`AsA~@_AvAcCdFg@Pi@E_@_@Im@lBuGJ{@BoC\\iAn@e@h@MvA?`ErBNX?n@Wb@oCpAy@p@eAbB}BxEg@Ni@G_@_@Em@fBgGNmADmCT{@RW`Ac@tAEnExBNX?^]r@_ChAeAx@oArBiB~De@Ti@Ak@c@Eo@lBuGH}@BaC`@uAlAm@v@Gj@F`EtBLx@Qh@oCrAmAdAyDnH[Li@Ck@g@Cm@hBgGL}@BoCb@uAzAo@vABrDlBRVBl@Uf@aChAoAbA_BlCwAbDu@Tu@SUi@@_@nBuGJ_Ed@sAzAm@vADrDjBTf@Cn@QVoCpAy@n@wA|BiB~Du@Ru@USy@lBwGLmA@_CLk@Xe@b@[v@Qx@AnErBTf@Cl@[^iCnAw@n@eA~A}BzEs@Pq@UUg@@[nByGLcEd@qAn@]t@OnAJtDlBNf@Ej@OTsCrAu@l@}@rAkCnFe@Lg@Ee@i@Am@lBqGJiAAgBNy@Re@fAk@|AIjExBNV@j@Ub@{C|As@l@iAhBoBhEc@Ru@Ec@g@Ak@nB{GRyEPg@\\]vA_@lAHnDhBTb@Ah@a@j@wB`AgAz@iAfBwBpEc@PY?m@[Os@lByGLuA@qBNw@z@w@|@Ur@?rAd@|BnATp@Ih@QRkDfBgArA",
+"average_heartrate": 116.1,
+"average_speed": 7.831,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 9
 }
 ]
